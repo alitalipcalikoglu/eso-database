@@ -1,0 +1,2090 @@
+[
+  {
+    "id": "10-year-anniversary-ebon-leather",
+    "name": "10-Year Anniversary Ebon Leather",
+    "color": "rgb(38, 38, 38)",
+    "link": "https://eso-hub.com/en/dye/10-year-anniversary-ebon-leather",
+    "achievement": "Commemorative Activity Achiever",
+    "achievementLink": "https://eso-hub.com/en/achievements/commemorative-activity-achiever"
+  },
+  {
+    "id": "10-year-anniversary-gold-leaf",
+    "name": "10-Year Anniversary Gold Leaf",
+    "color": "rgb(153, 128, 61)",
+    "link": "https://eso-hub.com/en/dye/10-year-anniversary-gold-leaf",
+    "achievement": "Commemorative Safebox Looter",
+    "achievementLink": "https://eso-hub.com/en/achievements/commemorative-safebox-looter"
+  },
+  {
+    "id": "10-year-anniversary-ivory",
+    "name": "10-Year Anniversary Ivory",
+    "color": "rgb(230, 224, 207)",
+    "link": "https://eso-hub.com/en/dye/10-year-anniversary-ivory",
+    "achievement": "Commemorative Mundus Missionary",
+    "achievementLink": "https://eso-hub.com/en/achievements/commemorative-mundus-missionary"
+  },
+  {
+    "id": "abyssal-beryl",
+    "name": "Abyssal Beryl",
+    "color": "rgb(56, 153, 196)",
+    "link": "https://eso-hub.com/en/dye/abyssal-beryl",
+    "achievement": "Maw of Lorkhaj Completed",
+    "achievementLink": "https://eso-hub.com/en/achievements/maw-of-lorkhaj-completed"
+  },
+  {
+    "id": "adamantine-silver",
+    "name": "Adamantine Silver",
+    "color": "rgb(150, 173, 179)",
+    "link": "https://eso-hub.com/en/dye/adamantine-silver",
+    "achievement": "Dragonstar Arena Conqueror",
+    "achievementLink": "https://eso-hub.com/en/achievements/dragonstar-arena-conqueror"
+  },
+  {
+    "id": "adept-purple",
+    "name": "Adept Purple",
+    "color": "rgb(115, 79, 115)",
+    "link": "https://eso-hub.com/en/dye/adept-purple",
+    "achievement": "Level 30 Hero",
+    "achievementLink": "https://eso-hub.com/en/achievements/level-30-hero"
+  },
+  {
+    "id": "adventurer-brown",
+    "name": "Adventurer Brown",
+    "color": "rgb(115, 69, 51)",
+    "link": "https://eso-hub.com/en/dye/adventurer-brown",
+    "achievement": "Adventurer",
+    "achievementLink": "https://eso-hub.com/en/achievements/adventurer"
+  },
+  {
+    "id": "aetherial-blue",
+    "name": "Aetherial Blue",
+    "color": "rgb(89, 163, 179)",
+    "link": "https://eso-hub.com/en/dye/aetherial-blue",
+    "achievement": "Tamriel Skyshard Hunter",
+    "achievementLink": "https://eso-hub.com/en/achievements/tamriel-skyshard-hunter"
+  },
+  {
+    "id": "akatoshs-scales-gold",
+    "name": "Akatosh's Scales Gold",
+    "color": "rgb(191, 191, 125)",
+    "link": "https://eso-hub.com/en/dye/akatoshs-scales-gold",
+    "achievement": "Complete All Speed Challenges",
+    "achievementLink": "https://eso-hub.com/en/achievements/complete-all-speed-challenges"
+  },
+  {
+    "id": "alchemist-bilious",
+    "name": "Alchemist Bilious",
+    "color": "rgb(115, 110, 28)",
+    "link": "https://eso-hub.com/en/dye/alchemist-bilious",
+    "achievement": "Master Alchemist",
+    "achievementLink": "https://eso-hub.com/en/achievements/master-alchemist"
+  },
+  {
+    "id": "alikr-lapis",
+    "name": "Alik'r Lapis",
+    "color": "rgb(51, 77, 115)",
+    "link": "https://eso-hub.com/en/dye/alikr-lapis",
+    "achievement": "Consecrated Ground",
+    "achievementLink": "https://eso-hub.com/en/achievements/consecrated-ground"
+  },
+  {
+    "id": "amethyst-violet",
+    "name": "Amethyst Violet",
+    "color": "rgb(84, 79, 115)",
+    "link": "https://eso-hub.com/en/dye/amethyst-violet",
+    "achievement": "Learn a Trait",
+    "achievementLink": "https://eso-hub.com/en/achievements/learn-a-trait"
+  },
+  {
+    "id": "anequina-sunrise",
+    "name": "Anequina Sunrise",
+    "color": "rgb(255, 125, 13)",
+    "link": "https://eso-hub.com/en/dye/anequina-sunrise",
+    "achievement": "Savior of Elsweyr",
+    "achievementLink": "https://eso-hub.com/en/achievements/savior-of-elsweyr"
+  },
+  {
+    "id": "antique-brass",
+    "name": "Antique Brass",
+    "color": "rgb(186, 128, 46)",
+    "link": "https://eso-hub.com/en/dye/antique-brass",
+    "achievement": "The Sublime Protector",
+    "achievementLink": "https://eso-hub.com/en/achievements/the-sublime-protector"
+  },
+  {
+    "id": "antique-silver",
+    "name": "Antique Silver",
+    "color": "rgb(224, 219, 199)",
+    "link": "https://eso-hub.com/en/dye/antique-silver",
+    "achievement": "Master Jewelry Crafter",
+    "achievementLink": "https://eso-hub.com/en/achievements/master-jewelry-crafter"
+  },
+  {
+    "id": "apprentice-blue",
+    "name": "Apprentice Blue",
+    "color": "rgb(79, 99, 115)",
+    "link": "https://eso-hub.com/en/dye/apprentice-blue",
+    "achievement": "Level 20 Hero",
+    "achievementLink": "https://eso-hub.com/en/achievements/level-20-hero"
+  },
+  {
+    "id": "apricot-outrage",
+    "name": "Apricot Outrage",
+    "color": "rgb(117, 38, 10)",
+    "link": "https://eso-hub.com/en/dye/apricot-outrage",
+    "achievement": "Blackrose Prison Vanquisher",
+    "achievementLink": "https://eso-hub.com/en/achievements/blackrose-prison-vanquisher"
+  },
+  {
+    "id": "arc-master-moss",
+    "name": "Arc Master Moss",
+    "color": "rgb(89, 89, 15)",
+    "link": "https://eso-hub.com/en/dye/arc-master-moss",
+    "achievement": "Arcing Onward",
+    "achievementLink": "https://eso-hub.com/en/achievements/arcing-onward"
+  },
+  {
+    "id": "arcane-blue",
+    "name": "Arcane Blue",
+    "color": "rgb(31, 69, 89)",
+    "link": "https://eso-hub.com/en/dye/arcane-blue",
+    "achievement": "Mages Guild Skill Master",
+    "achievementLink": "https://eso-hub.com/en/achievements/mages-guild-skill-master"
+  },
+  {
+    "id": "artifact-hunter-amber",
+    "name": "Artifact-Hunter Amber",
+    "color": "rgb(51, 5, 8)",
+    "link": "https://eso-hub.com/en/dye/artifact-hunter-amber",
+    "achievement": "Retribution Takes Time",
+    "achievementLink": "https://eso-hub.com/en/achievements/retribution-takes-time"
+  },
+  {
+    "id": "ashabah-hood-gray",
+    "name": "Ash'abah Hood Gray",
+    "color": "rgb(140, 120, 112)",
+    "link": "https://eso-hub.com/en/dye/ashabah-hood-gray",
+    "achievement": "Alik'r Desert Master Explorer",
+    "achievementLink": "https://eso-hub.com/en/achievements/alikr-desert-master-explorer"
+  },
+  {
+    "id": "ashland-gray",
+    "name": "Ashland Gray",
+    "color": "rgb(153, 133, 122)",
+    "link": "https://eso-hub.com/en/dye/ashland-gray",
+    "achievement": "Hearts of Darkness",
+    "achievementLink": "https://eso-hub.com/en/achievements/hearts-of-darkness"
+  },
+  {
+    "id": "aspect-red",
+    "name": "Aspect Red",
+    "color": "rgb(153, 112, 107)",
+    "link": "https://eso-hub.com/en/dye/aspect-red",
+    "achievement": "Aspect",
+    "achievementLink": "https://eso-hub.com/en/achievements/aspect"
+  },
+  {
+    "id": "atmoran-bronze",
+    "name": "Atmoran Bronze",
+    "color": "rgb(115, 61, 33)",
+    "link": "https://eso-hub.com/en/dye/atmoran-bronze",
+    "achievement": "Ebonheart Master Explorer",
+    "achievementLink": "https://eso-hub.com/en/achievements/ebonheart-master-explorer"
+  },
+  {
+    "id": "aurora-green",
+    "name": "Aurora Green",
+    "color": "rgb(38, 153, 105)",
+    "link": "https://eso-hub.com/en/dye/aurora-green",
+    "achievement": "Time Trial: Aetherian Archive",
+    "achievementLink": "https://eso-hub.com/en/achievements/time-trial-aetherian-archive"
+  },
+  {
+    "id": "automaton-bronze",
+    "name": "Automaton Bronze",
+    "color": "rgb(77, 66, 54)",
+    "link": "https://eso-hub.com/en/dye/automaton-bronze",
+    "achievement": "Dwarven Construct Slayer",
+    "achievementLink": "https://eso-hub.com/en/achievements/dwarven-construct-slayer"
+  },
+  {
+    "id": "ayleid-gold",
+    "name": "Ayleid Gold",
+    "color": "rgb(89, 66, 31)",
+    "link": "https://eso-hub.com/en/dye/ayleid-gold",
+    "achievement": "Aldmeri Master Explorer",
+    "achievementLink": "https://eso-hub.com/en/achievements/aldmeri-master-explorer"
+  },
+  {
+    "id": "bandit-brown",
+    "name": "Bandit Brown",
+    "color": "rgb(115, 89, 79)",
+    "link": "https://eso-hub.com/en/dye/bandit-brown",
+    "achievement": "Humanoid Slayer",
+    "achievementLink": "https://eso-hub.com/en/achievements/humanoid-slayer"
+  },
+  {
+    "id": "battaglir-green",
+    "name": "Battaglir Green",
+    "color": "rgb(107, 153, 122)",
+    "link": "https://eso-hub.com/en/dye/battaglir-green",
+    "achievement": "Recipe Card",
+    "achievementLink": "https://eso-hub.com/en/achievements/recipe-card"
+  },
+  {
+    "id": "beast-collector-violet",
+    "name": "Beast Collector Violet",
+    "color": "rgb(69, 54, 77)",
+    "link": "https://eso-hub.com/en/dye/beast-collector-violet",
+    "achievement": "Tamriel Beast Collector",
+    "achievementLink": "https://eso-hub.com/en/achievements/tamriel-beast-collector"
+  },
+  {
+    "id": "bedlam-purple",
+    "name": "Bedlam Purple",
+    "color": "rgb(31, 20, 66)",
+    "link": "https://eso-hub.com/en/dye/bedlam-purple",
+    "achievement": "Cloudrest Conqueror",
+    "achievementLink": "https://eso-hub.com/en/achievements/cloudrest-conqueror"
+  },
+  {
+    "id": "birch-white",
+    "name": "Birch White",
+    "color": "rgb(191, 191, 191)",
+    "link": "https://eso-hub.com/en/dye/birch-white",
+    "achievement": "Expert of Refinement",
+    "achievementLink": "https://eso-hub.com/en/achievements/expert-of-refinement"
+  },
+  {
+    "id": "blackreach-blue",
+    "name": "Blackreach Blue",
+    "color": "rgb(28, 84, 181)",
+    "link": "https://eso-hub.com/en/dye/blackreach-blue",
+    "achievement": "Savior of Western Skyrim",
+    "achievementLink": "https://eso-hub.com/en/achievements/savior-of-western-skyrim"
+  },
+  {
+    "id": "blademasters-mauve",
+    "name": "Blademaster's Mauve",
+    "color": "rgb(102, 64, 140)",
+    "link": "https://eso-hub.com/en/dye/blademasters-mauve",
+    "achievement": "Maelstrom Arena Champion",
+    "achievementLink": "https://eso-hub.com/en/achievements/maelstrom-arena-champion"
+  },
+  {
+    "id": "blood-gold",
+    "name": "Blood Gold",
+    "color": "rgb(222, 163, 161)",
+    "link": "https://eso-hub.com/en/dye/blood-gold",
+    "achievement": "Queenmaker",
+    "achievementLink": "https://eso-hub.com/en/achievements/queenmaker"
+  },
+  {
+    "id": "bloodroot-wine",
+    "name": "Bloodroot Wine",
+    "color": "rgb(186, 46, 18)",
+    "link": "https://eso-hub.com/en/dye/bloodroot-wine",
+    "achievement": "Horns of the Reach Delver",
+    "achievementLink": "https://eso-hub.com/en/achievements/horns-of-the-reach-delver"
+  },
+  {
+    "id": "boethiah-gray",
+    "name": "Boethiah Gray",
+    "color": "rgb(102, 102, 102)",
+    "link": "https://eso-hub.com/en/dye/boethiah-gray",
+    "achievement": "Daedra Slayer",
+    "achievementLink": "https://eso-hub.com/en/achievements/daedra-slayer"
+  },
+  {
+    "id": "book-cover-brown",
+    "name": "Book Cover Brown",
+    "color": "rgb(115, 92, 79)",
+    "link": "https://eso-hub.com/en/dye/book-cover-brown",
+    "achievement": "Racial Style Learned",
+    "achievementLink": "https://eso-hub.com/en/achievements/racial-style-learned"
+  },
+  {
+    "id": "boss-butcher-brown",
+    "name": "Boss Butcher Brown",
+    "color": "rgb(77, 61, 54)",
+    "link": "https://eso-hub.com/en/dye/boss-butcher-brown",
+    "achievement": "Dungeon Lord",
+    "achievementLink": "https://eso-hub.com/en/achievements/dungeon-lord"
+  },
+  {
+    "id": "brewers-ale-brown",
+    "name": "Brewer's Ale Brown",
+    "color": "rgb(77, 33, 18)",
+    "link": "https://eso-hub.com/en/dye/brewers-ale-brown",
+    "achievement": "Master Chef",
+    "achievementLink": "https://eso-hub.com/en/achievements/master-chef"
+  },
+  {
+    "id": "brightfern-green",
+    "name": "Brightfern Green",
+    "color": "rgb(5, 79, 10)",
+    "link": "https://eso-hub.com/en/dye/brightfern-green",
+    "achievement": "Lost Depths Delver",
+    "achievementLink": "https://eso-hub.com/en/achievements/lost-depths-delver"
+  },
+  {
+    "id": "bugloss-blue",
+    "name": "Bugloss Blue",
+    "color": "rgb(79, 92, 115)",
+    "link": "https://eso-hub.com/en/dye/bugloss-blue",
+    "achievement": "Apprentice of Refinement",
+    "achievementLink": "https://eso-hub.com/en/achievements/apprentice-of-refinement"
+  },
+  {
+    "id": "captains-violet",
+    "name": "Captain's Violet",
+    "color": "rgb(77, 54, 54)",
+    "link": "https://eso-hub.com/en/dye/captains-violet",
+    "achievement": "Alliance War Captain",
+    "achievementLink": "https://eso-hub.com/en/achievements/alliance-war-captain"
+  },
+  {
+    "id": "cardsharp-crimson",
+    "name": "Cardsharp Crimson",
+    "color": "rgb(46, 3, 3)",
+    "link": "https://eso-hub.com/en/dye/cardsharp-crimson",
+    "achievement": "Roister's Club Master",
+    "achievementLink": "https://eso-hub.com/en/achievements/roisters-club-master"
+  },
+  {
+    "id": "celestial-violet",
+    "name": "Celestial Violet",
+    "color": "rgb(133, 112, 140)",
+    "link": "https://eso-hub.com/en/dye/celestial-violet",
+    "achievement": "Time Trial or Arena: Weekly",
+    "achievementLink": "https://eso-hub.com/en/achievements/time-trial-or-arena-weekly"
+  },
+  {
+    "id": "centurion-metal",
+    "name": "Centurion Metal",
+    "color": "rgb(153, 122, 107)",
+    "link": "https://eso-hub.com/en/dye/centurion-metal",
+    "achievement": "Alliance War Centurion",
+    "achievementLink": "https://eso-hub.com/en/achievements/alliance-war-centurion"
+  },
+  {
+    "id": "champion-red",
+    "name": "Champion Red",
+    "color": "rgb(115, 36, 28)",
+    "link": "https://eso-hub.com/en/dye/champion-red",
+    "achievement": "Fighters Guild Veteran",
+    "achievementLink": "https://eso-hub.com/en/achievements/fighters-guild-veteran"
+  },
+  {
+    "id": "chivalric-silver",
+    "name": "Chivalric Silver",
+    "color": "rgb(77, 87, 92)",
+    "link": "https://eso-hub.com/en/dye/chivalric-silver",
+    "achievement": "Savior of High Isle",
+    "achievementLink": "https://eso-hub.com/en/achievements/savior-of-high-isle"
+  },
+  {
+    "id": "clothier-purple",
+    "name": "Clothier Purple",
+    "color": "rgb(77, 18, 41)",
+    "link": "https://eso-hub.com/en/dye/clothier-purple",
+    "achievement": "Master Clothier",
+    "achievementLink": "https://eso-hub.com/en/achievements/master-clothier"
+  },
+  {
+    "id": "coldharbour-ash-black",
+    "name": "Coldharbour Ash Black",
+    "color": "rgb(38, 33, 31)",
+    "link": "https://eso-hub.com/en/dye/coldharbour-ash-black",
+    "achievement": "The God of Schemes",
+    "achievementLink": "https://eso-hub.com/en/achievements/the-god-of-schemes"
+  },
+  {
+    "id": "colossus-brass",
+    "name": "Colossus Brass",
+    "color": "rgb(166, 120, 59)",
+    "link": "https://eso-hub.com/en/dye/colossus-brass",
+    "achievement": "Halls of Fabrication Completed",
+    "achievementLink": "https://eso-hub.com/en/achievements/halls-of-fabrication-completed"
+  },
+  {
+    "id": "colovian-deep-brown",
+    "name": "Colovian Deep Brown",
+    "color": "rgb(77, 43, 23)",
+    "link": "https://eso-hub.com/en/dye/colovian-deep-brown",
+    "achievement": "Cyrodiil Cave Delver",
+    "achievementLink": "https://eso-hub.com/en/achievements/cyrodiil-cave-delver"
+  },
+  {
+    "id": "contraband-violet",
+    "name": "Contraband Violet",
+    "color": "rgb(89, 20, 143)",
+    "link": "https://eso-hub.com/en/dye/contraband-violet",
+    "achievement": "Black Market Mogul",
+    "achievementLink": "https://eso-hub.com/en/achievements/black-market-mogul"
+  },
+  {
+    "id": "corporals-green",
+    "name": "Corporal's Green",
+    "color": "rgb(77, 74, 54)",
+    "link": "https://eso-hub.com/en/dye/corporals-green",
+    "achievement": "Alliance War Corporal",
+    "achievementLink": "https://eso-hub.com/en/achievements/alliance-war-corporal"
+  },
+  {
+    "id": "covenant-blue",
+    "name": "Covenant Blue",
+    "color": "rgb(36, 46, 89)",
+    "link": "https://eso-hub.com/en/dye/covenant-blue",
+    "achievement": "Hero of the Daggerfall Covenant",
+    "achievementLink": "https://eso-hub.com/en/achievements/hero-of-the-daggerfall-covenant"
+  },
+  {
+    "id": "covenant-conqueror-blue",
+    "name": "Covenant Conqueror Blue",
+    "color": "rgb(18, 41, 77)",
+    "link": "https://eso-hub.com/en/dye/covenant-conqueror-blue",
+    "achievement": "Daggerfall Covenant Conqueror",
+    "achievementLink": "https://eso-hub.com/en/achievements/daggerfall-covenant-conqueror"
+  },
+  {
+    "id": "covenant-fisher-blue",
+    "name": "Covenant Fisher Blue",
+    "color": "rgb(66, 115, 191)",
+    "link": "https://eso-hub.com/en/dye/covenant-fisher-blue",
+    "achievement": "Covenant Fisherman",
+    "achievementLink": "https://eso-hub.com/en/achievements/covenant-fisherman"
+  },
+  {
+    "id": "covenant-vanquisher-violet",
+    "name": "Covenant Vanquisher Violet",
+    "color": "rgb(94, 51, 115)",
+    "link": "https://eso-hub.com/en/dye/covenant-vanquisher-violet",
+    "achievement": "Vanquisher of the Covenant",
+    "achievementLink": "https://eso-hub.com/en/achievements/vanquisher-of-the-covenant"
+  },
+  {
+    "id": "craftmaster-gold",
+    "name": "Craftmaster Gold",
+    "color": "rgb(115, 89, 51)",
+    "link": "https://eso-hub.com/en/dye/craftmaster-gold",
+    "achievement": "Master Deconstructor",
+    "achievementLink": "https://eso-hub.com/en/achievements/master-deconstructor"
+  },
+  {
+    "id": "craglorn-crimson",
+    "name": "Craglorn Crimson",
+    "color": "rgb(77, 18, 28)",
+    "link": "https://eso-hub.com/en/dye/craglorn-crimson",
+    "achievement": "Lower Craglorn Master Explorer",
+    "achievementLink": "https://eso-hub.com/en/achievements/lower-craglorn-master-explorer"
+  },
+  {
+    "id": "cyrodilic-steel",
+    "name": "Cyrodilic Steel",
+    "color": "rgb(74, 89, 97)",
+    "link": "https://eso-hub.com/en/dye/cyrodilic-steel",
+    "achievement": "Cyrodiil Champion",
+    "achievementLink": "https://eso-hub.com/en/achievements/cyrodiil-champion"
+  },
+  {
+    "id": "daedric-red",
+    "name": "Daedric Red",
+    "color": "rgb(51, 15, 15)",
+    "link": "https://eso-hub.com/en/dye/daedric-red",
+    "achievement": "General Executioner",
+    "achievementLink": "https://eso-hub.com/en/achievements/general-executioner"
+  },
+  {
+    "id": "darkstorm-emerald",
+    "name": "Darkstorm Emerald",
+    "color": "rgb(0, 97, 66)",
+    "link": "https://eso-hub.com/en/dye/darkstorm-emerald",
+    "achievement": "Savior of the Reach",
+    "achievementLink": "https://eso-hub.com/en/achievements/savior-of-the-reach"
+  },
+  {
+    "id": "deceit-orange",
+    "name": "Deceit Orange",
+    "color": "rgb(153, 92, 61)",
+    "link": "https://eso-hub.com/en/dye/deceit-orange",
+    "achievement": "Easy as Pie",
+    "achievementLink": "https://eso-hub.com/en/achievements/easy-as-pie"
+  },
+  {
+    "id": "dibellas-blush",
+    "name": "Dibella's Blush",
+    "color": "rgb(153, 69, 102)",
+    "link": "https://eso-hub.com/en/dye/dibellas-blush",
+    "achievement": "Greenshade Master Explorer",
+    "achievementLink": "https://eso-hub.com/en/achievements/greenshade-master-explorer"
+  },
+  {
+    "id": "divine-gold",
+    "name": "Divine Gold",
+    "color": "rgb(214, 176, 74)",
+    "link": "https://eso-hub.com/en/dye/divine-gold",
+    "achievement": "Legendary Jewelry Crafter",
+    "achievementLink": "https://eso-hub.com/en/achievements/legendary-jewelry-crafter"
+  },
+  {
+    "id": "dolmen-deep-blue",
+    "name": "Dolmen Deep Blue",
+    "color": "rgb(56, 54, 77)",
+    "link": "https://eso-hub.com/en/dye/dolmen-deep-blue",
+    "achievement": "Anchor Destroyer",
+    "achievementLink": "https://eso-hub.com/en/achievements/anchor-destroyer"
+  },
+  {
+    "id": "dominion-conqueror-yellow",
+    "name": "Dominion Conqueror Yellow",
+    "color": "rgb(77, 71, 18)",
+    "link": "https://eso-hub.com/en/dye/dominion-conqueror-yellow",
+    "achievement": "Aldmeri Dominion Conqueror",
+    "achievementLink": "https://eso-hub.com/en/achievements/aldmeri-dominion-conqueror"
+  },
+  {
+    "id": "dominion-fisher-yellow",
+    "name": "Dominion Fisher Yellow",
+    "color": "rgb(191, 181, 48)",
+    "link": "https://eso-hub.com/en/dye/dominion-fisher-yellow",
+    "achievement": "Dominion Fisherman",
+    "achievementLink": "https://eso-hub.com/en/achievements/dominion-fisherman"
+  },
+  {
+    "id": "dominion-vanquisher-green",
+    "name": "Dominion Vanquisher Green",
+    "color": "rgb(51, 115, 79)",
+    "link": "https://eso-hub.com/en/dye/dominion-vanquisher-green",
+    "achievement": "Vanquisher of the Dominion",
+    "achievementLink": "https://eso-hub.com/en/achievements/vanquisher-of-the-dominion"
+  },
+  {
+    "id": "dominion-yellow",
+    "name": "Dominion Yellow",
+    "color": "rgb(140, 97, 41)",
+    "link": "https://eso-hub.com/en/dye/dominion-yellow",
+    "achievement": "Hero of the Aldmeri Dominion",
+    "achievementLink": "https://eso-hub.com/en/achievements/hero-of-the-aldmeri-dominion"
+  },
+  {
+    "id": "doomcrag-verdigris",
+    "name": "Doomcrag Verdigris",
+    "color": "rgb(51, 115, 110)",
+    "link": "https://eso-hub.com/en/dye/doomcrag-verdigris",
+    "achievement": "Curse Breaker",
+    "achievementLink": "https://eso-hub.com/en/achievements/curse-breaker"
+  },
+  {
+    "id": "dragonknights-blood",
+    "name": "Dragonknights' Blood",
+    "color": "rgb(77, 56, 54)",
+    "link": "https://eso-hub.com/en/dye/dragonknights-blood",
+    "achievement": "Grand Dragonknight Slayer",
+    "achievementLink": "https://eso-hub.com/en/achievements/grand-dragonknight-slayer"
+  },
+  {
+    "id": "dragonstar-red",
+    "name": "Dragonstar Red",
+    "color": "rgb(128, 38, 54)",
+    "link": "https://eso-hub.com/en/dye/dragonstar-red",
+    "achievement": "Time Trial: Hel Ra Citadel",
+    "achievementLink": "https://eso-hub.com/en/achievements/time-trial-hel-ra-citadel"
+  },
+  {
+    "id": "dragonthorn-yellow",
+    "name": "Dragonthorn Yellow",
+    "color": "rgb(153, 150, 107)",
+    "link": "https://eso-hub.com/en/dye/dragonthorn-yellow",
+    "achievement": "Apprentice Crafting Harvester",
+    "achievementLink": "https://eso-hub.com/en/achievements/apprentice-crafting-harvester"
+  },
+  {
+    "id": "dried-blood-brown",
+    "name": "Dried Blood Brown",
+    "color": "rgb(153, 125, 107)",
+    "link": "https://eso-hub.com/en/dye/dried-blood-brown",
+    "achievement": "Recruit of the Undaunted",
+    "achievementLink": "https://eso-hub.com/en/achievements/recruit-of-the-undaunted"
+  },
+  {
+    "id": "drowned-cobalt",
+    "name": "Drowned Cobalt",
+    "color": "rgb(3, 46, 5)",
+    "link": "https://eso-hub.com/en/dye/drowned-cobalt",
+    "achievement": "Ascending Tide Delver",
+    "achievementLink": "https://eso-hub.com/en/achievements/ascending-tide-delver"
+  },
+  {
+    "id": "dungeon-victor-turquoise",
+    "name": "Dungeon Victor Turquoise",
+    "color": "rgb(71, 102, 99)",
+    "link": "https://eso-hub.com/en/dye/dungeon-victor-turquoise",
+    "achievement": "Dungeon Annihilator",
+    "achievementLink": "https://eso-hub.com/en/achievements/dungeon-annihilator"
+  },
+  {
+    "id": "dusky-bronze",
+    "name": "Dusky Bronze",
+    "color": "rgb(94, 61, 41)",
+    "link": "https://eso-hub.com/en/dye/dusky-bronze",
+    "achievement": "Horror of Horrors",
+    "achievementLink": "https://eso-hub.com/en/achievements/horror-of-horrors"
+  },
+  {
+    "id": "dwarven-brass",
+    "name": "Dwarven Brass",
+    "color": "rgb(82, 51, 26)",
+    "link": "https://eso-hub.com/en/dye/dwarven-brass",
+    "achievement": "Dwemer Style Master",
+    "achievementLink": "https://eso-hub.com/en/achievements/dwemer-style-master"
+  },
+  {
+    "id": "earthforge-iron-gray",
+    "name": "Earthforge Iron Gray",
+    "color": "rgb(105, 135, 140)",
+    "link": "https://eso-hub.com/en/dye/earthforge-iron-gray",
+    "achievement": "Legendary Blacksmith",
+    "achievementLink": "https://eso-hub.com/en/achievements/legendary-blacksmith"
+  },
+  {
+    "id": "elemental-white",
+    "name": "Elemental White",
+    "color": "rgb(191, 176, 171)",
+    "link": "https://eso-hub.com/en/dye/elemental-white",
+    "achievement": "Atronach Element Collector",
+    "achievementLink": "https://eso-hub.com/en/achievements/atronach-element-collector"
+  },
+  {
+    "id": "enchanter-tangerine",
+    "name": "Enchanter Tangerine",
+    "color": "rgb(115, 61, 36)",
+    "link": "https://eso-hub.com/en/dye/enchanter-tangerine",
+    "achievement": "Master Enchanter",
+    "achievementLink": "https://eso-hub.com/en/achievements/master-enchanter"
+  },
+  {
+    "id": "entoloma-blue",
+    "name": "Entoloma Blue",
+    "color": "rgb(84, 153, 148)",
+    "link": "https://eso-hub.com/en/dye/entoloma-blue",
+    "achievement": "Truly Legendary",
+    "achievementLink": "https://eso-hub.com/en/achievements/truly-legendary"
+  },
+  {
+    "id": "epic-violet",
+    "name": "Epic Violet",
+    "color": "rgb(59, 28, 48)",
+    "link": "https://eso-hub.com/en/dye/epic-violet",
+    "achievement": "Epic Attire",
+    "achievementLink": "https://eso-hub.com/en/achievements/epic-attire"
+  },
+  {
+    "id": "essence-green",
+    "name": "Essence Green",
+    "color": "rgb(163, 191, 135)",
+    "link": "https://eso-hub.com/en/dye/essence-green",
+    "achievement": "Essence",
+    "achievementLink": "https://eso-hub.com/en/achievements/essence"
+  },
+  {
+    "id": "evermore-gold",
+    "name": "Evermore Gold",
+    "color": "rgb(191, 150, 97)",
+    "link": "https://eso-hub.com/en/dye/evermore-gold",
+    "achievement": "End of Empire",
+    "achievementLink": "https://eso-hub.com/en/achievements/end-of-empire"
+  },
+  {
+    "id": "exiled-goldenrod",
+    "name": "Exiled Goldenrod",
+    "color": "rgb(230, 186, 135)",
+    "link": "https://eso-hub.com/en/dye/exiled-goldenrod",
+    "achievement": "Fallen Banners Scout",
+    "achievementLink": "https://eso-hub.com/en/achievements/fallen-banners-scout"
+  },
+  {
+    "id": "expert-gray",
+    "name": "Expert Gray",
+    "color": "rgb(161, 176, 179)",
+    "link": "https://eso-hub.com/en/dye/expert-gray",
+    "achievement": "Level 40 Hero",
+    "achievementLink": "https://eso-hub.com/en/achievements/level-40-hero"
+  },
+  {
+    "id": "explorer-green",
+    "name": "Explorer Green",
+    "color": "rgb(143, 191, 158)",
+    "link": "https://eso-hub.com/en/dye/explorer-green",
+    "achievement": "Explorer",
+    "achievementLink": "https://eso-hub.com/en/achievements/explorer"
+  },
+  {
+    "id": "eyevea-blue",
+    "name": "Eyevea Blue",
+    "color": "rgb(28, 92, 115)",
+    "link": "https://eso-hub.com/en/dye/eyevea-blue",
+    "achievement": "Arch-Mage",
+    "achievementLink": "https://eso-hub.com/en/achievements/arch-mage"
+  },
+  {
+    "id": "faded-dwemer-scholar-red",
+    "name": "Faded Dwemer Scholar Red",
+    "color": "rgb(191, 130, 125)",
+    "link": "https://eso-hub.com/en/dye/faded-dwemer-scholar-red",
+    "achievement": "Dwarven Secrets Gatherer",
+    "achievementLink": "https://eso-hub.com/en/achievements/dwarven-secrets-gatherer"
+  },
+  {
+    "id": "falinesti-green",
+    "name": "Falinesti Green",
+    "color": "rgb(28, 115, 56)",
+    "link": "https://eso-hub.com/en/dye/falinesti-green",
+    "achievement": "Matchmaker",
+    "achievementLink": "https://eso-hub.com/en/achievements/matchmaker"
+  },
+  {
+    "id": "fighters-guild-red",
+    "name": "Fighters Guild Red",
+    "color": "rgb(115, 84, 79)",
+    "link": "https://eso-hub.com/en/dye/fighters-guild-red",
+    "achievement": "Associate of the Fighters Guild",
+    "achievementLink": "https://eso-hub.com/en/achievements/associate-of-the-fighters-guild"
+  },
+  {
+    "id": "fire-drakes-flame",
+    "name": "Fire Drake's Flame",
+    "color": "rgb(148, 23, 23)",
+    "link": "https://eso-hub.com/en/dye/fire-drakes-flame",
+    "achievement": "Pit Hero",
+    "achievementLink": "https://eso-hub.com/en/achievements/pit-hero"
+  },
+  {
+    "id": "flame-knight-light-red",
+    "name": "Flame-Knight Light Red",
+    "color": "rgb(153, 77, 69)",
+    "link": "https://eso-hub.com/en/dye/flame-knight-light-red",
+    "achievement": "Stormhaven Master Explorer",
+    "achievementLink": "https://eso-hub.com/en/achievements/stormhaven-master-explorer"
+  },
+  {
+    "id": "forest-footpad-green",
+    "name": "Forest Footpad Green",
+    "color": "rgb(97, 130, 66)",
+    "link": "https://eso-hub.com/en/dye/forest-footpad-green",
+    "achievement": "Sneak Thief Extraordinaire",
+    "achievementLink": "https://eso-hub.com/en/achievements/sneak-thief-extraordinaire"
+  },
+  {
+    "id": "forge-ember-red",
+    "name": "Forge Ember Red",
+    "color": "rgb(191, 125, 125)",
+    "link": "https://eso-hub.com/en/dye/forge-ember-red",
+    "achievement": "Apprentice Deconstructor",
+    "achievementLink": "https://eso-hub.com/en/achievements/apprentice-deconstructor"
+  },
+  {
+    "id": "frozen-blood",
+    "name": "Frozen Blood",
+    "color": "rgb(48, 5, 3)",
+    "link": "https://eso-hub.com/en/dye/frozen-blood",
+    "achievement": "Harrowstorm Delver",
+    "achievementLink": "https://eso-hub.com/en/achievements/harrowstorm-delver"
+  },
+  {
+    "id": "gangrene-green",
+    "name": "Gangrene Green",
+    "color": "rgb(64, 77, 54)",
+    "link": "https://eso-hub.com/en/dye/gangrene-green",
+    "achievement": "Undead Hoarder",
+    "achievementLink": "https://eso-hub.com/en/achievements/undead-hoarder"
+  },
+  {
+    "id": "generals-gold",
+    "name": "General's Gold",
+    "color": "rgb(128, 61, 33)",
+    "link": "https://eso-hub.com/en/dye/generals-gold",
+    "achievement": "Alliance War General",
+    "achievementLink": "https://eso-hub.com/en/achievements/alliance-war-general"
+  },
+  {
+    "id": "glacial-topaz",
+    "name": "Glacial Topaz",
+    "color": "rgb(117, 82, 23)",
+    "link": "https://eso-hub.com/en/dye/glacial-topaz",
+    "achievement": "Wrathstone Delver",
+    "achievementLink": "https://eso-hub.com/en/achievements/wrathstone-delver"
+  },
+  {
+    "id": "glenbridge-green",
+    "name": "Glenbridge Green",
+    "color": "rgb(102, 153, 92)",
+    "link": "https://eso-hub.com/en/dye/glenbridge-green",
+    "achievement": "Rockgrove Vanquisher",
+    "achievementLink": "https://eso-hub.com/en/achievements/rockgrove-vanquisher"
+  },
+  {
+    "id": "graht-bark-brown",
+    "name": "Graht-Bark Brown",
+    "color": "rgb(89, 56, 36)",
+    "link": "https://eso-hub.com/en/dye/graht-bark-brown",
+    "achievement": "Grahtwood Master Explorer",
+    "achievementLink": "https://eso-hub.com/en/achievements/grahtwood-master-explorer"
+  },
+  {
+    "id": "grand-overlords-brass",
+    "name": "Grand Overlord's Brass",
+    "color": "rgb(153, 112, 61)",
+    "link": "https://eso-hub.com/en/dye/grand-overlords-brass",
+    "achievement": "Alliance War Grand Overlord",
+    "achievementLink": "https://eso-hub.com/en/achievements/alliance-war-grand-overlord"
+  },
+  {
+    "id": "grand-warlords-violet",
+    "name": "Grand Warlord's Violet",
+    "color": "rgb(36, 36, 71)",
+    "link": "https://eso-hub.com/en/dye/grand-warlords-violet",
+    "achievement": "Alliance War Grand Warlord",
+    "achievementLink": "https://eso-hub.com/en/achievements/alliance-war-grand-warlord"
+  },
+  {
+    "id": "guardian-blue",
+    "name": "Guardian Blue",
+    "color": "rgb(54, 66, 77)",
+    "link": "https://eso-hub.com/en/dye/guardian-blue",
+    "achievement": "Greater Dungeon Blocker",
+    "achievementLink": "https://eso-hub.com/en/achievements/greater-dungeon-blocker"
+  },
+  {
+    "id": "haunted-moor-mauve",
+    "name": "Haunted Moor Mauve",
+    "color": "rgb(156, 87, 191)",
+    "link": "https://eso-hub.com/en/dye/haunted-moor-mauve",
+    "achievement": "Rivenspire Master Explorer",
+    "achievementLink": "https://eso-hub.com/en/achievements/rivenspire-master-explorer"
+  },
+  {
+    "id": "hazardous-chartreuse",
+    "name": "Hazardous Chartreuse",
+    "color": "rgb(201, 242, 122)",
+    "link": "https://eso-hub.com/en/dye/hazardous-chartreuse",
+    "achievement": "Stonethorn Delver",
+    "achievementLink": "https://eso-hub.com/en/achievements/stonethorn-delver"
+  },
+  {
+    "id": "heartlands-umber",
+    "name": "Heartlands Umber",
+    "color": "rgb(153, 117, 107)",
+    "link": "https://eso-hub.com/en/dye/heartlands-umber",
+    "achievement": "Support the Fight",
+    "achievementLink": "https://eso-hub.com/en/achievements/support-the-fight"
+  },
+  {
+    "id": "hist-green",
+    "name": "Hist Green",
+    "color": "rgb(94, 153, 38)",
+    "link": "https://eso-hub.com/en/dye/hist-green",
+    "achievement": "Egg and Root",
+    "achievementLink": "https://eso-hub.com/en/achievements/egg-and-root"
+  },
+  {
+    "id": "hlaalu-gold",
+    "name": "Hlaalu Gold",
+    "color": "rgb(153, 120, 77)",
+    "link": "https://eso-hub.com/en/dye/hlaalu-gold",
+    "achievement": "Plague Eater",
+    "achievementLink": "https://eso-hub.com/en/achievements/plague-eater"
+  },
+  {
+    "id": "hollowfang-cruor",
+    "name": "Hollowfang Cruor",
+    "color": "rgb(48, 5, 3)",
+    "link": "https://eso-hub.com/en/dye/hollowfang-cruor",
+    "achievement": "Scalebreaker Delver",
+    "achievementLink": "https://eso-hub.com/en/achievements/scalebreaker-delver"
+  },
+  {
+    "id": "hunding-gold",
+    "name": "Hunding Gold",
+    "color": "rgb(77, 59, 33)",
+    "link": "https://eso-hub.com/en/dye/hunding-gold",
+    "achievement": "Stros M'kai and Betnikh Explorer",
+    "achievementLink": "https://eso-hub.com/en/achievements/stros-mkai-and-betnikh-explorer"
+  },
+  {
+    "id": "hunter-green",
+    "name": "Hunter Green",
+    "color": "rgb(54, 77, 61)",
+    "link": "https://eso-hub.com/en/dye/hunter-green",
+    "achievement": "Nature Slayer",
+    "achievementLink": "https://eso-hub.com/en/achievements/nature-slayer"
+  },
+  {
+    "id": "hyacinth-pink",
+    "name": "Hyacinth Pink",
+    "color": "rgb(191, 135, 158)",
+    "link": "https://eso-hub.com/en/dye/hyacinth-pink",
+    "achievement": "Journeyman Crafting Harvester",
+    "achievementLink": "https://eso-hub.com/en/achievements/journeyman-crafting-harvester"
+  },
+  {
+    "id": "indomitable-violet",
+    "name": "Indomitable Violet",
+    "color": "rgb(89, 71, 89)",
+    "link": "https://eso-hub.com/en/dye/indomitable-violet",
+    "achievement": "Indomitable Adventurer",
+    "achievementLink": "https://eso-hub.com/en/achievements/indomitable-adventurer"
+  },
+  {
+    "id": "indoril-blue",
+    "name": "Indoril Blue",
+    "color": "rgb(28, 61, 115)",
+    "link": "https://eso-hub.com/en/dye/indoril-blue",
+    "achievement": "Deshaan Master Explorer",
+    "achievementLink": "https://eso-hub.com/en/achievements/deshaan-master-explorer"
+  },
+  {
+    "id": "ironweed-violet",
+    "name": "Ironweed Violet",
+    "color": "rgb(179, 97, 176)",
+    "link": "https://eso-hub.com/en/dye/ironweed-violet",
+    "achievement": "Legendary Clothier",
+    "achievementLink": "https://eso-hub.com/en/achievements/legendary-clothier"
+  },
+  {
+    "id": "jode-red",
+    "name": "Jode Red",
+    "color": "rgb(115, 28, 41)",
+    "link": "https://eso-hub.com/en/dye/jode-red",
+    "achievement": "Reaper's March Master Explorer",
+    "achievementLink": "https://eso-hub.com/en/achievements/reapers-march-master-explorer"
+  },
+  {
+    "id": "julianos-white",
+    "name": "Julianos White",
+    "color": "rgb(217, 217, 217)",
+    "link": "https://eso-hub.com/en/dye/julianos-white",
+    "achievement": "Aetherian Archive Completed",
+    "achievementLink": "https://eso-hub.com/en/achievements/aetherian-archive-completed"
+  },
+  {
+    "id": "jute-green",
+    "name": "Jute Green",
+    "color": "rgb(79, 115, 94)",
+    "link": "https://eso-hub.com/en/dye/jute-green",
+    "achievement": "Expert Crafting Harvester",
+    "achievementLink": "https://eso-hub.com/en/achievements/expert-crafting-harvester"
+  },
+  {
+    "id": "khenarthi-red",
+    "name": "Khenarthi Red",
+    "color": "rgb(115, 51, 51)",
+    "link": "https://eso-hub.com/en/dye/khenarthi-red",
+    "achievement": "Khenarthi's Roost Pathfinder",
+    "achievementLink": "https://eso-hub.com/en/achievements/khenarthis-roost-pathfinder"
+  },
+  {
+    "id": "king-orgnums-wine",
+    "name": "King Orgnum's Wine",
+    "color": "rgb(107, 56, 105)",
+    "link": "https://eso-hub.com/en/dye/king-orgnums-wine",
+    "achievement": "Savior of Galen",
+    "achievementLink": "https://eso-hub.com/en/achievements/savior-of-galen"
+  },
+  {
+    "id": "kresh-flower-red",
+    "name": "Kresh Flower Red",
+    "color": "rgb(153, 64, 54)",
+    "link": "https://eso-hub.com/en/dye/kresh-flower-red",
+    "achievement": "Grand Master Crafting Harvester",
+    "achievementLink": "https://eso-hub.com/en/achievements/grand-master-crafting-harvester"
+  },
+  {
+    "id": "lamaes-white",
+    "name": "Lamae's White",
+    "color": "rgb(191, 191, 191)",
+    "link": "https://eso-hub.com/en/dye/lamaes-white",
+    "achievement": "Vampirism Master",
+    "achievementLink": "https://eso-hub.com/en/achievements/vampirism-master"
+  },
+  {
+    "id": "legates-black",
+    "name": "Legate's Black",
+    "color": "rgb(23, 26, 26)",
+    "link": "https://eso-hub.com/en/dye/legates-black",
+    "achievement": "Alliance War Legate",
+    "achievementLink": "https://eso-hub.com/en/achievements/alliance-war-legate"
+  },
+  {
+    "id": "legionarys-lead",
+    "name": "Legionary's Lead",
+    "color": "rgb(179, 166, 161)",
+    "link": "https://eso-hub.com/en/dye/legionarys-lead",
+    "achievement": "Alliance War Legionary",
+    "achievementLink": "https://eso-hub.com/en/achievements/alliance-war-legionary"
+  },
+  {
+    "id": "liars-linen",
+    "name": "Liar's Linen",
+    "color": "rgb(179, 166, 161)",
+    "link": "https://eso-hub.com/en/dye/liars-linen",
+    "achievement": "I Like M'aiq",
+    "achievementLink": "https://eso-hub.com/en/achievements/i-like-maiq"
+  },
+  {
+    "id": "lucentshard-azure",
+    "name": "Lucentshard Azure",
+    "color": "rgb(18, 158, 145)",
+    "link": "https://eso-hub.com/en/dye/lucentshard-azure",
+    "achievement": "Lucent Citadel Vanquisher",
+    "achievementLink": "https://eso-hub.com/en/achievements/lucent-citadel-vanquisher"
+  },
+  {
+    "id": "lycanthrope-gray",
+    "name": "Lycanthrope Gray",
+    "color": "rgb(128, 128, 128)",
+    "link": "https://eso-hub.com/en/dye/lycanthrope-gray",
+    "achievement": "Lycanthropy Master",
+    "achievementLink": "https://eso-hub.com/en/achievements/lycanthropy-master"
+  },
+  {
+    "id": "mages-guild-blue",
+    "name": "Mages Guild Blue",
+    "color": "rgb(79, 105, 115)",
+    "link": "https://eso-hub.com/en/dye/mages-guild-blue",
+    "achievement": "Student of the Mages Guild",
+    "achievementLink": "https://eso-hub.com/en/achievements/student-of-the-mages-guild"
+  },
+  {
+    "id": "magnus-setting-red",
+    "name": "Magnus Setting Red",
+    "color": "rgb(125, 31, 26)",
+    "link": "https://eso-hub.com/en/dye/magnus-setting-red",
+    "achievement": "White-Gold Tower Conqueror",
+    "achievementLink": "https://eso-hub.com/en/achievements/white-gold-tower-conqueror"
+  },
+  {
+    "id": "mammoth-fur-brown",
+    "name": "Mammoth Fur Brown",
+    "color": "rgb(204, 135, 92)",
+    "link": "https://eso-hub.com/en/dye/mammoth-fur-brown",
+    "achievement": "The Rift Master Explorer",
+    "achievementLink": "https://eso-hub.com/en/achievements/the-rift-master-explorer"
+  },
+  {
+    "id": "maormer-eyes-gray",
+    "name": "Maormer-Eyes Gray",
+    "color": "rgb(36, 41, 43)",
+    "link": "https://eso-hub.com/en/dye/maormer-eyes-gray",
+    "achievement": "Auridon Master Explorer",
+    "achievementLink": "https://eso-hub.com/en/achievements/auridon-master-explorer"
+  },
+  {
+    "id": "marble-white",
+    "name": "Marble White",
+    "color": "rgb(250, 242, 255)",
+    "link": "https://eso-hub.com/en/dye/marble-white",
+    "achievement": "Excavation Virtuoso",
+    "achievementLink": "https://eso-hub.com/en/achievements/excavation-virtuoso"
+  },
+  {
+    "id": "marshnettle-titian",
+    "name": "Marshnettle Titian",
+    "color": "rgb(222, 89, 23)",
+    "link": "https://eso-hub.com/en/dye/marshnettle-titian",
+    "achievement": "Savior of Blackwood",
+    "achievementLink": "https://eso-hub.com/en/achievements/savior-of-blackwood"
+  },
+  {
+    "id": "master-adventurer-purple",
+    "name": "Master Adventurer Purple",
+    "color": "rgb(115, 51, 77)",
+    "link": "https://eso-hub.com/en/dye/master-adventurer-purple",
+    "achievement": "Master Adventurer",
+    "achievementLink": "https://eso-hub.com/en/achievements/master-adventurer"
+  },
+  {
+    "id": "master-gold",
+    "name": "Master Gold",
+    "color": "rgb(191, 166, 135)",
+    "link": "https://eso-hub.com/en/dye/master-gold",
+    "achievement": "Level 50 Hero",
+    "achievementLink": "https://eso-hub.com/en/achievements/level-50-hero"
+  },
+  {
+    "id": "mastic-yellow",
+    "name": "Mastic Yellow",
+    "color": "rgb(204, 156, 92)",
+    "link": "https://eso-hub.com/en/dye/mastic-yellow",
+    "achievement": "Legendary Woodworker",
+    "achievementLink": "https://eso-hub.com/en/achievements/legendary-woodworker"
+  },
+  {
+    "id": "moonshadow-orchid",
+    "name": "Moonshadow Orchid",
+    "color": "rgb(173, 158, 186)",
+    "link": "https://eso-hub.com/en/dye/moonshadow-orchid",
+    "achievement": "Waking Flame Delver",
+    "achievementLink": "https://eso-hub.com/en/achievements/waking-flame-delver"
+  },
+  {
+    "id": "moonstone-white",
+    "name": "Moonstone White",
+    "color": "rgb(173, 199, 204)",
+    "link": "https://eso-hub.com/en/dye/moonstone-white",
+    "achievement": "Trait Master",
+    "achievementLink": "https://eso-hub.com/en/achievements/trait-master"
+  },
+  {
+    "id": "moras-mauve",
+    "name": "Mora's Mauve",
+    "color": "rgb(92, 199, 13)",
+    "link": "https://eso-hub.com/en/dye/moras-mauve",
+    "achievement": "Grand Arcanist Slayer",
+    "achievementLink": "https://eso-hub.com/en/achievements/grand-arcanist-slayer"
+  },
+  {
+    "id": "mort-flesh-white",
+    "name": "Mort Flesh White",
+    "color": "rgb(171, 189, 191)",
+    "link": "https://eso-hub.com/en/dye/mort-flesh-white",
+    "achievement": "Undead Slayer",
+    "achievementLink": "https://eso-hub.com/en/achievements/undead-slayer"
+  },
+  {
+    "id": "motif-master-brown",
+    "name": "Motif Master Brown",
+    "color": "rgb(59, 38, 20)",
+    "link": "https://eso-hub.com/en/dye/motif-master-brown",
+    "achievement": "Rare Style Master",
+    "achievementLink": "https://eso-hub.com/en/achievements/rare-style-master"
+  },
+  {
+    "id": "motif-pattern-blue",
+    "name": "Motif Pattern Blue",
+    "color": "rgb(107, 140, 153)",
+    "link": "https://eso-hub.com/en/dye/motif-pattern-blue",
+    "achievement": "Alliance Style Master",
+    "achievementLink": "https://eso-hub.com/en/achievements/alliance-style-master"
+  },
+  {
+    "id": "mudcrab-maroon",
+    "name": "Mudcrab Maroon",
+    "color": "rgb(115, 79, 84)",
+    "link": "https://eso-hub.com/en/dye/mudcrab-maroon",
+    "achievement": "Chitin Accumulator",
+    "achievementLink": "https://eso-hub.com/en/achievements/chitin-accumulator"
+  },
+  {
+    "id": "mundus-blue",
+    "name": "Mundus Blue",
+    "color": "rgb(115, 138, 179)",
+    "link": "https://eso-hub.com/en/dye/mundus-blue",
+    "achievement": "Weekly Trial or Arena Complete",
+    "achievementLink": "https://eso-hub.com/en/achievements/weekly-trial-or-arena-complete"
+  },
+  {
+    "id": "murder-mahogany",
+    "name": "Murder Mahogany",
+    "color": "rgb(153, 102, 69)",
+    "link": "https://eso-hub.com/en/dye/murder-mahogany",
+    "achievement": "Kill a Grand Overlord",
+    "achievementLink": "https://eso-hub.com/en/achievements/kill-a-grand-overlord"
+  },
+  {
+    "id": "nacreous-purple",
+    "name": "Nacreous Purple",
+    "color": "rgb(130, 105, 138)",
+    "link": "https://eso-hub.com/en/dye/nacreous-purple",
+    "achievement": "Dragon Bones Delver",
+    "achievementLink": "https://eso-hub.com/en/achievements/dragon-bones-delver"
+  },
+  {
+    "id": "necromancer-blue",
+    "name": "Necromancer Blue",
+    "color": "rgb(125, 179, 173)",
+    "link": "https://eso-hub.com/en/dye/necromancer-blue",
+    "achievement": "Radiant Champion",
+    "achievementLink": "https://eso-hub.com/en/achievements/radiant-champion"
+  },
+  {
+    "id": "netch-jelly-blue",
+    "name": "Netch Jelly Blue",
+    "color": "rgb(87, 161, 191)",
+    "link": "https://eso-hub.com/en/dye/netch-jelly-blue",
+    "achievement": "Bleakrock and Bal Foyen Explorer",
+    "achievementLink": "https://eso-hub.com/en/achievements/bleakrock-and-bal-foyen-explorer"
+  },
+  {
+    "id": "new-life-cerulean",
+    "name": "New Life Cerulean",
+    "color": "rgb(125, 143, 199)",
+    "link": "https://eso-hub.com/en/dye/new-life-cerulean",
+    "achievement": "New Life Celebrant",
+    "achievementLink": "https://eso-hub.com/en/achievements/new-life-celebrant"
+  },
+  {
+    "id": "nibenay-trout-green",
+    "name": "Nibenay Trout Green",
+    "color": "rgb(110, 153, 69)",
+    "link": "https://eso-hub.com/en/dye/nibenay-trout-green",
+    "achievement": "Cyrodiil Angler",
+    "achievementLink": "https://eso-hub.com/en/achievements/cyrodiil-angler"
+  },
+  {
+    "id": "nightblades-indigo",
+    "name": "Nightblades' Indigo",
+    "color": "rgb(54, 61, 77)",
+    "link": "https://eso-hub.com/en/dye/nightblades-indigo",
+    "achievement": "Grand Nightblade Slayer",
+    "achievementLink": "https://eso-hub.com/en/achievements/grand-nightblade-slayer"
+  },
+  {
+    "id": "nightshade-purple",
+    "name": "Nightshade Purple",
+    "color": "rgb(69, 20, 69)",
+    "link": "https://eso-hub.com/en/dye/nightshade-purple",
+    "achievement": "Chainbreaker",
+    "achievementLink": "https://eso-hub.com/en/achievements/chainbreaker"
+  },
+  {
+    "id": "nirncrux-red",
+    "name": "Nirncrux Red",
+    "color": "rgb(77, 28, 28)",
+    "link": "https://eso-hub.com/en/dye/nirncrux-red",
+    "achievement": "Learn the Nirnhoned Trait",
+    "achievementLink": "https://eso-hub.com/en/achievements/learn-the-nirnhoned-trait"
+  },
+  {
+    "id": "nirnroot-gray",
+    "name": "Nirnroot Gray",
+    "color": "rgb(166, 150, 140)",
+    "link": "https://eso-hub.com/en/dye/nirnroot-gray",
+    "achievement": "Botanist",
+    "achievementLink": "https://eso-hub.com/en/achievements/botanist"
+  },
+  {
+    "id": "novice-tan",
+    "name": "Novice Tan",
+    "color": "rgb(179, 143, 125)",
+    "link": "https://eso-hub.com/en/dye/novice-tan",
+    "achievement": "Level 10 Hero",
+    "achievementLink": "https://eso-hub.com/en/achievements/level-10-hero"
+  },
+  {
+    "id": "noxophilic-black",
+    "name": "Noxophilic Black",
+    "color": "rgb(59, 64, 64)",
+    "link": "https://eso-hub.com/en/dye/noxophilic-black",
+    "achievement": "Vampirism",
+    "achievementLink": "https://eso-hub.com/en/achievements/vampirism"
+  },
+  {
+    "id": "oblivion-vermilion",
+    "name": "Oblivion Vermilion",
+    "color": "rgb(153, 107, 107)",
+    "link": "https://eso-hub.com/en/dye/oblivion-vermilion",
+    "achievement": "Oblivion Shard Gatherer",
+    "achievementLink": "https://eso-hub.com/en/achievements/oblivion-shard-gatherer"
+  },
+  {
+    "id": "obsidian-black",
+    "name": "Obsidian Black",
+    "color": "rgb(71, 71, 71)",
+    "link": "https://eso-hub.com/en/dye/obsidian-black",
+    "achievement": "Expert Deconstructor",
+    "achievementLink": "https://eso-hub.com/en/achievements/expert-deconstructor"
+  },
+  {
+    "id": "ophidian-jade",
+    "name": "Ophidian Jade",
+    "color": "rgb(18, 64, 38)",
+    "link": "https://eso-hub.com/en/dye/ophidian-jade",
+    "achievement": "Sanctum Ophidia Completed",
+    "achievementLink": "https://eso-hub.com/en/achievements/sanctum-ophidia-completed"
+  },
+  {
+    "id": "orichalc-green",
+    "name": "Orichalc Green",
+    "color": "rgb(56, 64, 41)",
+    "link": "https://eso-hub.com/en/dye/orichalc-green",
+    "achievement": "Daggerfall Master Explorer",
+    "achievementLink": "https://eso-hub.com/en/achievements/daggerfall-master-explorer"
+  },
+  {
+    "id": "overlords-purple",
+    "name": "Overlord's Purple",
+    "color": "rgb(46, 8, 46)",
+    "link": "https://eso-hub.com/en/dye/overlords-purple",
+    "achievement": "Alliance War Overlord",
+    "achievementLink": "https://eso-hub.com/en/achievements/alliance-war-overlord"
+  },
+  {
+    "id": "pact-blood-red",
+    "name": "Pact Blood Red",
+    "color": "rgb(102, 36, 36)",
+    "link": "https://eso-hub.com/en/dye/pact-blood-red",
+    "achievement": "Hero of the Ebonheart Pact",
+    "achievementLink": "https://eso-hub.com/en/achievements/hero-of-the-ebonheart-pact"
+  },
+  {
+    "id": "pact-conqueror-red",
+    "name": "Pact Conqueror Red",
+    "color": "rgb(77, 18, 18)",
+    "link": "https://eso-hub.com/en/dye/pact-conqueror-red",
+    "achievement": "Ebonheart Pact Conqueror",
+    "achievementLink": "https://eso-hub.com/en/achievements/ebonheart-pact-conqueror"
+  },
+  {
+    "id": "pact-fisher-red",
+    "name": "Pact Fisher Red",
+    "color": "rgb(191, 87, 87)",
+    "link": "https://eso-hub.com/en/dye/pact-fisher-red",
+    "achievement": "Pact Fisherman",
+    "achievementLink": "https://eso-hub.com/en/achievements/pact-fisherman"
+  },
+  {
+    "id": "pact-vanquisher-brown",
+    "name": "Pact Vanquisher Brown",
+    "color": "rgb(115, 51, 28)",
+    "link": "https://eso-hub.com/en/dye/pact-vanquisher-brown",
+    "achievement": "Vanquisher of the Pact",
+    "achievementLink": "https://eso-hub.com/en/achievements/vanquisher-of-the-pact"
+  },
+  {
+    "id": "palatines-white",
+    "name": "Palatine's White",
+    "color": "rgb(217, 194, 184)",
+    "link": "https://eso-hub.com/en/dye/palatines-white",
+    "achievement": "Alliance War Palatine",
+    "achievementLink": "https://eso-hub.com/en/achievements/alliance-war-palatine"
+  },
+  {
+    "id": "patrons-gold",
+    "name": "Patron's Gold",
+    "color": "rgb(186, 135, 15)",
+    "link": "https://eso-hub.com/en/dye/patrons-gold",
+    "achievement": "Tales of Tribute Master",
+    "achievementLink": "https://eso-hub.com/en/achievements/tales-of-tribute-master"
+  },
+  {
+    "id": "pellitine-coral",
+    "name": "Pellitine Coral",
+    "color": "rgb(173, 51, 66)",
+    "link": "https://eso-hub.com/en/dye/pellitine-coral",
+    "achievement": "Return of the Dragonguard",
+    "achievementLink": "https://eso-hub.com/en/achievements/return-of-the-dragonguard"
+  },
+  {
+    "id": "pillager-purple",
+    "name": "Pillager Purple",
+    "color": "rgb(77, 33, 74)",
+    "link": "https://eso-hub.com/en/dye/pillager-purple",
+    "achievement": "Epic Acquirer",
+    "achievementLink": "https://eso-hub.com/en/achievements/epic-acquirer"
+  },
+  {
+    "id": "pit-daemons-poison",
+    "name": "Pit Daemon's Poison",
+    "color": "rgb(61, 69, 54)",
+    "link": "https://eso-hub.com/en/dye/pit-daemons-poison",
+    "achievement": "Grand Relic Hunter",
+    "achievementLink": "https://eso-hub.com/en/achievements/grand-relic-hunter"
+  },
+  {
+    "id": "polished-steel-gray",
+    "name": "Polished Steel Gray",
+    "color": "rgb(140, 140, 140)",
+    "link": "https://eso-hub.com/en/dye/polished-steel-gray",
+    "achievement": "Master of Refinement",
+    "achievementLink": "https://eso-hub.com/en/achievements/master-of-refinement"
+  },
+  {
+    "id": "potency-blue",
+    "name": "Potency Blue",
+    "color": "rgb(112, 107, 153)",
+    "link": "https://eso-hub.com/en/dye/potency-blue",
+    "achievement": "Potency",
+    "achievementLink": "https://eso-hub.com/en/achievements/potency"
+  },
+  {
+    "id": "prefects-gray",
+    "name": "Prefect's Gray",
+    "color": "rgb(77, 77, 77)",
+    "link": "https://eso-hub.com/en/dye/prefects-gray",
+    "achievement": "Alliance War Prefect",
+    "achievementLink": "https://eso-hub.com/en/achievements/alliance-war-prefect"
+  },
+  {
+    "id": "provisioner-brown",
+    "name": "Provisioner Brown",
+    "color": "rgb(204, 120, 92)",
+    "link": "https://eso-hub.com/en/dye/provisioner-brown",
+    "achievement": "Master Provisioner",
+    "achievementLink": "https://eso-hub.com/en/achievements/master-provisioner"
+  },
+  {
+    "id": "putrid-flesh-teal",
+    "name": "Putrid Flesh Teal",
+    "color": "rgb(64, 140, 97)",
+    "link": "https://eso-hub.com/en/dye/putrid-flesh-teal",
+    "achievement": "Imperial City Prison Conqueror",
+    "achievementLink": "https://eso-hub.com/en/achievements/imperial-city-prison-conqueror"
+  },
+  {
+    "id": "pyandonean-purple",
+    "name": "Pyandonean Purple",
+    "color": "rgb(130, 20, 130)",
+    "link": "https://eso-hub.com/en/dye/pyandonean-purple",
+    "achievement": "Dreadsail Reef Vanquisher",
+    "achievementLink": "https://eso-hub.com/en/achievements/dreadsail-reef-vanquisher"
+  },
+  {
+    "id": "quester-yellow",
+    "name": "Quester Yellow",
+    "color": "rgb(191, 186, 135)",
+    "link": "https://eso-hub.com/en/dye/quester-yellow",
+    "achievement": "Quester",
+    "achievementLink": "https://eso-hub.com/en/achievements/quester"
+  },
+  {
+    "id": "rank-1-materials",
+    "name": "Rank 1 Materials",
+    "color": "rgb(64, 77, 89)",
+    "link": "https://eso-hub.com/en/dye/rank-1-materials",
+    "achievement": "Rank 1 Deconstruction Analyst",
+    "achievementLink": "https://eso-hub.com/en/achievements/rank-1-deconstruction-analyst"
+  },
+  {
+    "id": "rank-10-materials",
+    "name": "Rank 10 Materials",
+    "color": "rgb(102, 13, 10)",
+    "link": "https://eso-hub.com/en/dye/rank-10-materials",
+    "achievement": "Rank 10 Deconstruction Analyst",
+    "achievementLink": "https://eso-hub.com/en/achievements/rank-10-deconstruction-analyst"
+  },
+  {
+    "id": "rank-2-materials",
+    "name": "Rank 2 Materials",
+    "color": "rgb(102, 102, 102)",
+    "link": "https://eso-hub.com/en/dye/rank-2-materials",
+    "achievement": "Rank 2 Deconstruction Analyst",
+    "achievementLink": "https://eso-hub.com/en/achievements/rank-2-deconstruction-analyst"
+  },
+  {
+    "id": "rank-3-materials",
+    "name": "Rank 3 Materials",
+    "color": "rgb(79, 82, 51)",
+    "link": "https://eso-hub.com/en/dye/rank-3-materials",
+    "achievement": "Rank 3 Deconstruction Analyst",
+    "achievementLink": "https://eso-hub.com/en/achievements/rank-3-deconstruction-analyst"
+  },
+  {
+    "id": "rank-4-materials",
+    "name": "Rank 4 Materials",
+    "color": "rgb(125, 92, 46)",
+    "link": "https://eso-hub.com/en/dye/rank-4-materials",
+    "achievement": "Rank 4 Deconstruction Analyst",
+    "achievementLink": "https://eso-hub.com/en/achievements/rank-4-deconstruction-analyst"
+  },
+  {
+    "id": "rank-5-materials",
+    "name": "Rank 5 Materials",
+    "color": "rgb(92, 99, 102)",
+    "link": "https://eso-hub.com/en/dye/rank-5-materials",
+    "achievement": "Rank 5 Deconstruction Analyst",
+    "achievementLink": "https://eso-hub.com/en/achievements/rank-5-deconstruction-analyst"
+  },
+  {
+    "id": "rank-6-materials",
+    "name": "Rank 6 Materials",
+    "color": "rgb(115, 89, 59)",
+    "link": "https://eso-hub.com/en/dye/rank-6-materials",
+    "achievement": "Rank 6 Deconstruction Analyst",
+    "achievementLink": "https://eso-hub.com/en/achievements/rank-6-deconstruction-analyst"
+  },
+  {
+    "id": "rank-7-materials",
+    "name": "Rank 7 Materials",
+    "color": "rgb(77, 48, 28)",
+    "link": "https://eso-hub.com/en/dye/rank-7-materials",
+    "achievement": "Rank 7 Deconstruction Analyst",
+    "achievementLink": "https://eso-hub.com/en/achievements/rank-7-deconstruction-analyst"
+  },
+  {
+    "id": "rank-8-materials",
+    "name": "Rank 8 Materials",
+    "color": "rgb(64, 89, 84)",
+    "link": "https://eso-hub.com/en/dye/rank-8-materials",
+    "achievement": "Rank 8 Deconstruction Analyst",
+    "achievementLink": "https://eso-hub.com/en/achievements/rank-8-deconstruction-analyst"
+  },
+  {
+    "id": "rank-9-materials",
+    "name": "Rank 9 Materials",
+    "color": "rgb(41, 10, 20)",
+    "link": "https://eso-hub.com/en/dye/rank-9-materials",
+    "achievement": "Rank 9 Deconstruction Analyst",
+    "achievementLink": "https://eso-hub.com/en/achievements/rank-9-deconstruction-analyst"
+  },
+  {
+    "id": "ransacker-blue",
+    "name": "Ransacker Blue",
+    "color": "rgb(33, 51, 77)",
+    "link": "https://eso-hub.com/en/dye/ransacker-blue",
+    "achievement": "Superior Ransacker",
+    "achievementLink": "https://eso-hub.com/en/achievements/superior-ransacker"
+  },
+  {
+    "id": "raw-hide-tan",
+    "name": "Raw Hide Tan",
+    "color": "rgb(191, 148, 135)",
+    "link": "https://eso-hub.com/en/dye/raw-hide-tan",
+    "achievement": "Master Crafting Harvester",
+    "achievementLink": "https://eso-hub.com/en/achievements/master-crafting-harvester"
+  },
+  {
+    "id": "recipe-reaper-red",
+    "name": "Recipe Reaper Red",
+    "color": "rgb(153, 69, 79)",
+    "link": "https://eso-hub.com/en/dye/recipe-reaper-red",
+    "achievement": "Recipe Compendium",
+    "achievementLink": "https://eso-hub.com/en/achievements/recipe-compendium"
+  },
+  {
+    "id": "red-diamond-red",
+    "name": "Red Diamond Red",
+    "color": "rgb(115, 28, 28)",
+    "link": "https://eso-hub.com/en/dye/red-diamond-red",
+    "achievement": "The Valley of Blades",
+    "achievementLink": "https://eso-hub.com/en/achievements/the-valley-of-blades"
+  },
+  {
+    "id": "regicide-red",
+    "name": "Regicide Red",
+    "color": "rgb(77, 33, 33)",
+    "link": "https://eso-hub.com/en/dye/regicide-red",
+    "achievement": "Emperor Slayer",
+    "achievementLink": "https://eso-hub.com/en/achievements/emperor-slayer"
+  },
+  {
+    "id": "restorative-gold",
+    "name": "Restorative Gold",
+    "color": "rgb(115, 112, 79)",
+    "link": "https://eso-hub.com/en/dye/restorative-gold",
+    "achievement": "Greater Dungeon Healer",
+    "achievementLink": "https://eso-hub.com/en/achievements/greater-dungeon-healer"
+  },
+  {
+    "id": "riften-copper",
+    "name": "Riften Copper",
+    "color": "rgb(153, 97, 69)",
+    "link": "https://eso-hub.com/en/dye/riften-copper",
+    "achievement": "Shattered Remnants",
+    "achievementLink": "https://eso-hub.com/en/achievements/shattered-remnants"
+  },
+  {
+    "id": "roisters-cerulean",
+    "name": "Roister's Cerulean",
+    "color": "rgb(10, 77, 56)",
+    "link": "https://eso-hub.com/en/dye/roisters-cerulean",
+    "achievement": "Tales of Travel",
+    "achievementLink": "https://eso-hub.com/en/achievements/tales-of-travel"
+  },
+  {
+    "id": "ruby-throne-red",
+    "name": "Ruby Throne Red",
+    "color": "rgb(89, 18, 18)",
+    "link": "https://eso-hub.com/en/dye/ruby-throne-red",
+    "achievement": "Emperor!",
+    "achievementLink": "https://eso-hub.com/en/achievements/emperor"
+  },
+  {
+    "id": "sanitys-orchid",
+    "name": "Sanity's Orchid",
+    "color": "rgb(107, 56, 105)",
+    "link": "https://eso-hub.com/en/dye/sanitys-orchid",
+    "achievement": "Sanity's Edge Vanquisher",
+    "achievementLink": "https://eso-hub.com/en/achievements/sanitys-edge-vanquisher"
+  },
+  {
+    "id": "scaled-court-brown",
+    "name": "Scaled Court Brown",
+    "color": "rgb(166, 130, 128)",
+    "link": "https://eso-hub.com/en/dye/scaled-court-brown",
+    "achievement": "Time Trial: Sanctum Ophidia",
+    "achievementLink": "https://eso-hub.com/en/achievements/time-trial-sanctum-ophidia"
+  },
+  {
+    "id": "scholarium-cerulean",
+    "name": "Scholarium Cerulean",
+    "color": "rgb(20, 156, 199)",
+    "link": "https://eso-hub.com/en/dye/scholarium-cerulean",
+    "achievement": "Pen is Mightier than the Sword",
+    "achievementLink": "https://eso-hub.com/en/achievements/pen-is-mightier-than-the-sword"
+  },
+  {
+    "id": "scintillating-scarlet",
+    "name": "Scintillating Scarlet",
+    "color": "rgb(179, 20, 5)",
+    "link": "https://eso-hub.com/en/dye/scintillating-scarlet",
+    "achievement": "Flames of Ambition Delver",
+    "achievementLink": "https://eso-hub.com/en/achievements/flames-of-ambition-delver"
+  },
+  {
+    "id": "scriveners-ultramarine",
+    "name": "Scrivener's Ultramarine",
+    "color": "rgb(0, 36, 51)",
+    "link": "https://eso-hub.com/en/dye/scriveners-ultramarine",
+    "achievement": "Scribes of Fate Delver",
+    "achievementLink": "https://eso-hub.com/en/achievements/scribes-of-fate-delver"
+  },
+  {
+    "id": "senche-tiger-orange",
+    "name": "Senche-Tiger Orange",
+    "color": "rgb(153, 79, 46)",
+    "link": "https://eso-hub.com/en/dye/senche-tiger-orange",
+    "achievement": "Hallowed Moons",
+    "achievementLink": "https://eso-hub.com/en/achievements/hallowed-moons"
+  },
+  {
+    "id": "sergeants-charcoal",
+    "name": "Sergeant's Charcoal",
+    "color": "rgb(64, 61, 59)",
+    "link": "https://eso-hub.com/en/dye/sergeants-charcoal",
+    "achievement": "Alliance War Sergeant",
+    "achievementLink": "https://eso-hub.com/en/achievements/alliance-war-sergeant"
+  },
+  {
+    "id": "shadowfoot-gray",
+    "name": "Shadowfoot Gray",
+    "color": "rgb(94, 84, 79)",
+    "link": "https://eso-hub.com/en/dye/shadowfoot-gray",
+    "achievement": "Felonious Recompense",
+    "achievementLink": "https://eso-hub.com/en/achievements/felonious-recompense"
+  },
+  {
+    "id": "shein-violet",
+    "name": "Shein Violet",
+    "color": "rgb(77, 54, 64)",
+    "link": "https://eso-hub.com/en/dye/shein-violet",
+    "achievement": "Recipe Book",
+    "achievementLink": "https://eso-hub.com/en/achievements/recipe-book"
+  },
+  {
+    "id": "shrike-blue",
+    "name": "Shrike Blue",
+    "color": "rgb(87, 135, 237)",
+    "link": "https://eso-hub.com/en/dye/shrike-blue",
+    "achievement": "Savior of Summerset",
+    "achievementLink": "https://eso-hub.com/en/achievements/savior-of-summerset"
+  },
+  {
+    "id": "sigil-orange",
+    "name": "Sigil Orange",
+    "color": "rgb(140, 64, 28)",
+    "link": "https://eso-hub.com/en/dye/sigil-orange",
+    "achievement": "City of Ash II Conqueror",
+    "achievementLink": "https://eso-hub.com/en/achievements/city-of-ash-ii-conqueror"
+  },
+  {
+    "id": "silvenar-green",
+    "name": "Silvenar Green",
+    "color": "rgb(54, 77, 33)",
+    "link": "https://eso-hub.com/en/dye/silvenar-green",
+    "achievement": "Malabal Tor Master Explorer",
+    "achievementLink": "https://eso-hub.com/en/achievements/malabal-tor-master-explorer"
+  },
+  {
+    "id": "slaughterfish-flesh-pink",
+    "name": "Slaughterfish Flesh Pink",
+    "color": "rgb(166, 115, 145)",
+    "link": "https://eso-hub.com/en/dye/slaughterfish-flesh-pink",
+    "achievement": "Master Fisher",
+    "achievementLink": "https://eso-hub.com/en/achievements/master-fisher"
+  },
+  {
+    "id": "smith-steel-blue",
+    "name": "Smith Steel Blue",
+    "color": "rgb(33, 59, 77)",
+    "link": "https://eso-hub.com/en/dye/smith-steel-blue",
+    "achievement": "Master Blacksmith",
+    "achievementLink": "https://eso-hub.com/en/achievements/master-blacksmith"
+  },
+  {
+    "id": "somber-cerise",
+    "name": "Somber Cerise",
+    "color": "rgb(130, 48, 69)",
+    "link": "https://eso-hub.com/en/dye/somber-cerise",
+    "achievement": "Imperial City Warlord",
+    "achievementLink": "https://eso-hub.com/en/achievements/imperial-city-warlord"
+  },
+  {
+    "id": "sorcerers-bane-violet",
+    "name": "Sorcerers'-Bane Violet",
+    "color": "rgb(176, 143, 191)",
+    "link": "https://eso-hub.com/en/dye/sorcerers-bane-violet",
+    "achievement": "Grand Sorcerer Slayer",
+    "achievementLink": "https://eso-hub.com/en/achievements/grand-sorcerer-slayer"
+  },
+  {
+    "id": "soul-gem-purple",
+    "name": "Soul Gem Purple",
+    "color": "rgb(102, 79, 115)",
+    "link": "https://eso-hub.com/en/dye/soul-gem-purple",
+    "achievement": "Chasing Shadows",
+    "achievementLink": "https://eso-hub.com/en/achievements/chasing-shadows"
+  },
+  {
+    "id": "soul-shriven-gray",
+    "name": "Soul Shriven Gray",
+    "color": "rgb(102, 94, 92)",
+    "link": "https://eso-hub.com/en/dye/soul-shriven-gray",
+    "achievement": "Soul Shriven in Coldharbour",
+    "achievementLink": "https://eso-hub.com/en/achievements/soul-shriven-in-coldharbour"
+  },
+  {
+    "id": "soul-shriven-pale",
+    "name": "Soul Shriven Pale",
+    "color": "rgb(217, 196, 184)",
+    "link": "https://eso-hub.com/en/dye/soul-shriven-pale",
+    "achievement": "Coldharbour Master Explorer",
+    "achievementLink": "https://eso-hub.com/en/achievements/coldharbour-master-explorer"
+  },
+  {
+    "id": "spectral-blue",
+    "name": "Spectral Blue",
+    "color": "rgb(181, 176, 240)",
+    "link": "https://eso-hub.com/en/dye/spectral-blue",
+    "achievement": "Grand Necromancer Slayer",
+    "achievementLink": "https://eso-hub.com/en/achievements/grand-necromancer-slayer"
+  },
+  {
+    "id": "spriggan-green",
+    "name": "Spriggan Green",
+    "color": "rgb(107, 153, 125)",
+    "link": "https://eso-hub.com/en/dye/spriggan-green",
+    "achievement": "Nature Collector",
+    "achievementLink": "https://eso-hub.com/en/achievements/nature-collector"
+  },
+  {
+    "id": "stalhrim-chrome",
+    "name": "Stalhrim Chrome",
+    "color": "rgb(18, 191, 173)",
+    "link": "https://eso-hub.com/en/dye/stalhrim-chrome",
+    "achievement": "Wolfhunter Delver",
+    "achievementLink": "https://eso-hub.com/en/achievements/wolfhunter-delver"
+  },
+  {
+    "id": "starlight-gold",
+    "name": "Starlight Gold",
+    "color": "rgb(179, 148, 94)",
+    "link": "https://eso-hub.com/en/dye/starlight-gold",
+    "achievement": "Dawn of a Champion",
+    "achievementLink": "https://eso-hub.com/en/achievements/dawn-of-a-champion"
+  },
+  {
+    "id": "stendarr-white",
+    "name": "Stendarr White",
+    "color": "rgb(173, 209, 217)",
+    "link": "https://eso-hub.com/en/dye/stendarr-white",
+    "achievement": "Master Monster Slayer",
+    "achievementLink": "https://eso-hub.com/en/achievements/master-monster-slayer"
+  },
+  {
+    "id": "storm-lords-lightning",
+    "name": "Storm Lord's Lightning",
+    "color": "rgb(87, 54, 99)",
+    "link": "https://eso-hub.com/en/dye/storm-lords-lightning",
+    "achievement": "Grand Standard-Bearer",
+    "achievementLink": "https://eso-hub.com/en/achievements/grand-standard-bearer"
+  },
+  {
+    "id": "strangler-maw-red",
+    "name": "Strangler Maw Red",
+    "color": "rgb(166, 59, 59)",
+    "link": "https://eso-hub.com/en/dye/strangler-maw-red",
+    "achievement": "Shadowfen Master Explorer",
+    "achievementLink": "https://eso-hub.com/en/achievements/shadowfen-master-explorer"
+  },
+  {
+    "id": "sulfur-pools-yellow",
+    "name": "Sulfur Pools Yellow",
+    "color": "rgb(191, 184, 87)",
+    "link": "https://eso-hub.com/en/dye/sulfur-pools-yellow",
+    "achievement": "Eastmarch Master Explorer",
+    "achievementLink": "https://eso-hub.com/en/achievements/eastmarch-master-explorer"
+  },
+  {
+    "id": "sunforge-patina",
+    "name": "Sunforge Patina",
+    "color": "rgb(219, 245, 112)",
+    "link": "https://eso-hub.com/en/dye/sunforge-patina",
+    "achievement": "Hero of Fargrave",
+    "achievementLink": "https://eso-hub.com/en/achievements/hero-of-fargrave"
+  },
+  {
+    "id": "superior-blue",
+    "name": "Superior Blue",
+    "color": "rgb(36, 51, 71)",
+    "link": "https://eso-hub.com/en/dye/superior-blue",
+    "achievement": "Superior Attire",
+    "achievementLink": "https://eso-hub.com/en/achievements/superior-attire"
+  },
+  {
+    "id": "syffim-red",
+    "name": "Syffim Red",
+    "color": "rgb(140, 64, 56)",
+    "link": "https://eso-hub.com/en/dye/syffim-red",
+    "achievement": "Fighters Guild Skill Master",
+    "achievementLink": "https://eso-hub.com/en/achievements/fighters-guild-skill-master"
+  },
+  {
+    "id": "tainted-turquoise",
+    "name": "Tainted Turquoise",
+    "color": "rgb(18, 56, 107)",
+    "link": "https://eso-hub.com/en/dye/tainted-turquoise",
+    "achievement": "Imperial Transgressions",
+    "achievementLink": "https://eso-hub.com/en/achievements/imperial-transgressions"
+  },
+  {
+    "id": "telvanni-brown",
+    "name": "Telvanni Brown",
+    "color": "rgb(115, 77, 51)",
+    "link": "https://eso-hub.com/en/dye/telvanni-brown",
+    "achievement": "Stonefalls Master Explorer",
+    "achievementLink": "https://eso-hub.com/en/achievements/stonefalls-master-explorer"
+  },
+  {
+    "id": "telvanni-walnut",
+    "name": "Telvanni Walnut",
+    "color": "rgb(77, 33, 18)",
+    "link": "https://eso-hub.com/en/dye/telvanni-walnut",
+    "achievement": "Hero of Necrom",
+    "achievementLink": "https://eso-hub.com/en/achievements/hero-of-necrom"
+  },
+  {
+    "id": "templars-last-dawn",
+    "name": "Templars' Last Dawn",
+    "color": "rgb(153, 133, 107)",
+    "link": "https://eso-hub.com/en/dye/templars-last-dawn",
+    "achievement": "Grand Templar Slayer",
+    "achievementLink": "https://eso-hub.com/en/achievements/grand-templar-slayer"
+  },
+  {
+    "id": "thalmor-black",
+    "name": "Thalmor Black",
+    "color": "rgb(43, 43, 43)",
+    "link": "https://eso-hub.com/en/dye/thalmor-black",
+    "achievement": "Iconoclast",
+    "achievementLink": "https://eso-hub.com/en/achievements/iconoclast"
+  },
+  {
+    "id": "tombstone-gray",
+    "name": "Tombstone Gray",
+    "color": "rgb(92, 99, 102)",
+    "link": "https://eso-hub.com/en/dye/tombstone-gray",
+    "achievement": "Dungeon Damage Dispenser",
+    "achievementLink": "https://eso-hub.com/en/achievements/dungeon-damage-dispenser"
+  },
+  {
+    "id": "tower-white-gold",
+    "name": "Tower White-Gold",
+    "color": "rgb(150, 153, 156)",
+    "link": "https://eso-hub.com/en/dye/tower-white-gold",
+    "achievement": "Blockbuster",
+    "achievementLink": "https://eso-hub.com/en/achievements/blockbuster"
+  },
+  {
+    "id": "transliminal-violet",
+    "name": "Transliminal Violet",
+    "color": "rgb(66, 56, 125)",
+    "link": "https://eso-hub.com/en/dye/transliminal-violet",
+    "achievement": "Imperial Lightbringer",
+    "achievementLink": "https://eso-hub.com/en/achievements/imperial-lightbringer"
+  },
+  {
+    "id": "tribunes-steel",
+    "name": "Tribune's Steel",
+    "color": "rgb(61, 74, 77)",
+    "link": "https://eso-hub.com/en/dye/tribunes-steel",
+    "achievement": "Alliance War Tribune",
+    "achievementLink": "https://eso-hub.com/en/achievements/alliance-war-tribune"
+  },
+  {
+    "id": "trolls-fur-brown",
+    "name": "Trolls Fur Brown",
+    "color": "rgb(102, 82, 71)",
+    "link": "https://eso-hub.com/en/dye/trolls-fur-brown",
+    "achievement": "Monstrous Component Collector",
+    "achievementLink": "https://eso-hub.com/en/achievements/monstrous-component-collector"
+  },
+  {
+    "id": "undaunted-bronze",
+    "name": "Undaunted Bronze",
+    "color": "rgb(128, 84, 59)",
+    "link": "https://eso-hub.com/en/dye/undaunted-bronze",
+    "achievement": "Undaunted Skill Master",
+    "achievementLink": "https://eso-hub.com/en/achievements/undaunted-skill-master"
+  },
+  {
+    "id": "varla-white",
+    "name": "Varla White",
+    "color": "rgb(204, 184, 173)",
+    "link": "https://eso-hub.com/en/dye/varla-white",
+    "achievement": "A Rule Unquestioned",
+    "achievementLink": "https://eso-hub.com/en/achievements/a-rule-unquestioned"
+  },
+  {
+    "id": "vehks-mystic-blue",
+    "name": "Vehk's Mystic Blue",
+    "color": "rgb(18, 110, 168)",
+    "link": "https://eso-hub.com/en/dye/vehks-mystic-blue",
+    "achievement": "Champion of Vivec",
+    "achievementLink": "https://eso-hub.com/en/achievements/champion-of-vivec"
+  },
+  {
+    "id": "vine-green",
+    "name": "Vine Green",
+    "color": "rgb(87, 191, 120)",
+    "link": "https://eso-hub.com/en/dye/vine-green",
+    "achievement": "Glenumbra Master Explorer",
+    "achievementLink": "https://eso-hub.com/en/achievements/glenumbra-master-explorer"
+  },
+  {
+    "id": "viridian-venom",
+    "name": "Viridian Venom",
+    "color": "rgb(23, 31, 15)",
+    "link": "https://eso-hub.com/en/dye/viridian-venom",
+    "achievement": "Toxicologist",
+    "achievementLink": "https://eso-hub.com/en/achievements/toxicologist"
+  },
+  {
+    "id": "void-pitch",
+    "name": "Void Pitch",
+    "color": "rgb(0, 0, 0)",
+    "link": "https://eso-hub.com/en/dye/void-pitch",
+    "achievement": "Honor to the Spiritblood",
+    "achievementLink": "https://eso-hub.com/en/achievements/honor-to-the-spiritblood"
+  },
+  {
+    "id": "voidstone-violet",
+    "name": "Voidstone Violet",
+    "color": "rgb(18, 15, 51)",
+    "link": "https://eso-hub.com/en/dye/voidstone-violet",
+    "achievement": "Complete All Hard Modes",
+    "achievementLink": "https://eso-hub.com/en/achievements/complete-all-hard-modes"
+  },
+  {
+    "id": "volunteers-iron",
+    "name": "Volunteer's Iron",
+    "color": "rgb(179, 179, 179)",
+    "link": "https://eso-hub.com/en/dye/volunteers-iron",
+    "achievement": "Alliance War Volunteer",
+    "achievementLink": "https://eso-hub.com/en/achievements/alliance-war-volunteer"
+  },
+  {
+    "id": "wardens-moss-green",
+    "name": "Warden's Moss Green",
+    "color": "rgb(71, 79, 61)",
+    "link": "https://eso-hub.com/en/dye/wardens-moss-green",
+    "achievement": "Grand Warden Slayer",
+    "achievementLink": "https://eso-hub.com/en/achievements/grand-warden-slayer"
+  },
+  {
+    "id": "warlords-red",
+    "name": "Warlord's Red",
+    "color": "rgb(89, 38, 33)",
+    "link": "https://eso-hub.com/en/dye/warlords-red",
+    "achievement": "Alliance War Warlord",
+    "achievementLink": "https://eso-hub.com/en/achievements/alliance-war-warlord"
+  },
+  {
+    "id": "warriors-steel",
+    "name": "Warrior's Steel",
+    "color": "rgb(56, 54, 64)",
+    "link": "https://eso-hub.com/en/dye/warriors-steel",
+    "achievement": "Hel Ra Citadel Completed",
+    "achievementLink": "https://eso-hub.com/en/achievements/hel-ra-citadel-completed"
+  },
+  {
+    "id": "wayrest-royal-purple",
+    "name": "Wayrest Royal Purple",
+    "color": "rgb(61, 51, 115)",
+    "link": "https://eso-hub.com/en/dye/wayrest-royal-purple",
+    "achievement": "Rude Awakening",
+    "achievementLink": "https://eso-hub.com/en/achievements/rude-awakening"
+  },
+  {
+    "id": "welkynd-blue",
+    "name": "Welkynd Blue",
+    "color": "rgb(48, 191, 176)",
+    "link": "https://eso-hub.com/en/dye/welkynd-blue",
+    "achievement": "Spirit of the Bosmer",
+    "achievementLink": "https://eso-hub.com/en/achievements/spirit-of-the-bosmer"
+  },
+  {
+    "id": "west-weald-autumnal-orange",
+    "name": "West Weald Autumnal Orange",
+    "color": "rgb(230, 158, 23)",
+    "link": "https://eso-hub.com/en/dye/west-weald-autumnal-orange",
+    "achievement": "Hero of the Gold Road",
+    "achievementLink": "https://eso-hub.com/en/achievements/hero-of-the-gold-road"
+  },
+  {
+    "id": "windhelm-steel",
+    "name": "Windhelm Steel",
+    "color": "rgb(89, 89, 89)",
+    "link": "https://eso-hub.com/en/dye/windhelm-steel",
+    "achievement": "Blood Feud",
+    "achievementLink": "https://eso-hub.com/en/achievements/blood-feud"
+  },
+  {
+    "id": "wisp-blue",
+    "name": "Wisp Blue",
+    "color": "rgb(87, 145, 191)",
+    "link": "https://eso-hub.com/en/dye/wisp-blue",
+    "achievement": "Bangkorai Master Explorer",
+    "achievementLink": "https://eso-hub.com/en/achievements/bangkorai-master-explorer"
+  },
+  {
+    "id": "wolfs-fur-brown",
+    "name": "Wolf's Fur Brown",
+    "color": "rgb(77, 61, 54)",
+    "link": "https://eso-hub.com/en/dye/wolfs-fur-brown",
+    "achievement": "Lycanthropy",
+    "achievementLink": "https://eso-hub.com/en/achievements/lycanthropy"
+  },
+  {
+    "id": "woodsman-green",
+    "name": "Woodsman Green",
+    "color": "rgb(46, 64, 54)",
+    "link": "https://eso-hub.com/en/dye/woodsman-green",
+    "achievement": "Certified Jack-of-All-Trades",
+    "achievementLink": "https://eso-hub.com/en/achievements/certified-jack-of-all-trades"
+  },
+  {
+    "id": "woodworker-yellow",
+    "name": "Woodworker Yellow",
+    "color": "rgb(153, 148, 69)",
+    "link": "https://eso-hub.com/en/dye/woodworker-yellow",
+    "achievement": "Master Woodworker",
+    "achievementLink": "https://eso-hub.com/en/achievements/master-woodworker"
+  },
+  {
+    "id": "wyrd-tree-green",
+    "name": "Wyrd Tree Green",
+    "color": "rgb(102, 99, 56)",
+    "link": "https://eso-hub.com/en/dye/wyrd-tree-green",
+    "achievement": "Ritual Destruction",
+    "achievementLink": "https://eso-hub.com/en/achievements/ritual-destruction"
+  },
+  {
+    "id": "yokudan-cod-tan",
+    "name": "Yokudan Cod Tan",
+    "color": "rgb(191, 156, 135)",
+    "link": "https://eso-hub.com/en/dye/yokudan-cod-tan",
+    "achievement": "Craglorn Angler",
+    "achievementLink": "https://eso-hub.com/en/achievements/craglorn-angler"
+  }
+]

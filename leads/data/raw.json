@@ -1,0 +1,4674 @@
+[
+  {
+    "id": "ancestral-orc-gloves",
+    "name": "Ancestral Orc: Gloves",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "Alik'r Desert",
+    "item": "Ancestral Orc Gloves\nAncestral Orc Bracers\nAncestral Orc Gauntlets",
+    "location": "Treasure Map Chests\n Click here to view on map"
+  },
+  {
+    "id": "ancestral-orc-swords",
+    "name": "Ancestral Orc: Swords",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "Alik'r Desert",
+    "item": "Ancestral Orc Sword\nAncestral Orc Greatsword",
+    "location": "Treasure Map Chests\n Click here to view on map"
+  },
+  {
+    "id": "antique-map-of-alikr-desert",
+    "name": "Antique Map of Alik'r Desert",
+    "icon": "https://eso-hub.com/storage/icons/housing_gen_inc_mappropsalikrscroll001.png",
+    "zone": "Alik'r Desert",
+    "item": "Antique Map of Alik'r Desert",
+    "location": "Found at the Inn (Requires Pathfinder Achievement)"
+  },
+  {
+    "id": "coil-of-satakal",
+    "name": "Coil of Satakal",
+    "icon": "https://eso-hub.com/storage/icons/housing_uni_inc_antcoilofsatakal001.png",
+    "zone": "Alik'r Desert",
+    "item": "Coil of Satakal",
+    "location": "Safebox in Sentinel"
+  },
+  {
+    "id": "direnni-elegy-loop",
+    "name": "Direnni Elegy Loop",
+    "icon": "https://eso-hub.com/storage/icons/quest_jewelry_001.png",
+    "zone": "Alik'r Desert",
+    "item": "Ring of the Pale Order",
+    "location": "Coldrock Diggings Delve Boss\n Click here to view on map"
+  },
+  {
+    "id": "dwarven-leather-saddle-seat",
+    "name": "Dwarven Leather Saddle Seat",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_saddle_001.png",
+    "zone": "Alik'r Desert",
+    "item": "Ebon Dwarven Wolf",
+    "location": "Last Boss drop in Volenfell dungeon\n Click here to view on map"
+  },
+  {
+    "id": "dwarven-spine-coupling",
+    "name": "Dwarven Spine-Coupling",
+    "icon": "https://eso-hub.com/storage/icons/crafting_dwemer_shiny_tube.png",
+    "zone": "Alik'r Desert",
+    "item": "Ebon Dwarven Wolf",
+    "location": "“Curious Dwemer Rubble” in a corner of Rkulftzel Crafting Location (Song of Lamae Set)\n Click here to view on map"
+  },
+  {
+    "id": "golden-saint-cameo",
+    "name": "Golden Saint Cameo",
+    "icon": "https://eso-hub.com/storage/icons/antiquities_saintseducernecklace_saint.png",
+    "zone": "West Weald",
+    "item": "The Saint and the Seducer",
+    "location": "Lesser Circle World Boss in Alik'r Desert\n Click here to view on map"
+  },
+  {
+    "id": "hegathe-divining-rod",
+    "name": "Hegathe Divining Rod",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_stickwithstring.png",
+    "zone": "Alik'r Desert",
+    "item": "",
+    "location": "Reward for exacavating Na-Totambu blue lead"
+  },
+  {
+    "id": "na-totambu-two-finger-gauntlet",
+    "name": "Na-Totambu Two-Finger Gauntlet",
+    "icon": "https://eso-hub.com/storage/icons/quest_cartographers_gloves.png",
+    "zone": "Alik'r Desert",
+    "item": "",
+    "location": "Reward for excavating Satakal Skinrazer"
+  },
+  {
+    "id": "santakian-construct-plating",
+    "name": "Santakian Construct Plating",
+    "icon": "https://eso-hub.com/storage/icons/antiquities_rourken_heavy_gauntlets_plating.png",
+    "zone": "West Weald",
+    "item": "Rourken Steamguards",
+    "location": "Santaki Delve Boss in the Alik'r Desert zone.\n Click here to view on map"
+  },
+  {
+    "id": "satakal-skinrazer",
+    "name": "Satakal Skinrazer",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_tool_001.png",
+    "zone": "Alik'r Desert",
+    "item": "",
+    "location": "Freebie Starter Lead"
+  },
+  {
+    "id": "singersteel-clasp",
+    "name": "Singersteel Clasp",
+    "icon": "https://eso-hub.com/storage/icons/antiquities_singersteel_clasp.png",
+    "zone": "High Isle and Amenos",
+    "item": "Lefthander's Aegis Belt",
+    "location": "Treasure Chests in the Alik'r Desert zone\n Click here to view on map"
+  },
+  {
+    "id": "stone-relief-yokudan",
+    "name": "Stone Relief, Yokudan",
+    "icon": "https://eso-hub.com/storage/icons/housing_red_duc_yokudansecretdoor001.png",
+    "zone": "Alik'r Desert",
+    "item": "Stone Relief, Yokudan",
+    "location": "Drops from all Loot Tables (Example: Monsters, Treasure Chests, Safeboxes etc.)"
+  },
+  {
+    "id": "the-heartland",
+    "name": "The Heartland",
+    "icon": "https://eso-hub.com/storage/icons/housing_uni_inc_antheartland001.png",
+    "zone": "Alik'r Desert",
+    "item": "The Heartland",
+    "location": "Cyrodiil Chests, Delve Bosses, Treasure Maps, Monsters. - Gati the Storm Sister in IC Sewers"
+  },
+  {
+    "id": "torc-strand-of-lore",
+    "name": "Torc Strand of Lore",
+    "icon": "https://eso-hub.com/storage/icons/quest_deshaan_dwemer_control_rod.png",
+    "zone": "Alik'r Desert",
+    "item": "Torc of Tonal Constancy",
+    "location": "World Bosses\n Click here to view on map"
+  },
+  {
+    "id": "weathered-dwarven-cogs",
+    "name": "Weathered Dwarven Cogs",
+    "icon": "https://eso-hub.com/storage/icons/crafting_metals_dwarven_scrap.png",
+    "zone": "Alik'r Desert",
+    "item": "Ebon Dwarven Wolf",
+    "location": "Aldunz Delve, Boss Thinks-in-Gears\n Click here to view on map"
+  },
+  {
+    "id": "ancestor-samite-stole",
+    "name": "Ancestor Samite Stole",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_unique_psijic_stole.png",
+    "zone": "Telvanni Peninsula",
+    "item": "Cryptcanon Vestments",
+    "location": "Uzur the All-Seeing Delve Boss in The Disquiet Study Delve\n Click here to view on map"
+  },
+  {
+    "id": "antique-cipher-vestments",
+    "name": "Antique Cipher Vestments",
+    "icon": "https://eso-hub.com/storage/icons/gear_scribesofmora_light_robe_a.png",
+    "zone": "Apocrypha",
+    "item": "",
+    "location": "Reward for excavating previous level treasure lead"
+  },
+  {
+    "id": "apocrypha-fossil-bones-large",
+    "name": "Apocrypha Fossil, Bones Large",
+    "icon": "https://eso-hub.com/storage/icons/housing_rok_apc_fossil004.png",
+    "zone": "Telvanni Peninsula",
+    "item": "Apocrypha Fossil, Bones Large",
+    "location": "Treasure Map Chests in Apocrypha and Telvanni Peninsula Zones."
+  },
+  {
+    "id": "apocrypha-fossil-worm",
+    "name": "Apocrypha Fossil, Worm",
+    "icon": "https://eso-hub.com/storage/icons/housing_tre_apc_fossiltree012.png",
+    "zone": "Telvanni Peninsula",
+    "item": "Apocrypha Fossil, Worm",
+    "location": "Treasure Map in Telvanni Peninsula and Apocrypha"
+  },
+  {
+    "id": "dark-metal-cubes",
+    "name": "Dark Metal Cubes",
+    "icon": "https://eso-hub.com/storage/icons/crafting_ore_base_orichrome_r3.png",
+    "zone": "Telvanni Peninsula",
+    "item": "Music Box, Glyphic Secrets",
+    "location": "Bastion Nymic World Event, Chest after defeating the main boss.\n Click here to view on map"
+  },
+  {
+    "id": "darklight-gemstone",
+    "name": "Darklight Gemstone",
+    "icon": "https://eso-hub.com/storage/icons/housing_cld_inc_soulgem008.png",
+    "zone": "Telvanni Peninsula",
+    "item": "Music Box, Glyphic Secrets",
+    "location": "Fathom's Drift delve, Lightkeeper boss"
+  },
+  {
+    "id": "ebony-shalk-mounting",
+    "name": "Ebony Shalk Mounting",
+    "icon": "https://eso-hub.com/storage/icons/pet_blueclockworkshal.png",
+    "zone": "Telvanni Peninsula",
+    "item": "Velothi Ur-Mage's Amulet",
+    "location": "Runemaster's Acropolis world boss, Apocrypha zone\n Click here to view on map"
+  },
+  {
+    "id": "ensorceled-drying-twine",
+    "name": "Ensorceled Drying Twine",
+    "icon": "https://eso-hub.com/storage/icons/fragment_costume_sixthhouse_thread.png",
+    "zone": "Telvanni Peninsula",
+    "item": "Spore Savant Face Marks",
+    "location": "World boss at Chthon Plaza; Valkynaz Dek in Apocrypha\n Click here to view on map"
+  },
+  {
+    "id": "lucent-cabochon",
+    "name": "Lucent Cabochon",
+    "icon": "https://eso-hub.com/storage/icons/u38_antiquities_lucentcabochon.png",
+    "zone": "Telvanni Peninsula",
+    "item": "Velothi Ur-Mage's Amulet",
+    "location": "The Underweave Public Dungeon bosses, Apocrypha zone\n Click here to view on map"
+  },
+  {
+    "id": "mushroom-classification-book",
+    "name": "Mushroom Classification Book",
+    "icon": "https://eso-hub.com/storage/icons/housing_uni_inc_mushroombook001.png",
+    "zone": "Telvanni Peninsula",
+    "item": "Mushroom Classification Book",
+    "location": "Treasure Map Chests in Apocrypha and Telvanni Peninsula Zones."
+  },
+  {
+    "id": "netch-shield-mushroom-stencil",
+    "name": "Netch Shield Mushroom Stencil",
+    "icon": "https://eso-hub.com/storage/icons/u38_antiquities_netchshieldmushroomstencil.png",
+    "zone": "Telvanni Peninsula",
+    "item": "Spore Savant Body Marks",
+    "location": "World Boss Deepreave Quag\n Click here to view on map"
+  },
+  {
+    "id": "ring-of-stone",
+    "name": "Ring of Stone",
+    "icon": "https://eso-hub.com/storage/icons/u38_antiquities_ringofstone.png",
+    "zone": "Telvanni Peninsula",
+    "item": "Apocryphal Well",
+    "location": "Treasure Map Chest in the Apocrypha zone\n Click here to view on map"
+  },
+  {
+    "id": "rune-carved-key",
+    "name": "Rune-Carved Key",
+    "icon": "https://eso-hub.com/storage/icons/housing_cwc_inc_kwamapedestalkeypiston001.png",
+    "zone": "Telvanni Peninsula",
+    "item": "Music Box, Glyphic Secrets",
+    "location": "The Prime Cataloger world boss"
+  },
+  {
+    "id": "rune-etched-cylinder",
+    "name": "Rune-Etched Cylinder",
+    "icon": "https://eso-hub.com/storage/icons/quest_uni_inc_questhighmourndizi001.png",
+    "zone": "Telvanni Peninsula",
+    "item": "Music Box, Glyphic Secrets",
+    "location": "Boss in Apogee of the Tormenting Eye Delve\n Click here to view on map"
+  },
+  {
+    "id": "rust-funnelcap-paint",
+    "name": "Rust Funnelcap Paint",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_unique_deathbringer_facepaint.png",
+    "zone": "Telvanni Peninsula",
+    "item": "Spore Savant Body Marks",
+    "location": "Bastion Nymic World Event Chests or Bosses\n Click here to view on map"
+  },
+  {
+    "id": "seeker-claw-quill",
+    "name": "Seeker Claw Quill",
+    "icon": "https://eso-hub.com/storage/icons/housing_gen_exc_lgclaw001.png",
+    "zone": "Apocrypha",
+    "item": "",
+    "location": "Zone Starter Lead"
+  },
+  {
+    "id": "sporecrafters-grinding-stone",
+    "name": "Sporecrafter's Grinding Stone",
+    "icon": "https://eso-hub.com/storage/icons/housing_cra_inc_grindingstone001.png",
+    "zone": "Telvanni Peninsula",
+    "item": "Spore Savant Face Marks",
+    "location": "Bastion Nymic World Event Chests in Apocrypha and Telvanni Peninsula zones\n Click here to view on map"
+  },
+  {
+    "id": "vial-of-watcher-ink",
+    "name": "Vial of Watcher Ink",
+    "icon": "https://eso-hub.com/storage/icons/housing_bre_inc_potion001.png",
+    "zone": "Apocrypha",
+    "item": "",
+    "location": "Reward for excavating zone starter lead"
+  },
+  {
+    "id": "coral-plating",
+    "name": "Coral Plating",
+    "icon": "https://eso-hub.com/storage/icons/housing_tre_sum_sloadcoraltree001.png",
+    "zone": "Artaeum",
+    "item": "Thrassian Stranglers",
+    "location": "Fishing in Artaeum\n Click here to view on map"
+  },
+  {
+    "id": "faded-psijic-folio",
+    "name": "Faded Psijic Folio",
+    "icon": "https://eso-hub.com/storage/icons/quest_book_002.png",
+    "zone": "Artaeum",
+    "item": "",
+    "location": "Freebie Starter Lead"
+  },
+  {
+    "id": "ritemasters-slate",
+    "name": "Ritemaster's Slate",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_trinket.png",
+    "zone": "Artaeum",
+    "item": "",
+    "location": "Reward for excavating Warped Scrying Dipper"
+  },
+  {
+    "id": "warped-scrying-dipper",
+    "name": "Warped Scrying Dipper",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_spoon_001.png",
+    "zone": "Artaeum",
+    "item": "",
+    "location": "Reward for excavating Faded Psijic Folio"
+  },
+  {
+    "id": "aetherquartz-prayer-beads",
+    "name": "Aetherquartz Prayer Beads",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_beads_001.png",
+    "zone": "Auridon",
+    "item": "Pearls of Ehlnofey",
+    "location": "Auridon Delve Bosses\n Click here to view on map"
+  },
+  {
+    "id": "aldmeri-golden-embellishments",
+    "name": "Aldmeri Golden Embellishments",
+    "icon": "https://eso-hub.com/storage/icons/quest_goldenseal001.png",
+    "zone": "Auridon",
+    "item": "",
+    "location": "Thieves Troves in any zone"
+  },
+  {
+    "id": "ancestral-high-elf-bows",
+    "name": "Ancestral High Elf: Bows",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "Auridon",
+    "item": "Ancestral High Elf Bow",
+    "location": "Treasure Map Chest\n Click here to view on map"
+  },
+  {
+    "id": "ancestral-high-elf-chests",
+    "name": "Ancestral High Elf: Chests",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "Auridon",
+    "item": "Ancestral High Elf Cuirass\nAncestral High Elf Jack\nAncestral High Elf Robe",
+    "location": "Treasure Map Chest\n Click here to view on map"
+  },
+  {
+    "id": "antique-map-of-auridon",
+    "name": "Antique Map of Auridon",
+    "icon": "https://eso-hub.com/storage/icons/housing_gen_inc_mappropsauridonscroll001.png",
+    "zone": "Auridon",
+    "item": "Antique Map of Auridon",
+    "location": "Found in Firsthold City (up North) in the “Overlook Inn” Barkeeper NPC (Requires Pathfinder Achievement)"
+  },
+  {
+    "id": "aquiline-calian-sphere",
+    "name": "Aquiline Calian Sphere",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_gem_002.png",
+    "zone": "Auridon",
+    "item": "",
+    "location": "Reward for excavating Scale-Etched Slither Pipe"
+  },
+  {
+    "id": "echoes-of-aldmeris",
+    "name": "Echoes of Aldmeris",
+    "icon": "https://eso-hub.com/storage/icons/housing_uni_inc_antechoesofaldmeris001.png",
+    "zone": "Auridon",
+    "item": "Echoes of Aldmeris",
+    "location": "Chests, Pack Merchants Bag"
+  },
+  {
+    "id": "festival-of-defiance-token",
+    "name": "Festival of Defiance Token",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_token_001.png",
+    "zone": "Auridon",
+    "item": "",
+    "location": "Freebie Starter Lead"
+  },
+  {
+    "id": "inert-anemone-inlay",
+    "name": "Inert Anemone Inlay",
+    "icon": "https://eso-hub.com/storage/icons/housing_veg_fan_forestanemone001.png",
+    "zone": "Auridon",
+    "item": "Thrassian Stranglers",
+    "location": "All World Bosses in Auridon\n Click here to view on map"
+  },
+  {
+    "id": "maormeri-serpent-shrine",
+    "name": "Maormeri Serpent Shrine",
+    "icon": "https://eso-hub.com/storage/icons/housing_uni_inc_antmaormeriserpentshrine001.png",
+    "zone": "Auridon",
+    "item": "Maormeri Serpent Shrine",
+    "location": "Safeboxes, Treasure Map Chests, Public Dungeon Boss, Monster, Thieves Troves"
+  },
+  {
+    "id": "scale-etched-slither-pipe",
+    "name": "Scale-Etched Slither Pipe",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_pipe_001.png",
+    "zone": "Auridon",
+    "item": "",
+    "location": "Reward for Excavating Festival of Defiance Token"
+  },
+  {
+    "id": "vitharn-crafted-bail",
+    "name": "Vitharn-crafted Bail",
+    "icon": "https://eso-hub.com/storage/icons/antiquities_singersteel_clasp.png",
+    "zone": "West Weald",
+    "item": "The Saint and the Seducer",
+    "location": "Auridon Dolmens (Likely All Dolmens in any zone)\n Click here to view on map"
+  },
+  {
+    "id": "ancestral-nord-belts",
+    "name": "Ancestral Nord: Belts",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "Bal Foyen",
+    "item": "Ancestral Nord Belt\nAncestral Nord Girdle\nAncestral Nord Sash",
+    "location": "Treasure Map Chest\n Click here to view on map"
+  },
+  {
+    "id": "ancestral-nord-staves",
+    "name": "Ancestral Nord: Staves",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "Bal Foyen",
+    "item": "Ancestral Nord Staff",
+    "location": "Treasure Map Chest\n Click here to view on map"
+  },
+  {
+    "id": "basalt-table-game-set",
+    "name": "Basalt Table-Game Set",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_game_001.png",
+    "zone": "Bal Foyen",
+    "item": "",
+    "location": "Freebie Starter lead"
+  },
+  {
+    "id": "great-house-gold-chalice",
+    "name": "Great House Gold Chalice",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_goblet_001.png",
+    "zone": "Bal Foyen",
+    "item": "",
+    "location": "Reward for excavating Basalt Table-Game Set"
+  },
+  {
+    "id": "resdayni-signet-ring",
+    "name": "Resdayni Signet Ring",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_ring_001.png",
+    "zone": "Bal Foyen",
+    "item": "",
+    "location": "Reward for excavating Great House Gold Chalice"
+  },
+  {
+    "id": "silverweave-cord",
+    "name": "Silverweave Cord",
+    "icon": "https://eso-hub.com/storage/icons/antiquities_u30_mythic_legs_fragment05.png",
+    "zone": "Blackwood",
+    "item": "Harpooner's Wading Kilt",
+    "location": "Covenant Enemies, most likely all enemies\n Click here to view on map"
+  },
+  {
+    "id": "the-dutiful-guar",
+    "name": "The Dutiful Guar",
+    "icon": "https://eso-hub.com/storage/icons/housing_uni_inc_antdutifulguar001.png",
+    "zone": "Bal Foyen",
+    "item": "The Dutiful Guar",
+    "location": "Safeboxes, Thieves Troves, Treasure Chests"
+  },
+  {
+    "id": "tri-angled-truth-altar",
+    "name": "Tri-Angled Truth Altar",
+    "icon": "https://eso-hub.com/storage/icons/housing_uni_inc_triangledtruthaltar001.png",
+    "zone": "Bal Foyen",
+    "item": "Tri-Angled Truth Altar",
+    "location": "Safeboxes"
+  },
+  {
+    "id": "ancestral-orc-legs",
+    "name": "Ancestral Orc: Legs",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "Bangkorai",
+    "item": "Ancestral Orc Greaves\nAncestral Orc Guards\nAncestral Orc Breeches",
+    "location": "Treasure Map Chest\n Click here to view on map"
+  },
+  {
+    "id": "ancestral-orc-shields",
+    "name": "Ancestral Orc: Shields",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "Bangkorai",
+    "item": "Ancestral Orc Shield",
+    "location": "Treasure Map Chest\n Click here to view on map"
+  },
+  {
+    "id": "antique-map-of-bangkorai",
+    "name": "Antique Map of Bangkorai",
+    "icon": "https://eso-hub.com/storage/icons/housing_gen_inc_mappropsbangkoraiscroll001.png",
+    "zone": "Bangkorai",
+    "item": "Antique Map of Bangkorai",
+    "location": "Fount at the Inn (Need Pathfinder Achievement)"
+  },
+  {
+    "id": "aurmine-ancestral-signet",
+    "name": "Aurmine Ancestral Signet",
+    "icon": "https://eso-hub.com/storage/icons/quest_vvardenfell_kwama_key_gear.png",
+    "zone": "Bangkorai",
+    "item": "Ring of the Pale Order",
+    "location": "Chests\n Click here to view on map"
+  },
+  {
+    "id": "dwarven-rib-frame",
+    "name": "Dwarven Rib-Frame",
+    "icon": "https://eso-hub.com/storage/icons/housing_gen_exc_lgribcage001.png",
+    "zone": "Bangkorai",
+    "item": "Ebon Dwarven Wolf",
+    "location": "Klathzgars Centurion in Klathzgar Delve\n Click here to view on map"
+  },
+  {
+    "id": "dwemer-trade-bar",
+    "name": "Dwemer Trade Bar",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_trinket.png",
+    "zone": "Bangkorai",
+    "item": "",
+    "location": "Reward for excavating Wyrd Root Figure"
+  },
+  {
+    "id": "frost-lancer",
+    "name": "Frost Lancer",
+    "icon": "https://eso-hub.com/storage/icons/quest_crate_001.png",
+    "zone": "Bangkorai",
+    "item": "",
+    "location": "Gladiator’s Rucksack from Cyrodiil Daily Quest"
+  },
+  {
+    "id": "sloped-dwarven-guards",
+    "name": "Sloped Dwarven Guards",
+    "icon": "https://eso-hub.com/storage/icons/crafting_dwemer_shiny_tube.png",
+    "zone": "Bangkorai",
+    "item": "Ebon Dwarven Wolf",
+    "location": "Any Boss in Razak’s Wheel Public Dungeon\n Click here to view on map"
+  },
+  {
+    "id": "st-pelins-clod",
+    "name": "St. Pelin's Clod",
+    "icon": "https://eso-hub.com/storage/icons/crafting_gems_carnelian.png",
+    "zone": "Bangkorai",
+    "item": "",
+    "location": "Freebie Starter Lead"
+  },
+  {
+    "id": "tall-papas-lamp",
+    "name": "Tall Papa's Lamp",
+    "icon": "https://eso-hub.com/storage/icons/housing_uni_inc_anttallpapalamp001.png",
+    "zone": "Bangkorai",
+    "item": "Tall Papa's Lamp",
+    "location": "Safeboxes, Thieves Trove, World Bosses, Public Dungeon Bosses, Nightstand in Anchor’s Point Inn, Evermore, Klathzgar Delve Boss"
+  },
+  {
+    "id": "wyrd-root-figure",
+    "name": "Wyrd Root Figure",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_figurine_001.png",
+    "zone": "Bangkorai",
+    "item": "",
+    "location": "Reward for excavating St. Pelins clod"
+  },
+  {
+    "id": "ancestral-orc-belts",
+    "name": "Ancestral Orc: Belts",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "Betnikh",
+    "item": "Ancestral Orc Belt\nAncestral Orc Girdle\nAncestral Orc Sash",
+    "location": "Treasure Map Chest\n Click here to view on map"
+  },
+  {
+    "id": "ancestral-orc-staves",
+    "name": "Ancestral Orc: Staves",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "Betnikh",
+    "item": "Ancestral Orc Staff",
+    "location": "Treasure Map Chest\n Click here to view on map"
+  },
+  {
+    "id": "ayleid-lightwell",
+    "name": "Ayleid Lightwell",
+    "icon": "https://eso-hub.com/storage/icons/housing_uni_inc_antayleidlightwell001.png",
+    "zone": "Betnikh",
+    "item": "Ayleid Lightwell",
+    "location": "Treasure Map, Thieves Trove, Safebox, Nodes, Any random Monster in the zone"
+  },
+  {
+    "id": "ayleid-tendrilled-eye",
+    "name": "Ayleid Tendrilled Eye",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_paperweight_001.png",
+    "zone": "Betnikh",
+    "item": "",
+    "location": "Reward for excavating Orcish Siege Gear"
+  },
+  {
+    "id": "cornerstone-of-reman-ii",
+    "name": "Cornerstone of Reman II",
+    "icon": "https://eso-hub.com/storage/icons/housing_imp_duc_wallbrick001.png",
+    "zone": "Betnikh",
+    "item": "",
+    "location": "Reward for excavating Aylied Tendrilled Eye"
+  },
+  {
+    "id": "malacaths-brutal-scourge-hoop",
+    "name": "Malacath's Brutal Scourge Hoop",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_spriggan_hoop_base_01.png",
+    "zone": "Betnikh",
+    "item": "Malacath's Band of Brutality",
+    "location": "Random Monster\n Click here to view on map"
+  },
+  {
+    "id": "orcish-siege-gear",
+    "name": "Orcish Siege Gear",
+    "icon": "https://eso-hub.com/storage/icons/quest_shadowfen_alchemical_device.png",
+    "zone": "Betnikh",
+    "item": "",
+    "location": "Freebie Starter Lead"
+  },
+  {
+    "id": "warcallers-painted-drum",
+    "name": "Warcaller's Painted Drum",
+    "icon": "https://eso-hub.com/storage/icons/housing_uni_inc_antwarcallerspainteddrum001.png",
+    "zone": "Betnikh",
+    "item": "Warcaller's Painted Drum",
+    "location": "Random Monster"
+  },
+  {
+    "id": "pale-orders-golden-band",
+    "name": "Pale Order's Golden Band",
+    "icon": "https://eso-hub.com/storage/icons/quest_jewelry_005.png",
+    "zone": "The Reach",
+    "item": "Ring of the Pale Order",
+    "location": "Nighthollow Keep (East side of the map) Follow the way, down the stairs on the right, read the \"Ancient Text\" paper on the table. (Long Respawn Time)\n Click here to view on map"
+  },
+  {
+    "id": "ancestral-akaviri-axes",
+    "name": "Ancestral Akaviri: Axes",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "Blackwood",
+    "item": "Ancestral Akaviri Axe\nAncestral Akaviri Battle Axe",
+    "location": "Treasure Map\n Click here to view on map"
+  },
+  {
+    "id": "ancestral-akaviri-belts",
+    "name": "Ancestral Akaviri: Belts",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "Blackwood",
+    "item": "Ancestral Akaviri Belt\nAncestral Akaviri Girdle\nAncestral Akaviri Sash",
+    "location": "Treasure Map\n Click here to view on map"
+  },
+  {
+    "id": "ancestral-akaviri-boots",
+    "name": "Ancestral Akaviri: Boots",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "Blackwood",
+    "item": "Ancestral Akaviri Boots\nAncestral Akaviri Shoes\nAncestral Akaviri Sabatons",
+    "location": "Treasure Map\n Click here to view on map"
+  },
+  {
+    "id": "ancestral-akaviri-bows",
+    "name": "Ancestral Akaviri: Bows",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "Blackwood",
+    "item": "Ancestral Akaviri Bow",
+    "location": "Treasure Map\n Click here to view on map"
+  },
+  {
+    "id": "ancestral-akaviri-chests",
+    "name": "Ancestral Akaviri: Chests",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "Blackwood",
+    "item": "Ancestral Akaviri Cuirass\nAncestral Akaviri Jack\nAncestral Akaviri Robe",
+    "location": "Treasure Map\n Click here to view on map"
+  },
+  {
+    "id": "ancestral-akaviri-daggers",
+    "name": "Ancestral Akaviri: Daggers",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "Blackwood",
+    "item": "Ancestral Akaviri Dagger",
+    "location": "Treasure Map\n Click here to view on map"
+  },
+  {
+    "id": "ancestral-akaviri-gloves",
+    "name": "Ancestral Akaviri: Gloves",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "Blackwood",
+    "item": "Ancestral Akaviri Gloves\nAncestral Akaviri Gauntlets\nAncestral Akaviri Bracers",
+    "location": "Treasure Map\n Click here to view on map"
+  },
+  {
+    "id": "ancestral-akaviri-helmets",
+    "name": "Ancestral Akaviri: Helmets",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "Blackwood",
+    "item": "Ancestral Akaviri Helmet\nAncestral Akaviri Helm\nAncestral Akaviri Hat",
+    "location": "Treasure Map\n Click here to view on map"
+  },
+  {
+    "id": "ancestral-akaviri-legs",
+    "name": "Ancestral Akaviri: Legs",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "Blackwood",
+    "item": "Ancestral Akaviri Greaves\nAncestral Akaviri Breeches\nAncestral Akaviri Guards",
+    "location": "Treasure Map\n Click here to view on map"
+  },
+  {
+    "id": "ancestral-akaviri-maces",
+    "name": "Ancestral Akaviri: Maces",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "Blackwood",
+    "item": "Ancestral Akaviri Mace\nAncestral Akaviri Maul",
+    "location": "Treasure Map\n Click here to view on map"
+  },
+  {
+    "id": "ancestral-akaviri-shields",
+    "name": "Ancestral Akaviri: Shields",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "Blackwood",
+    "item": "Ancestral Akaviri Shield",
+    "location": "Treasure Map\n Click here to view on map"
+  },
+  {
+    "id": "ancestral-akaviri-shoulders",
+    "name": "Ancestral Akaviri: Shoulders",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "Blackwood",
+    "item": "Ancestral Akaviri Pauldrons\nAncestral Akaviri Arm Cops\nAncestral Akaviri Epaulets",
+    "location": "Treasure Map\n Click here to view on map"
+  },
+  {
+    "id": "ancestral-akaviri-staves",
+    "name": "Ancestral Akaviri: Staves",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "Blackwood",
+    "item": "Ancestral Akaviri Staff",
+    "location": "Treasure Map\n Click here to view on map"
+  },
+  {
+    "id": "ancestral-akaviri-swords",
+    "name": "Ancestral Akaviri: Swords",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "Blackwood",
+    "item": "Ancestral Akaviri Sword\nAncestral Akaviri Greatsword",
+    "location": "Treasure Map\n Click here to view on map"
+  },
+  {
+    "id": "antique-map-of-blackwood",
+    "name": "Antique Map of Blackwood",
+    "icon": "https://eso-hub.com/storage/icons/housing_gen_inc_mappropsleyawiinscroll001.png",
+    "zone": "Blackwood",
+    "item": "Antique Map of Blackwood",
+    "location": "Found at the Inn (Requires Pathfinder Achievement)"
+  },
+  {
+    "id": "bog-blight-funerary-mask",
+    "name": "Bog Blight Funerary Mask",
+    "icon": "https://eso-hub.com/storage/icons/cos_bogblightmask.png",
+    "zone": "Blackwood",
+    "item": "",
+    "location": "West of the Rockgrove Trial on a stick\n Click here to view on map"
+  },
+  {
+    "id": "dusty-tapestry-scrap",
+    "name": "Dusty Tapestry Scrap",
+    "icon": "https://eso-hub.com/storage/icons/antiquities_u30_museum_fragment10.png",
+    "zone": "Blackwood",
+    "item": "Blackwood Tapestry",
+    "location": "South East of the Xeemhok's Lagoon World Boss, destroyed hut next to a Skeleton\n Click here to view on map"
+  },
+  {
+    "id": "filthy-tapestry-scrap",
+    "name": "Filthy Tapestry Scrap",
+    "icon": "https://eso-hub.com/storage/icons/antiquities_u30_museum_fragment11.png",
+    "zone": "Blackwood",
+    "item": "Blackwood Tapestry",
+    "location": "Ruined cart Sout-East of the Blueblood Wayshrine\n Click here to view on map"
+  },
+  {
+    "id": "frayed-tapestry-scrap",
+    "name": "Frayed Tapestry Scrap",
+    "icon": "https://eso-hub.com/storage/icons/antiquities_u30_museum_fragment02.png",
+    "zone": "Blackwood",
+    "item": "Blackwood Tapestry",
+    "location": "Inside a tunnel next to the Vunalk Wayshrine behind a shrine.\n Click here to view on map"
+  },
+  {
+    "id": "glass-skeletal-visage",
+    "name": "Glass Skeletal Visage",
+    "icon": "https://eso-hub.com/storage/icons/antiquities_u30_mythic_helm_fragment01.png",
+    "zone": "Blackwood",
+    "item": "Gaze of Sithis",
+    "location": "Public Dungeon Zenithar’s Abbey, all bosses\n Click here to view on map"
+  },
+  {
+    "id": "grimy-tapestry-scrap",
+    "name": "Grimy Tapestry Scrap",
+    "icon": "https://eso-hub.com/storage/icons/antiquities_u30_museum_fragment09.png",
+    "zone": "Blackwood",
+    "item": "Blackwood Tapestry",
+    "location": "Northeast wall outside of the \"The Silent Halls\" Public Dungeon next to a a digplace with a shovel.\n Click here to view on map"
+  },
+  {
+    "id": "holey-tapestry-scrap",
+    "name": "Holey Tapestry Scrap",
+    "icon": "https://eso-hub.com/storage/icons/antiquities_u30_museum_fragment12.png",
+    "zone": "Blackwood",
+    "item": "Blackwood Tapestry",
+    "location": "Close to Gideon town, inside Duchess's Private Study hideout, inside the broken wall.\n Click here to view on map"
+  },
+  {
+    "id": "imperial-legionarys-spade",
+    "name": "Imperial Legionary's Spade",
+    "icon": "https://eso-hub.com/storage/icons/housing_skr_inc_toolscraper001.png",
+    "zone": "Blackwood",
+    "item": "",
+    "location": "Zone Starter Lead"
+  },
+  {
+    "id": "kothringi-tidal-canoe",
+    "name": "Kothringi Tidal Canoe",
+    "icon": "https://eso-hub.com/storage/icons/housing_uni_exc_antkothringicanoe001.png",
+    "zone": "Blackwood",
+    "item": "Kothringi Tidal Canoe",
+    "location": "Daily Quest in Blackwood from the reward box."
+  },
+  {
+    "id": "kothringi-cut-leather",
+    "name": "Kothringi-Cut Leather",
+    "icon": "https://eso-hub.com/storage/icons/antiquities_u30_mythic_legs_fragment01.png",
+    "zone": "Blackwood",
+    "item": "Harpooner's Wading Kilt",
+    "location": "World Bosses\n Click here to view on map"
+  },
+  {
+    "id": "moth-eaten-tapestry-scrap",
+    "name": "Moth-Eaten Tapestry Scrap",
+    "icon": "https://eso-hub.com/storage/icons/antiquities_u30_museum_fragment14.png",
+    "zone": "Blackwood",
+    "item": "Blackwood Tapestry",
+    "location": "West of the Leyawiin Outskirts Wayshrine inside a cave\n Click here to view on map"
+  },
+  {
+    "id": "preserved-wraxu-feathers",
+    "name": "Preserved Wraxu Feathers",
+    "icon": "https://eso-hub.com/storage/icons/antiquities_u30_mythic_helm_fragment02.png",
+    "zone": "Blackwood",
+    "item": "Gaze of Sithis",
+    "location": "\"Remains-Silent\" NPC in any Outlaws Refugee. Pick: \"Have any equipment today\" option. Drop is RNG based. Need \"Shadowy Supplier\" passive unlocked from Dark Bortherhood Skillline.\n Click here to view on map"
+  },
+  {
+    "id": "ragged-tapestry-scrap",
+    "name": "Ragged Tapestry Scrap",
+    "icon": "https://eso-hub.com/storage/icons/antiquities_u30_museum_fragment07.png",
+    "zone": "Blackwood",
+    "item": "Blackwood Tapestry",
+    "location": "Next to a boat at the water close to the Tidewater Cave\n Click here to view on map"
+  },
+  {
+    "id": "ratty-tapestry-scrap",
+    "name": "Ratty Tapestry Scrap",
+    "icon": "https://eso-hub.com/storage/icons/antiquities_u30_museum_fragment15.png",
+    "zone": "Blackwood",
+    "item": "Blackwood Tapestry",
+    "location": "South of the White Stallion Inn (North of the Leyawiin City)\n Click here to view on map"
+  },
+  {
+    "id": "reinforced-clasp-anchor",
+    "name": "Reinforced Clasp Anchor",
+    "icon": "https://eso-hub.com/storage/icons/antiquities_u30_mythic_neck_fragment05.png",
+    "zone": "Blackwood",
+    "item": "Shapeshifter's Chain",
+    "location": "Public Dungeon Silent Halls, Woodwhisperer Boss, Vor’Chul The Beastbreaker Boss, most likely all bosses\n Click here to view on map"
+  },
+  {
+    "id": "ripped-tapestry-scrap",
+    "name": "Ripped Tapestry Scrap",
+    "icon": "https://eso-hub.com/storage/icons/antiquities_u30_museum_fragment08.png",
+    "zone": "Blackwood",
+    "item": "Blackwood Tapestry",
+    "location": "North of the Vunalk Wayshrine at the big lake inside a destroyed hut\n Click here to view on map"
+  },
+  {
+    "id": "saint-kaladass-plumb-bob",
+    "name": "Saint Kaladas's Plumb Bob",
+    "icon": "https://eso-hub.com/storage/icons/housing_orc_duc_puzzledoorweight002.png",
+    "zone": "Blackwood",
+    "item": "",
+    "location": "Reward for excavating Shattered Ayleid Cloak Clasp"
+  },
+  {
+    "id": "shattered-ayleid-cloak-clasp",
+    "name": "Shattered Ayleid Cloak Clasp",
+    "icon": "https://eso-hub.com/storage/icons/adornment_chainedwrath.png",
+    "zone": "Blackwood",
+    "item": "",
+    "location": "Reward for excavating Imperial Legionary Spade"
+  },
+  {
+    "id": "soiled-tapestry-scrap",
+    "name": "Soiled Tapestry Scrap",
+    "icon": "https://eso-hub.com/storage/icons/antiquities_u30_museum_fragment01.png",
+    "zone": "Blackwood",
+    "item": "Blackwood Tapestry",
+    "location": "At the Stonewastes Wayshrine next to an extinguished fire and a tent (South of the Blackwood Map)\n Click here to view on map"
+  },
+  {
+    "id": "stained-tapestry-scrap",
+    "name": "Stained Tapestry Scrap",
+    "icon": "https://eso-hub.com/storage/icons/antiquities_u30_museum_fragment03.png",
+    "zone": "Blackwood",
+    "item": "Blackwood Tapestry",
+    "location": "South-East of the Stonewastes Wayshrine on top of a wheatered building\n Click here to view on map"
+  },
+  {
+    "id": "stitched-tapestry-scrap",
+    "name": "Stitched Tapestry Scrap",
+    "icon": "https://eso-hub.com/storage/icons/antiquities_u30_museum_fragment13.png",
+    "zone": "Blackwood",
+    "item": "Blackwood Tapestry",
+    "location": "North West of the Xi-Tsei Delve close to a boat\n Click here to view on map"
+  },
+  {
+    "id": "tattered-tapestry-scrap",
+    "name": "Tattered Tapestry Scrap",
+    "icon": "https://eso-hub.com/storage/icons/antiquities_u30_museum_fragment05.png",
+    "zone": "Blackwood",
+    "item": "Blackwood Tapestry",
+    "location": "East of the Leyawiin city, over the bridge and then to the right side, next to a skeleton and a backpack\n Click here to view on map"
+  },
+  {
+    "id": "threadbare-tapestry-scrap",
+    "name": "Threadbare Tapestry Scrap",
+    "icon": "https://eso-hub.com/storage/icons/antiquities_u30_museum_fragment06.png",
+    "zone": "Blackwood",
+    "item": "Blackwood Tapestry",
+    "location": "South of Glenbridge next to a tent, a bit off the road\n Click here to view on map"
+  },
+  {
+    "id": "torn-tapestry-scrap",
+    "name": "Torn Tapestry Scrap",
+    "icon": "https://eso-hub.com/storage/icons/antiquities_u30_museum_fragment04.png",
+    "zone": "Blackwood",
+    "item": "Blackwood Tapestry",
+    "location": "South of \"The Shattered Xanmeer\" Boss.\n Click here to view on map"
+  },
+  {
+    "id": "void-alloy-lame-plates",
+    "name": "Void Alloy Lame Plates",
+    "icon": "https://eso-hub.com/storage/icons/quest_planararmor.png",
+    "zone": "Deadlands",
+    "item": "Spaulder of Ruin",
+    "location": "Leyawiin safeboxes, Blackwood safeboxes\n Click here to view on map"
+  },
+  {
+    "id": "warm-asymmetrical-ruby",
+    "name": "Warm Asymmetrical Ruby",
+    "icon": "https://eso-hub.com/storage/icons/antiquities_u30_mythic_ring_fragment02.png",
+    "zone": "Blackwood",
+    "item": "Death Dealer's Fete",
+    "location": "Oblivion Portal final chest\n Click here to view on map"
+  },
+  {
+    "id": "zen-idol",
+    "name": "Z'en Idol",
+    "icon": "https://eso-hub.com/storage/icons/housing_uni_inc_antzenidol001.png",
+    "zone": "Blackwood",
+    "item": "Z'en Idol",
+    "location": "Chests, Safeboxes, Thieves Troves, Public and Delve Dungeons, World Bosses, Harvesting Nodes"
+  },
+  {
+    "id": "ancestral-nord-axes",
+    "name": "Ancestral Nord: Axes",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "Bleakrock Isle",
+    "item": "Ancestral Nord Axe\nAncestral Nord Battle Axe",
+    "location": "Treasure Map Chest\n Click here to view on map"
+  },
+  {
+    "id": "ancestral-nord-helmets",
+    "name": "Ancestral Nord: Helmets",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "Bleakrock Isle",
+    "item": "Ancestral Nord Helmet\nAncestral Nord Helm\nAncestral Nord Hat",
+    "location": "Treasmure Map Chest\n Click here to view on map"
+  },
+  {
+    "id": "auri-el-metal-carvings",
+    "name": "Auri-El Metal Carvings",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_token_001.png",
+    "zone": "Bleakrock Isle",
+    "item": "Snow Treaders",
+    "location": "Random Monsters\n Click here to view on map"
+  },
+  {
+    "id": "brazier-of-frozen-flame",
+    "name": "Brazier of Frozen Flame",
+    "icon": "https://eso-hub.com/storage/icons/housing_uni_inc_antbrazieroffrozenflame001.png",
+    "zone": "Bleakrock Isle",
+    "item": "Brazier of Frozen Flame",
+    "location": "Random Monsters"
+  },
+  {
+    "id": "cloven-ritual-mask",
+    "name": "Cloven Ritual Mask",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_mask_full_001.png",
+    "zone": "Bleakrock Isle",
+    "item": "",
+    "location": "Reward for excavating Rune-Carved Steering Oar"
+  },
+  {
+    "id": "high-king-sunstone",
+    "name": "High King Sunstone",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_gem_002.png",
+    "zone": "Bleakrock Isle",
+    "item": "",
+    "location": "Reward for excavating Cloven Ritual Mask"
+  },
+  {
+    "id": "ruby-dragon-skull",
+    "name": "Ruby Dragon Skull",
+    "icon": "https://eso-hub.com/storage/icons/housing_uni_inc_rubydragon001.png",
+    "zone": "Bleakrock Isle",
+    "item": "Ruby Dragon Skull",
+    "location": "Treasure Chest, Nodes, Thieves Troves, Random Monsters"
+  },
+  {
+    "id": "rune-carved-steering-oar",
+    "name": "Rune-carved Steering Oar",
+    "icon": "https://eso-hub.com/storage/icons/quest_wand_001.png",
+    "zone": "Bleakrock Isle",
+    "item": "",
+    "location": "Freebie Starter Lead"
+  },
+  {
+    "id": "apostles-scourge",
+    "name": "Apostle's Scourge",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_stickwithstring.png",
+    "zone": "Clockwork City",
+    "item": "",
+    "location": "Reward for excavating Series Tweo Animo Core"
+  },
+  {
+    "id": "clockwork-wall-gears",
+    "name": "Clockwork Wall Gears",
+    "icon": "https://eso-hub.com/storage/icons/housing_cwc_str_inlayedmachineryglassts001.png",
+    "zone": "Clockwork City",
+    "item": "Clockwork Wall Gears",
+    "location": "Drops from all Loot Tables (Example: Monsters, Treasure Chests, Safeboxes etc.)"
+  },
+  {
+    "id": "elegiac-vessel",
+    "name": "Elegiac Vessel",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_jar_001.png",
+    "zone": "Clockwork City",
+    "item": "",
+    "location": "Reward for excavating Eligiac Vessel"
+  },
+  {
+    "id": "mnemonic-star-sphere",
+    "name": "Mnemonic Star-Sphere",
+    "icon": "https://eso-hub.com/storage/icons/housing_uni_inc_antmnemonicsphere001.png",
+    "zone": "Clockwork City",
+    "item": "Mnemonic Star-Sphere",
+    "location": "Foul Water Fishing"
+  },
+  {
+    "id": "series-two-animo-core",
+    "name": "Series Two Animo Core",
+    "icon": "https://eso-hub.com/storage/icons/housing_gen_inc_soulgemgreat001.png",
+    "zone": "Clockwork City",
+    "item": "",
+    "location": "Freebie Starter Lead"
+  },
+  {
+    "id": "antique-map-of-coldharbour",
+    "name": "Antique Map of Coldharbour",
+    "icon": "https://eso-hub.com/storage/icons/housing_gen_inc_mappropscoldharborscroll001.png",
+    "zone": "Coldharbour",
+    "item": "Antique Map of Coldharbour",
+    "location": "Coldhrbour general goods merchants"
+  },
+  {
+    "id": "daedric-pillar-of-torment",
+    "name": "Daedric Pillar of Torment",
+    "icon": "https://eso-hub.com/storage/icons/housing_uni_inc_antdaedricpillaroftorment001.png",
+    "zone": "Coldharbour",
+    "item": "Daedric Pillar of Torment",
+    "location": "Chests, Nodes, Public Dungeon Bosses, World Bosses, Vaults of Madness Monsters"
+  },
+  {
+    "id": "dark-metal-mesh",
+    "name": "Dark Metal Mesh",
+    "icon": "https://eso-hub.com/storage/icons/quest_els_inc_setapestrymuralcloth001.png",
+    "zone": "Telvanni Peninsula",
+    "item": "Music Box, Glyphic Secrets",
+    "location": "Risen Court World Boss in the Coldharbour zone"
+  },
+  {
+    "id": "ebony-forged-dwarven-limbs",
+    "name": "Ebony-forged Dwarven Limbs",
+    "icon": "https://eso-hub.com/storage/icons/crafting_dwemer_shiny_tube.png",
+    "zone": "Coldharbour",
+    "item": "Ebon Dwarven Wolf",
+    "location": "World Bosses\n Click here to view on map"
+  },
+  {
+    "id": "inert-daedric-manacles",
+    "name": "Inert Daedric Manacles",
+    "icon": "https://eso-hub.com/storage/icons/quest_daedricshackles.png",
+    "zone": "Coldharbour",
+    "item": "",
+    "location": "Reward for excavating Tormentors Roller"
+  },
+  {
+    "id": "morpholith-shank",
+    "name": "Morpholith Shank",
+    "icon": "https://eso-hub.com/storage/icons/antiquities_morpholith_shank.png",
+    "zone": "Deadlands",
+    "item": "Markyn Ring of Majesty",
+    "location": "Treasure chests\n Click here to view on map"
+  },
+  {
+    "id": "sanguine-doublet",
+    "name": "Sanguine Doublet",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_vest_001.png",
+    "zone": "Coldharbour",
+    "item": "Bloodlord's Embrace",
+    "location": "Public Dungeon Bosses Village of the Lost\n Click here to view on map"
+  },
+  {
+    "id": "shattered-iron-maiden",
+    "name": "Shattered Iron Maiden",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_obsidianpieces.png",
+    "zone": "Coldharbour",
+    "item": "",
+    "location": "Reward for excavating Inert Daedric Manacles"
+  },
+  {
+    "id": "tormentors-roller",
+    "name": "Tormentor's Roller",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_contraption_001.png",
+    "zone": "Coldharbour",
+    "item": "",
+    "location": "Freebie Starter Lead"
+  },
+  {
+    "id": "void-crystal-anomaly",
+    "name": "Void-Crystal Anomaly",
+    "icon": "https://eso-hub.com/storage/icons/housing_uni_inc_antblackfragmentoflyg001.png",
+    "zone": "Coldharbour",
+    "item": "Void-Crystal Anomaly",
+    "location": "Nodes"
+  },
+  {
+    "id": "aetherquartz-tonal-resonator",
+    "name": "Aetherquartz Tonal Resonator",
+    "icon": "https://eso-hub.com/storage/icons/quest_vvardenfell_dwarven_tonal_prism.png",
+    "zone": "Craglorn",
+    "item": "Ebon Dwarven Wolf",
+    "location": "Mtharnaz Group Delve - Boss The Brass Hatchling\n Click here to view on map"
+  },
+  {
+    "id": "altar-of-celestial-convergence",
+    "name": "Altar of Celestial Convergence",
+    "icon": "https://eso-hub.com/storage/icons/housing_uni_inc_antaltarcelestial001.png",
+    "zone": "Craglorn",
+    "item": "Altar of Celestial Convergence",
+    "location": "Final Boss of any Craglorn Trial"
+  },
+  {
+    "id": "antique-map-of-craglorn",
+    "name": "Antique Map of Craglorn",
+    "icon": "https://eso-hub.com/storage/icons/housing_gen_inc_mappropscraglornscroll001.png",
+    "zone": "Craglorn",
+    "item": "Antique Map of Craglorn",
+    "location": "Craglorn general goods merchants"
+  },
+  {
+    "id": "chain-of-the-werewolf",
+    "name": "Chain of the Werewolf",
+    "icon": "https://eso-hub.com/storage/icons/antiquities_u30_mythic_neck_fragment03.png",
+    "zone": "Blackwood",
+    "item": "Shapeshifter's Chain",
+    "location": "Hircine’s Haunt delve, all bosses"
+  },
+  {
+    "id": "cracked-serpent-pendant",
+    "name": "Cracked Serpent Pendant",
+    "icon": "https://eso-hub.com/storage/icons/quest_jewelry_006.png",
+    "zone": "Craglorn",
+    "item": "",
+    "location": "Reward for excavating Watcher’s Ritual Stole"
+  },
+  {
+    "id": "ebon-dwarven-wolf-head",
+    "name": "Ebon Dwarven Wolf Head",
+    "icon": "https://eso-hub.com/storage/icons/crafting_gems_daedra_skull.png",
+    "zone": "Craglorn",
+    "item": "Ebon Dwarven Wolf",
+    "location": "Rkundzelft Group Delve - Mzeklok Boss\n Click here to view on map"
+  },
+  {
+    "id": "large-aetherium-lenses",
+    "name": "Large Aetherium Lenses",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_lens_001.png",
+    "zone": "Craglorn",
+    "item": "Ebon Dwarven Wolf",
+    "location": "Rkhardahrk Group Delve - The Last Sentinel Boss\n Click here to view on map"
+  },
+  {
+    "id": "sacrificed-weapon-of-the-four",
+    "name": "Sacrificed Weapon of the Four",
+    "icon": "https://eso-hub.com/storage/icons/quest_trash_001.png",
+    "zone": "Craglorn",
+    "item": "",
+    "location": "Reward for excavating Cracked Serpent Pendant"
+  },
+  {
+    "id": "spellscar-shard",
+    "name": "Spellscar Shard",
+    "icon": "https://eso-hub.com/storage/icons/housing_uni_inc_antspellscarshard001.png",
+    "zone": "Craglorn",
+    "item": "Spellscar Shard",
+    "location": "Treasure Chest, Monsters, Chest Event in Skyreach, Thieve Troves"
+  },
+  {
+    "id": "torc-throat-guards",
+    "name": "Torc Throat Guards",
+    "icon": "https://eso-hub.com/storage/icons/quest_vvardenfell_manual_clockwork_shaft.png",
+    "zone": "Craglorn",
+    "item": "Torc of Tonal Constancy",
+    "location": "World Bosses\n Click here to view on map"
+  },
+  {
+    "id": "watchers-ritual-stole",
+    "name": "Watcher's Ritual Stole",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_cape_001.png",
+    "zone": "Craglorn",
+    "item": "",
+    "location": "Freebie Starter Lead"
+  },
+  {
+    "id": "wide-barbed-shank",
+    "name": "Wide Barbed Shank",
+    "icon": "https://eso-hub.com/storage/icons/antiquities_u30_mythic_ring01.png",
+    "zone": "Blackwood",
+    "item": "Death Dealer's Fete",
+    "location": "Anomalies in Craglorn in the reward treasure chest, Nirncrux Mines\n Click here to view on map"
+  },
+  {
+    "id": "magicka-imbued-metal-plates",
+    "name": "Magicka-Imbued Metal Plates",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_plate_001.png",
+    "zone": "Coldharbour",
+    "item": "Snow Treaders",
+    "location": "Raelynne Ahham Boss in Underpall Cave, Cyrodiil.\n Click here to view on map"
+  },
+  {
+    "id": "weighted-spiked-bridge",
+    "name": "Weighted Spiked Bridge",
+    "icon": "https://eso-hub.com/storage/icons/antiquities_u30_mythic_ring_fragment03.png",
+    "zone": "Blackwood",
+    "item": "Death Dealer's Fete",
+    "location": "Rewards for the Worthy Mail (PVP Reward)"
+  },
+  {
+    "id": "ancient-daedric-axes",
+    "name": "Ancient Daedric: Axes",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "Deadlands",
+    "item": "Ancient Daedric Axe\nAncient Daedric Battle Axe",
+    "location": "Treasure Map"
+  },
+  {
+    "id": "ancient-daedric-belts",
+    "name": "Ancient Daedric: Belts",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "Deadlands",
+    "item": "Ancient Daedric Belt\nAncient Daedric Sash\nAncient Daedric Girdle",
+    "location": "Treasure Map"
+  },
+  {
+    "id": "ancient-daedric-boots",
+    "name": "Ancient Daedric: Boots",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "Deadlands",
+    "item": "Ancient Daedric Shoes\nAncient Daedric Boots\nAncient Daedric Sabatons",
+    "location": "Treasure Map"
+  },
+  {
+    "id": "ancient-daedric-bows",
+    "name": "Ancient Daedric: Bows",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "Deadlands",
+    "item": "Ancient Daedric Bow",
+    "location": "Treasure Map"
+  },
+  {
+    "id": "ancient-daedric-chest-pieces",
+    "name": "Ancient Daedric: Chest Pieces",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "Deadlands",
+    "item": "Ancient Daedric Robe\nAncient Daedric Jack\nAncient Daedric Cuirass",
+    "location": "Treasure Map"
+  },
+  {
+    "id": "ancient-daedric-daggers",
+    "name": "Ancient Daedric: Daggers",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "Deadlands",
+    "item": "Ancient Daedric Dagger",
+    "location": "Treasure Map"
+  },
+  {
+    "id": "ancient-daedric-gloves",
+    "name": "Ancient Daedric: Gloves",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "Deadlands",
+    "item": "Ancient Daedric Gloves\nAncient Daedric Bracers\nAncient Daedric Gauntlets",
+    "location": "Treasure Map"
+  },
+  {
+    "id": "ancient-daedric-helmets",
+    "name": "Ancient Daedric: Helmets",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "Deadlands",
+    "item": "Ancient Daedric Helmet\nAncient Daedric Hat\nAncient Daedric Helm",
+    "location": "Treasure Map"
+  },
+  {
+    "id": "ancient-daedric-legs",
+    "name": "Ancient Daedric: Legs",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "Deadlands",
+    "item": "Ancient Daedric Breeches\nAncient Daedric Guards\nAncient Daedric Greaves",
+    "location": "Treasure Map"
+  },
+  {
+    "id": "ancient-daedric-maces",
+    "name": "Ancient Daedric: Maces",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "Deadlands",
+    "item": "Ancient Daedric Mace\nAncient Daedric Maul",
+    "location": "Treasure Map"
+  },
+  {
+    "id": "ancient-daedric-shields",
+    "name": "Ancient Daedric: Shields",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "Deadlands",
+    "item": "Ancient Daedric Shield",
+    "location": "Treasure Map"
+  },
+  {
+    "id": "ancient-daedric-shoulders",
+    "name": "Ancient Daedric: Shoulders",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "Deadlands",
+    "item": "Ancient Daedric Epaulets\nAncient Daedric Arm Cops\nAncient Daedric Pauldrons",
+    "location": "Treasure Map"
+  },
+  {
+    "id": "ancient-daedric-staves",
+    "name": "Ancient Daedric: Staves",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "Deadlands",
+    "item": "Ancient Daedric Staff",
+    "location": "Treasure Map"
+  },
+  {
+    "id": "ancient-daedric-swords",
+    "name": "Ancient Daedric: Swords",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "Deadlands",
+    "item": "Ancient Daedric Sword\nAncient Daedric Greatsword",
+    "location": "Treasure Map"
+  },
+  {
+    "id": "ancient-morpholith-chisel",
+    "name": "Ancient Morpholith Chisel",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_minicleaver_base_03.png",
+    "zone": "Deadlands",
+    "item": "",
+    "location": "Rewarded for digging up Mindcleaver Clan Banner"
+  },
+  {
+    "id": "antique-map-of-the-deadlands",
+    "name": "Antique Map of the Deadlands",
+    "icon": "https://eso-hub.com/storage/icons/housing_gen_inc_mappropsdeadlandsscroll001.png",
+    "zone": "Deadlands",
+    "item": "Antique Map of the Deadlands",
+    "location": "Merchants walking around in the Deadlands zone"
+  },
+  {
+    "id": "bloodshot-oculus",
+    "name": "Bloodshot Oculus",
+    "icon": "https://eso-hub.com/storage/icons/antiquities_bloodshot_oculus.png",
+    "zone": "High Isle and Amenos",
+    "item": "Mora's Whispers",
+    "location": "any Watcher monster (confirmed drops in Atoll of Immolation (Deadlands Portal) and the Cauldron dungeon))\n Click here to view on map"
+  },
+  {
+    "id": "clannfear-leather-strapping",
+    "name": "Clannfear Leather Strapping",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_unique_psijic_stole.png",
+    "zone": "Deadlands",
+    "item": "Spaulder of Ruin",
+    "location": "Clannfear mobs in any of the zones that exist in ESO\n Click here to view on map"
+  },
+  {
+    "id": "daedric-enchanting-apparatus",
+    "name": "Daedric Enchanting Apparatus",
+    "icon": "https://eso-hub.com/storage/icons/antiquities_u32_daedric_enchanting_apparatus.png",
+    "zone": "Deadlands",
+    "item": "Daedric Enchanting Station",
+    "location": "Final boss Atoll of Immolation public dungeon (Oblivion Portal)\n Click here to view on map"
+  },
+  {
+    "id": "dagons-scalding-gibbet",
+    "name": "Dagon's Scalding Gibbet",
+    "icon": "https://eso-hub.com/storage/icons/housing_bad_inc_dedtorturedevice001.png",
+    "zone": "Deadlands",
+    "item": "Dagon's Scalding Gibbet",
+    "location": "Wandering bosses"
+  },
+  {
+    "id": "ironclad-sarcoshroud",
+    "name": "Ironclad Sarcoshroud",
+    "icon": "https://eso-hub.com/storage/icons/hat_annihilarchbosshelmet.png",
+    "zone": "Deadlands",
+    "item": "Ironclad Sarcoshroud",
+    "location": "Daedric stone near a dead tree north of the Wretched Spire Wayshrine (has a respawn timer)\n Click here to view on map"
+  },
+  {
+    "id": "kynreeves-law-cane",
+    "name": "Kynreeve's Law-Cane",
+    "icon": "https://eso-hub.com/storage/icons/quest_wand_002.png",
+    "zone": "Deadlands",
+    "item": "",
+    "location": "Freebie lead"
+  },
+  {
+    "id": "mindcleaver-clan-banner",
+    "name": "Mindcleaver Clan Banner",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_banner_001.png",
+    "zone": "Deadlands",
+    "item": "",
+    "location": "Rewarded for digging up Kynreeve's Law-Cane"
+  },
+  {
+    "id": "mindcleaver-loop",
+    "name": "Mindcleaver Loop",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_ring_001.png",
+    "zone": "Deadlands",
+    "item": "Markyn Ring of Majesty",
+    "location": "Den of the Unmaker world boss\n Click here to view on map"
+  },
+  {
+    "id": "petrified-daedroth-horn",
+    "name": "Petrified Daedroth Horn",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_horn_001.png",
+    "zone": "Deadlands",
+    "item": "Spaulder of Ruin",
+    "location": "The Abomination Cradle world boss\n Click here to view on map"
+  },
+  {
+    "id": "sclerotic-tentacle",
+    "name": "Sclerotic Tentacle",
+    "icon": "https://eso-hub.com/storage/icons/antiquities_sclerotic_tentacle.png",
+    "zone": "High Isle and Amenos",
+    "item": "Mora's Whispers",
+    "location": "Watchlings inside Oblivion Portals (inside Atoll of Immolation) in the the Deadlands zone. Also drops from Watchlings in the Deadland zone itself.\n Click here to view on map"
+  },
+  {
+    "id": "searing-gem",
+    "name": "Searing Gem",
+    "icon": "https://eso-hub.com/storage/icons/quest_gemstone_tear_0001.png",
+    "zone": "Deadlands",
+    "item": "Markyn Ring of Majesty",
+    "location": "Daedrats\n Click here to view on map"
+  },
+  {
+    "id": "seeker-sinew-thread",
+    "name": "Seeker-sinew Thread",
+    "icon": "https://eso-hub.com/storage/icons/antiquities_seeker-sinew_thread.png",
+    "zone": "High Isle and Amenos",
+    "item": "Mora's Whispers",
+    "location": "Clothing Nodes (Torn Cloth) in the Deadlands zone\n Click here to view on map"
+  },
+  {
+    "id": "spell-scorched-table",
+    "name": "Spell-Scorched Table",
+    "icon": "https://eso-hub.com/storage/icons/antiquities_u32_spell-scorched_table.png",
+    "zone": "Deadlands",
+    "item": "Daedric Enchanting Station",
+    "location": "Safe boxes\n Click here to view on map"
+  },
+  {
+    "id": "unhallowed-runic-tome",
+    "name": "Unhallowed Runic Tome",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_book_001.png",
+    "zone": "Deadlands",
+    "item": "Daedric Enchanting Station",
+    "location": "Runestone nodes\n Click here to view on map"
+  },
+  {
+    "id": "void-alloy-rivets",
+    "name": "Void Alloy Rivets",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_unique_silvermeres_nail.png",
+    "zone": "Deadlands",
+    "item": "Spaulder of Ruin",
+    "location": "Drops from any Dremora type monster in any of the zones in ESO\n Click here to view on map"
+  },
+  {
+    "id": "ancestral-nord-boots",
+    "name": "Ancestral Nord: Boots",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "Deshaan",
+    "item": "Ancestral Nord Boots\nAncestral Nord Shoes\nAncestral Nord Sabatons",
+    "location": "Treasure Map Chest\n Click here to view on map"
+  },
+  {
+    "id": "ancestral-nord-maces",
+    "name": "Ancestral Nord: Maces",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "Deshaan",
+    "item": "Ancestral Nord Mace\nAncestral Nord Maul",
+    "location": "Treasure Map Chest\n Click here to view on map"
+  },
+  {
+    "id": "antique-map-of-deshaan",
+    "name": "Antique Map of Deshaan",
+    "icon": "https://eso-hub.com/storage/icons/housing_gen_inc_mappropsdeshaanscroll002.png",
+    "zone": "Deshaan",
+    "item": "Antique Map of Deshaan",
+    "location": "Found in Mournhold at the “The Flaming Nix” Inn (Need Pathfinder Achievement)"
+  },
+  {
+    "id": "blessed-dais-of-almalexia",
+    "name": "Blessed Dais of Almalexia",
+    "icon": "https://eso-hub.com/storage/icons/housing_uni_inc_antdaismothermorrowind001.png",
+    "zone": "Deshaan",
+    "item": "Blessed Dais of Almalexia",
+    "location": "Safebox in any zone"
+  },
+  {
+    "id": "brittle-linen-pilgrimage-map",
+    "name": "Brittle Linen Pilgrimage Map",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_map_001.png",
+    "zone": "Deshaan",
+    "item": "",
+    "location": "Reward for excavating Tom Netch-Leather Mask"
+  },
+  {
+    "id": "coiled-snake-candlestick",
+    "name": "Coiled Snake Candlestick",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_candlestick_holder_001.png",
+    "zone": "Deshaan",
+    "item": "",
+    "location": "Freebie Starter Lead"
+  },
+  {
+    "id": "dark-elf-altar-ceremonial",
+    "name": "Dark Elf Altar, Ceremonial",
+    "icon": "https://eso-hub.com/storage/icons/housing_dun_cem_housingnecaltar001.png",
+    "zone": "Deshaan",
+    "item": "Dark Elf Altar, Ceremonial",
+    "location": "Drops from all Loot Tables (Example: Monsters, Treasure Chests, Safeboxes etc.)\n Click here to view on map"
+  },
+  {
+    "id": "dwarven-articulated-paws",
+    "name": "Dwarven Articulated Paws",
+    "icon": "https://eso-hub.com/storage/icons/crafting_critter_wild_animal_paws.png",
+    "zone": "Deshaan",
+    "item": "Ebon Dwarven Wolf",
+    "location": "Sentinel of Rkugamz (Endboss)\n Click here to view on map"
+  },
+  {
+    "id": "dwarven-horngrip",
+    "name": "Dwarven Horngrip",
+    "icon": "https://eso-hub.com/storage/icons/housing_cwc_inc_kwamapedestalkeycrankhandle001.png",
+    "zone": "Deshaan",
+    "item": "Ebon Dwarven Wolf",
+    "location": "Engine Guardian Boss (Endboss) Darkshade Cavern 2 dungeon\n Click here to view on map"
+  },
+  {
+    "id": "meteoric-beads",
+    "name": "Meteoric Beads",
+    "icon": "https://eso-hub.com/storage/icons/antiquities_meteoric_beads.png",
+    "zone": "High Isle and Amenos",
+    "item": "Sea-Serpent's Coil",
+    "location": "Mages Guild daily quest reward coffer, you can get Mages Guild dailies at any Mages Guild location\n Click here to view on map"
+  },
+  {
+    "id": "nisswo-sacramental-wraps",
+    "name": "Niss'wo Sacramental Wraps",
+    "icon": "https://eso-hub.com/storage/icons/antiquities_u30_mythic_helm_fragment05.png",
+    "zone": "Blackwood",
+    "item": "Gaze of Sithis",
+    "location": "Public Dungeon Forgotten Crypts, All Bosses\n Click here to view on map"
+  },
+  {
+    "id": "stone-stamp",
+    "name": "Stone Stamp",
+    "icon": "https://eso-hub.com/storage/icons/housing_tlv_inc_necmiscofferingsstone002.png",
+    "zone": "Telvanni Peninsula",
+    "item": "Spore Savant Face Marks",
+    "location": "Lady Llarel Shelter Delve in the Deshaan zone\n Click here to view on map"
+  },
+  {
+    "id": "torc-strand-of-power",
+    "name": "Torc Strand of Power",
+    "icon": "https://eso-hub.com/storage/icons/quest_deshaan_dwemer_control_rod.png",
+    "zone": "Deshaan",
+    "item": "Torc of Tonal Constancy",
+    "location": "World Bosses\n Click here to view on map"
+  },
+  {
+    "id": "torn-netch-leather-mask",
+    "name": "Torn Netch-leather Mask",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_mask_full_001.png",
+    "zone": "Deshaan",
+    "item": "",
+    "location": "Reward for excavating Coiled Snake Candlestick"
+  },
+  {
+    "id": "aligned-dwarven-plates",
+    "name": "Aligned Dwarven Plates",
+    "icon": "https://eso-hub.com/storage/icons/crafting_metals_dwarven_scrap.png",
+    "zone": "Eastmarch",
+    "item": "Ebon Dwarven Wolf",
+    "location": "Mzulft Normal Monsters\n Click here to view on map"
+  },
+  {
+    "id": "ancestral-nord-legs",
+    "name": "Ancestral Nord: Legs",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "Eastmarch",
+    "item": "Ancestral Nord Breeches\nAncestral Nord Guards\nAncestral Nord Greaves",
+    "location": "Treasure Map Chest\n Click here to view on map"
+  },
+  {
+    "id": "ancestral-nord-shields",
+    "name": "Ancestral Nord: Shields",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "Eastmarch",
+    "item": "Ancestral Nord Shield",
+    "location": "Treasure Map Chest\n Click here to view on map"
+  },
+  {
+    "id": "antique-map-of-eastmarch",
+    "name": "Antique Map of Eastmarch",
+    "icon": "https://eso-hub.com/storage/icons/housing_gen_inc_mappropseastmarchscroll002.png",
+    "zone": "Eastmarch",
+    "item": "Antique Map of Eastmarch",
+    "location": "Found in Windhelm at the “Cold Moon” Inn (Pathfinder Achievement)"
+  },
+  {
+    "id": "carved-whale-totem",
+    "name": "Carved Whale Totem",
+    "icon": "https://eso-hub.com/storage/icons/housing_uni_inc_antcarvedskywhale001.png",
+    "zone": "Eastmarch",
+    "item": "Carved Whale Totem",
+    "location": "Random Monsters"
+  },
+  {
+    "id": "nord-copper-shield-boss",
+    "name": "Nord Copper Shield Boss",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_token_001.png",
+    "zone": "Eastmarch",
+    "item": "",
+    "location": "Freebie Starter Lead"
+  },
+  {
+    "id": "royal-ivory-hilt",
+    "name": "Royal Ivory Hilt",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_trinket.png",
+    "zone": "Eastmarch",
+    "item": "",
+    "location": "Reward for excavating Wolf-head Brooch"
+  },
+  {
+    "id": "sacred-chalice-of-ysgramor",
+    "name": "Sacred Chalice of Ysgramor",
+    "icon": "https://eso-hub.com/storage/icons/housing_uni_inc_antsacredchaliceofysgramor001.png",
+    "zone": "Eastmarch",
+    "item": "Sacred Chalice of Ysgramor",
+    "location": "Public Dungeon Bosses, World Bosses, Nodes"
+  },
+  {
+    "id": "wolf-head-brooch",
+    "name": "Wolf-head Brooch",
+    "icon": "https://eso-hub.com/storage/icons/quest_jewelry_009.png",
+    "zone": "Eastmarch",
+    "item": "",
+    "location": "Reward for excavating Wolf-head Brooch"
+  },
+  {
+    "id": "inert-daedric-spellstone",
+    "name": "Inert Daedric Spellstone",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_unique_dwemer_puzzle_cube.png",
+    "zone": "Eyevea",
+    "item": "",
+    "location": "Reward for excavating Inert Daedric Spellstone"
+  },
+  {
+    "id": "sheogorath-madness-cube",
+    "name": "Sheogorath Madness Cube",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_dice_001.png",
+    "zone": "Eyevea",
+    "item": "",
+    "location": "Reward for excavating Yellowe Grummite Pearl"
+  },
+  {
+    "id": "yellowed-grummite-pearl",
+    "name": "Yellowed Grummite Pearl",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_trinket.png",
+    "zone": "Eyevea",
+    "item": "",
+    "location": "Freebie Starter Lead"
+  },
+  {
+    "id": "bulls-head-gallery-rail",
+    "name": "Bull's Head Gallery Rail",
+    "icon": "https://eso-hub.com/storage/icons/antiquities_ornate_ring_4.png",
+    "zone": "Deadlands",
+    "item": "Belharza's Band",
+    "location": "Deadlands Daily Rewards Coffer\n Click here to view on map"
+  },
+  {
+    "id": "firescourge-band",
+    "name": "Firescourge Band",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_unique_ruby_throne_ruby.png",
+    "zone": "Deadlands",
+    "item": "Markyn Ring of Majesty",
+    "location": "Deadlands Daily Reward Coffer\n Click here to view on map"
+  },
+  {
+    "id": "shelf-black-soul-gems",
+    "name": "Shelf, Black Soul Gems",
+    "icon": "https://eso-hub.com/storage/icons/housing_bad_inc_fargemshelf001.png",
+    "zone": "Deadlands",
+    "item": "Shelf, Black Soul Gems",
+    "location": "Drops from all Loot Tables (Example: Monsters, Treasure Chests, Safeboxes etc.)"
+  },
+  {
+    "id": "admirals-carved-trestle-base",
+    "name": "Admiral's Carved Trestle Base",
+    "icon": "https://eso-hub.com/storage/icons/housing_gen_crf_tmpfragmentdesk001.png",
+    "zone": "Galen and Y'ffelon",
+    "item": "Shipbuilders Crafting Station",
+    "location": "Galen daily reward coffer"
+  },
+  {
+    "id": "amber-heart",
+    "name": "Amber Heart",
+    "icon": "https://eso-hub.com/storage/icons/u36_amberheart.png",
+    "zone": "Galen and Y'ffelon",
+    "item": "Barkroot Blessing",
+    "location": "Preserver of Galen (Wandering Boss), Galen zone"
+  },
+  {
+    "id": "chimera-hair-brush",
+    "name": "Chimera-hair Brush",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_hairbrush.png",
+    "zone": "Galen and Y'ffelon",
+    "item": "Barkroot Blessing",
+    "location": "The Endling Boss in the Grove of the Chimera in Galen zone.\n Click here to view on map"
+  },
+  {
+    "id": "dolmen-clay",
+    "name": "Dolmen Clay",
+    "icon": "https://eso-hub.com/storage/icons/crafting_shimmering_sand.png",
+    "zone": "Galen and Y'ffelon",
+    "item": "Barkroot Blessing",
+    "location": "Volcanic Vents in Galen\n Click here to view on map"
+  },
+  {
+    "id": "druidic-music-box-crank-key",
+    "name": "Druidic Music Box Crank-Key",
+    "icon": "https://eso-hub.com/storage/icons/quest_vvardenfell_kwama_key_crank.png",
+    "zone": "Galen and Y'ffelon",
+    "item": "Music Box, Blessings of Stone",
+    "location": "Treasure Chests in Galen"
+  },
+  {
+    "id": "druidic-music-box-stones",
+    "name": "Druidic Music Box Stones",
+    "icon": "https://eso-hub.com/storage/icons/u36_druidicmusicboxstones.png",
+    "zone": "Galen and Y'ffelon",
+    "item": "Music Box, Blessings of Stone",
+    "location": "Lava Vent Dailies in Galen"
+  },
+  {
+    "id": "druidic-music-box-turnstile",
+    "name": "Druidic Music Box Turnstile",
+    "icon": "https://eso-hub.com/storage/icons/quest_vvardenfell_kwama_key_gear.png",
+    "zone": "Galen and Y'ffelon",
+    "item": "Music Box, Blessings of Stone",
+    "location": "Bosses in Lost City of the Na-Totambu Public Dungeon in Alik'r Desert zone. Volcanic Vents in Galen zone\n Click here to view on map"
+  },
+  {
+    "id": "eldertide-shoulders",
+    "name": "Eldertide Shoulders",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "Galen and Y'ffelon",
+    "item": "",
+    "location": "Treasure Maps in Galen Zone"
+  },
+  {
+    "id": "grove-carpet-buds",
+    "name": "Grove Carpet Buds",
+    "icon": "https://eso-hub.com/storage/icons/u30_flower_petals.png",
+    "zone": "Galen and Y'ffelon",
+    "item": "Barkroot Blessing",
+    "location": "Boss in Embervine delve, Galen zone\n Click here to view on map"
+  },
+  {
+    "id": "iridescent-pearlwater-wash",
+    "name": "Iridescent Pearlwater Wash",
+    "icon": "https://eso-hub.com/storage/icons/crafting_potion_base_water_3_r3.png",
+    "zone": "Galen and Y'ffelon",
+    "item": "Syrabane's Ward",
+    "location": "Drops from fishing in any water in Galen and High Isle zone\n Click here to view on map"
+  },
+  {
+    "id": "lustrous-prong-clasps",
+    "name": "Lustrous Prong Clasps",
+    "icon": "https://eso-hub.com/storage/icons/adornment_unisex_mixed_magickaearclasps.png",
+    "zone": "Galen and Y'ffelon",
+    "item": "Faun's Lark Cladding",
+    "location": "Wood Nodes in Galen and High Isle zone"
+  },
+  {
+    "id": "mark-of-the-faun-lord",
+    "name": "Mark of the Faun Lord",
+    "icon": "https://eso-hub.com/storage/icons/u36_markofthefaunlord.png",
+    "zone": "Galen and Y'ffelon",
+    "item": "Faun's Lark Cladding",
+    "location": "Thieves Troves and Safeboxes in Galen and High Isle"
+  },
+  {
+    "id": "old-growth-mulch",
+    "name": "Old Growth Mulch",
+    "icon": "https://eso-hub.com/storage/icons/u36_oldgrowthmulch.png",
+    "zone": "Galen and Y'ffelon",
+    "item": "Barkroot Blessing",
+    "location": "Daily Reward Coffer in Galen https://eso-hub.com/en/guides/zone-dailies/galen-dailies"
+  },
+  {
+    "id": "petrified-clutch-specimen",
+    "name": "Petrified Clutch Specimen",
+    "icon": "https://eso-hub.com/storage/icons/housing_uni_inc_antvulkeshegg001.png",
+    "zone": "Galen and Y'ffelon",
+    "item": "Vulk'esh Egg",
+    "location": "Sika Redhorn world boss and Safeboxes in Galen\n Click here to view on map"
+  },
+  {
+    "id": "petrified-tree-bark-tablet",
+    "name": "Petrified Tree Bark Tablet",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_treethane_niriels_living_plant_wear_book_set.png",
+    "zone": "Galen and Y'ffelon",
+    "item": "Barkroot Blessing",
+    "location": "Treasure Maps in Galen zone"
+  },
+  {
+    "id": "phoenix-moth-pigment",
+    "name": "Phoenix Moth Pigment",
+    "icon": "https://eso-hub.com/storage/icons/crafting_wood_shellac.png",
+    "zone": "Galen and Y'ffelon",
+    "item": "Barkroot Blessing",
+    "location": "Phoenix Moth Critters in Galen (Can be found flying next to Torches), Magma Frogs in Embervine Delve in Galen\n Click here to view on map"
+  },
+  {
+    "id": "writhing-vine-mass",
+    "name": "Writhing Vine Mass",
+    "icon": "https://eso-hub.com/storage/icons/crafting_plant_creature_vines.png",
+    "zone": "Galen and Y'ffelon",
+    "item": "Barkroot Blessing",
+    "location": "Fauns' Thicket Delve Boss in Galen\n Click here to view on map"
+  },
+  {
+    "id": "ancestral-orc-bows",
+    "name": "Ancestral Orc: Bows",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "Glenumbra",
+    "item": "Ancestral Orc Bow",
+    "location": "Treasure Map Chest\n Click here to view on map"
+  },
+  {
+    "id": "ancestral-orc-chests",
+    "name": "Ancestral Orc: Chests",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "Glenumbra",
+    "item": "Ancestral Orc Cuirass\nAncestral Orc Jack\nAncestral Orc Robe",
+    "location": "Treasure Map Chest\n Click here to view on map"
+  },
+  {
+    "id": "antique-map-of-glenumbra",
+    "name": "Antique Map of Glenumbra",
+    "icon": "https://eso-hub.com/storage/icons/housing_gen_inc_mappropsglenumbrascroll001.png",
+    "zone": "Glenumbra",
+    "item": "Antique Map of Glenumbra",
+    "location": "Found in Daggerfall City at the “The Rosy Lion” Inn (Pathfinder Achievement)"
+  },
+  {
+    "id": "band-of-water",
+    "name": "Band of Water",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_ring_001.png",
+    "zone": "Glenumbra",
+    "item": "Ring of the Wild Hunt",
+    "location": "Public Dungeon Boss in Bad Man’s Hallow\n Click here to view on map"
+  },
+  {
+    "id": "jeweled-skull-of-ayleid-kings",
+    "name": "Jeweled Skull of Ayleid Kings",
+    "icon": "https://eso-hub.com/storage/icons/housing_uni_inc_antjeweledayelskull001.png",
+    "zone": "Glenumbra",
+    "item": "Jeweled Skull of Ayleid Kings",
+    "location": "Treasure Chests, Heavy Sacks, Monster, Imperial City upper District Bosses (Dig site is in Glenumbra)"
+  },
+  {
+    "id": "kingmakers-trove",
+    "name": "Kingmaker's Trove",
+    "icon": "https://eso-hub.com/storage/icons/housing_uni_inc_antkingsmakertrove001.png",
+    "zone": "Glenumbra",
+    "item": "Kingmaker's Trove",
+    "location": "Treasure Chest"
+  },
+  {
+    "id": "manmer-coupled-idol",
+    "name": "Manmer Coupled Idol",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_figurine_001.png",
+    "zone": "Glenumbra",
+    "item": "",
+    "location": "Freebie Starter Lead"
+  },
+  {
+    "id": "order-etched-gallery-rail",
+    "name": "Order-Etched Gallery Rail",
+    "icon": "https://eso-hub.com/storage/icons/quest_cwc_inc_standsmall001.png",
+    "zone": "Glenumbra",
+    "item": "Ring of the Pale Order",
+    "location": "Bad Man's Hallow, any Monsters\n Click here to view on map"
+  },
+  {
+    "id": "phynastic-scroll-case",
+    "name": "Phynastic Scroll Case",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_trinket.png",
+    "zone": "Glenumbra",
+    "item": "",
+    "location": "Reward for Excavating Rislav Tryptic Panel"
+  },
+  {
+    "id": "rislav-tryptic-panel",
+    "name": "Rislav Tryptic Panel",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_portrait_001.png",
+    "zone": "Glenumbra",
+    "item": "",
+    "location": "Reward for excavating Manmer Coupled Idol"
+  },
+  {
+    "id": "stone-shank-frame",
+    "name": "Stone Shank Frame",
+    "icon": "https://eso-hub.com/storage/icons/antiquities_stone_shank_frame.png",
+    "zone": "High Isle and Amenos",
+    "item": "Oakensoul Ring",
+    "location": "Blacksmithing nodes in Glenumbra\n Click here to view on map"
+  },
+  {
+    "id": "alessian-sacramental-oil",
+    "name": "Alessian Sacramental Oil",
+    "icon": "https://eso-hub.com/storage/icons/quest_dun_inc_glassbottles001.png",
+    "zone": "Deadlands",
+    "item": "Belharza's Band",
+    "location": "Limenauruus Boss at Tribune's Folley in the Gold Coast zone (Likely all bosses in that zone)\n Click here to view on map"
+  },
+  {
+    "id": "antique-map-of-the-gold-coast",
+    "name": "Antique Map of the Gold Coast",
+    "icon": "https://eso-hub.com/storage/icons/housing_gen_inc_mappropsgoldcoastscroll001.png",
+    "zone": "Gold Coast",
+    "item": "Antique Map of the Gold Coast",
+    "location": "Found in Anvil City at the “Mudcrab and Suds” Inn (Pathfinder Achievement)"
+  },
+  {
+    "id": "book-of-dark-rites",
+    "name": "Book of Dark Rites",
+    "icon": "https://eso-hub.com/storage/icons/quest_book_001.png",
+    "zone": "Gold Coast",
+    "item": "",
+    "location": "Reward for excavating Water-worn Anvil Bust"
+  },
+  {
+    "id": "etched-silver-horns",
+    "name": "Etched Silver Horns",
+    "icon": "https://eso-hub.com/storage/icons/antiquities_etched_silver_horns.png",
+    "zone": "Deadlands",
+    "item": "Belharza's Band",
+    "location": "Treasure chests\n Click here to view on map"
+  },
+  {
+    "id": "golden-idol-of-morihaus",
+    "name": "Golden Idol of Morihaus",
+    "icon": "https://eso-hub.com/storage/icons/housing_uni_inc_antgoldenidolofmorihaus001.png",
+    "zone": "Gold Coast",
+    "item": "Golden Idol of Morihaus",
+    "location": "Any Minotaur Monster (For Example Bloodroot Forge & Falkreath Hold Dungeon, Gold Coast Zone)"
+  },
+  {
+    "id": "meridian-sconce",
+    "name": "Meridian Sconce",
+    "icon": "https://eso-hub.com/storage/icons/housing_uni_inc_antmeridiansconce001.png",
+    "zone": "Gold Coast",
+    "item": "Meridian Sconce",
+    "location": "Endboss Symphony of Blades (Depth of Malatar, Normal or Veteran)"
+  },
+  {
+    "id": "ornate-nose-ring",
+    "name": "Ornate Nose Ring",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_ring_001.png",
+    "zone": "Gold Coast",
+    "item": "",
+    "location": "Freebie Starter Lead"
+  },
+  {
+    "id": "shrine-to-dibella",
+    "name": "Shrine to Dibella",
+    "icon": "https://eso-hub.com/storage/icons/housing_nib_str_dbhakatoshshrine001.png",
+    "zone": "Gold Coast",
+    "item": "Shrine to Dibella",
+    "location": "Drops from all Loot Tables (Example: Monsters, Treasure Chests, Safeboxes etc.)"
+  },
+  {
+    "id": "water-worn-anvil-bust",
+    "name": "Water-worn Anvil Bust",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_statue_001.png",
+    "zone": "Gold Coast",
+    "item": "",
+    "location": "Reward for excavating ornate Nose Ring"
+  },
+  {
+    "id": "ancestral-high-elf-boots",
+    "name": "Ancestral High Elf: Boots",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "Grahtwood",
+    "item": "Ancestral High Elf Boots\nAncestral High Elf Shoes\nAncestral High Elf Sabatons",
+    "location": "Treasure Map Chest\n Click here to view on map"
+  },
+  {
+    "id": "ancestral-high-elf-maces",
+    "name": "Ancestral High Elf: Maces",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "Grahtwood",
+    "item": "Ancestral High Elf Mace\nAncestral High Elf Maul",
+    "location": "Treasure Map Chest\n Click here to view on map"
+  },
+  {
+    "id": "antique-map-of-grahtwood",
+    "name": "Antique Map of Grahtwood",
+    "icon": "https://eso-hub.com/storage/icons/housing_gen_inc_mappropsgrahtwoodscroll001.png",
+    "zone": "Grahtwood",
+    "item": "Antique Map of Grahtwood",
+    "location": "Found in Elden Root City at the “Outside” Inn (Pathfinder Achievement)"
+  },
+  {
+    "id": "ayleid-statuette",
+    "name": "Ayleid Statuette",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_figurine_001.png",
+    "zone": "Grahtwood",
+    "item": "",
+    "location": "Reward for excavating Bosmer Hunting Horn"
+  },
+  {
+    "id": "bosmer-hunting-horn",
+    "name": "Bosmer Hunting Horn",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_unique_sled_horn.png",
+    "zone": "Grahtwood",
+    "item": "",
+    "location": "Freebie Starter Lead"
+  },
+  {
+    "id": "coral-clasp",
+    "name": "Coral Clasp",
+    "icon": "https://eso-hub.com/storage/icons/housing_bre_str_doorlocksmll001.png",
+    "zone": "Grahtwood",
+    "item": "Pearls of Ehlnofey",
+    "location": "Public Dungeon Bosses\n Click here to view on map"
+  },
+  {
+    "id": "eight-star-chandelier",
+    "name": "Eight-Star Chandelier",
+    "icon": "https://eso-hub.com/storage/icons/housing_uni_inc_anteightstarchandelier001.png",
+    "zone": "Grahtwood",
+    "item": "Eight-Star Chandelier",
+    "location": "Treasure Chest, Public Dungeon Root Sunder Ruins, Nodes, Safeboxes, Elden Hollow Dungeon"
+  },
+  {
+    "id": "meteoric-beads",
+    "name": "Meteoric Beads",
+    "icon": "https://eso-hub.com/storage/icons/antiquities_meteoric_beads.png",
+    "zone": "High Isle and Amenos",
+    "item": "Sea-Serpent's Coil",
+    "location": "Mages Guild daily quest reward coffer, you can get Mages Guild dailies at any Mages Guild location\n Click here to view on map"
+  },
+  {
+    "id": "preserved-music-box-mechanism",
+    "name": "Preserved Music Box Mechanism",
+    "icon": "https://eso-hub.com/storage/icons/crafting_metals_dwarven_scrap.png",
+    "zone": "Grahtwood",
+    "item": "",
+    "location": "Safebox (In any zone)"
+  },
+  {
+    "id": "shattered-camoran-antler-crown",
+    "name": "Shattered Camoran Antler Crown",
+    "icon": "https://eso-hub.com/storage/icons/quest_jewelry_004.png",
+    "zone": "Grahtwood",
+    "item": "",
+    "location": "Reward for excavating Ayleid Statuette"
+  },
+  {
+    "id": "st-alessia-paravant",
+    "name": "St. Alessia, Paravant",
+    "icon": "https://eso-hub.com/storage/icons/housing_uni_inc_antstalessiaparavant001.png",
+    "zone": "Grahtwood",
+    "item": "St. Alessia, Paravant",
+    "location": "Battlegrounds Reward"
+  },
+  {
+    "id": "ancestral-high-elf-daggers",
+    "name": "Ancestral High Elf: Daggers",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "Greenshade",
+    "item": "Ancestral High Elf Dagger",
+    "location": "Treasure Map Chest\n Click here to view on map"
+  },
+  {
+    "id": "ancestral-high-elf-shoulders",
+    "name": "Ancestral High Elf: Shoulders",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "Greenshade",
+    "item": "Ancestral High Elf Arm Cops\nAncestral High Elf Epaulets\nAncestral High Elf Pauldrons",
+    "location": "Treasure Map Chest\n Click here to view on map"
+  },
+  {
+    "id": "ancient-fertility-totem",
+    "name": "Ancient Fertility Totem",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_figurine_001.png",
+    "zone": "Greenshade",
+    "item": "",
+    "location": "Freebie Starter Lead"
+  },
+  {
+    "id": "antique-map-of-greenshade",
+    "name": "Antique Map of Greenshade",
+    "icon": "https://eso-hub.com/storage/icons/housing_gen_inc_mappropsgreenshadescroll001.png",
+    "zone": "Greenshade",
+    "item": "Antique Map of Greenshade",
+    "location": "Found in Marbruk City at the “The Parchment & Horn” Inn (Pathfinder Achievement)"
+  },
+  {
+    "id": "branch-of-falinesti",
+    "name": "Branch of Falinesti",
+    "icon": "https://eso-hub.com/storage/icons/housing_uni_inc_antbranchoffalinesti001.png",
+    "zone": "Greenshade",
+    "item": "Branch of Falinesti",
+    "location": "Ressource Nodes"
+  },
+  {
+    "id": "den-of-the-eldest-shoes",
+    "name": "Den of the Eldest Shoes",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_clothing_001.png",
+    "zone": "Greenshade",
+    "item": "",
+    "location": "Reward for excavating Protective Tar Warding Sigil"
+  },
+  {
+    "id": "greensong-gathering-circle",
+    "name": "Greensong Gathering Circle",
+    "icon": "https://eso-hub.com/storage/icons/housing_uni_inc_antgreensonggathering001.png",
+    "zone": "Greenshade",
+    "item": "Greensong Gathering Circle",
+    "location": "Public Dungeon Bosses, Thieves Trove, Chests, Safeboxes, March of Sacrifice Monsters"
+  },
+  {
+    "id": "living-bark",
+    "name": "Living Bark",
+    "icon": "https://eso-hub.com/storage/icons/crafting_cloth_bark.png",
+    "zone": "Galen and Y'ffelon",
+    "item": "Barkroot Blessing",
+    "location": "City of Ash 1 Endboss\n Click here to view on map"
+  },
+  {
+    "id": "protective-tar-warding-sigil",
+    "name": "Protective Tar Warding Sigil",
+    "icon": "https://eso-hub.com/storage/icons/quest_stormhaven_003.png",
+    "zone": "Greenshade",
+    "item": "",
+    "location": "Reward for excavating Ancient Fertility Totem"
+  },
+  {
+    "id": "symbol-of-yffre",
+    "name": "Symbol of Y'ffre",
+    "icon": "https://eso-hub.com/storage/icons/quest_malabaltor_star_ring_of_yffre.png",
+    "zone": "Greenshade",
+    "item": "Ring of the Wild Hunt",
+    "location": "World Bosses\n Click here to view on map"
+  },
+  {
+    "id": "antique-map-of-hews-bane",
+    "name": "Antique Map of Hew's Bane",
+    "icon": "https://eso-hub.com/storage/icons/housing_gen_inc_mappropshewsbanescroll001.png",
+    "zone": "Hew's Bane",
+    "item": "Antique Map of Hew's Bane",
+    "location": "Found in Abah’s Landing City at the “The Serpent and the Senche” Inn (Pathfinder Achievement)"
+  },
+  {
+    "id": "coiled-serpent-lock",
+    "name": "Coiled Serpent Lock",
+    "icon": "https://eso-hub.com/storage/icons/quest_vvardenfell_manual_clockwork_shaft.png",
+    "zone": "Hew's Bane",
+    "item": "",
+    "location": "Reward for excavating Halved Lion Mane’s Wig Piece"
+  },
+  {
+    "id": "halved-lions-mane-wig-piece",
+    "name": "Halved Lion's Mane Wig Piece",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_wig_001.png",
+    "zone": "Hew's Bane",
+    "item": "",
+    "location": "Freebie Starter Lead"
+  },
+  {
+    "id": "morwhas-blessing",
+    "name": "Morwha's Blessing",
+    "icon": "https://eso-hub.com/storage/icons/housing_uni_inc_antmorwhasblessing001.png",
+    "zone": "Hew's Bane",
+    "item": "Morwha's Blessing",
+    "location": "Reward for completing a Heist. Tip Board Daily Quest in the Thieves Den."
+  },
+  {
+    "id": "portrait-of-lady-vadaya",
+    "name": "Portrait of Lady Vadaya",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_portrait_002.png",
+    "zone": "Hew's Bane",
+    "item": "",
+    "location": "Reward for excavating Coiled Serpent Lock"
+  },
+  {
+    "id": "yokudan-skystone-scabbard",
+    "name": "Yokudan Skystone Scabbard",
+    "icon": "https://eso-hub.com/storage/icons/housing_uni_inc_antyokudanskystonescabbard001.png",
+    "zone": "Hew's Bane",
+    "item": "Yokudan Skystone Scabbard",
+    "location": "Safebox in Abah’s Landing, Treasure Map, Chests"
+  },
+  {
+    "id": "ancestral-breton-axes",
+    "name": "Ancestral Breton: Axes",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "High Isle and Amenos",
+    "item": "Ancestral Breton Battle Axe",
+    "location": "Treasure Maps"
+  },
+  {
+    "id": "ancestral-breton-belts",
+    "name": "Ancestral Breton: Belts",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "High Isle and Amenos",
+    "item": "Ancestral Breton Sash\nAncestral Breton Belt\nAncestral Breton Girdle",
+    "location": "Treasure Maps"
+  },
+  {
+    "id": "ancestral-breton-boots",
+    "name": "Ancestral Breton: Boots",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "High Isle and Amenos",
+    "item": "Ancestral Breton Shoes\nAncestral Breton Boots\nAncestral Breton Sabatons",
+    "location": "Treasure Maps"
+  },
+  {
+    "id": "ancestral-breton-bows",
+    "name": "Ancestral Breton: Bows",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "High Isle and Amenos",
+    "item": "Ancestral Breton Bow",
+    "location": "Treasure Maps"
+  },
+  {
+    "id": "ancestral-breton-chests",
+    "name": "Ancestral Breton: Chests",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "High Isle and Amenos",
+    "item": "Ancestral Breton Robe\nAncestral Breton Jack\nAncestral Breton Cuirass",
+    "location": "Treasure Maps"
+  },
+  {
+    "id": "ancestral-breton-daggers",
+    "name": "Ancestral Breton: Daggers",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "High Isle and Amenos",
+    "item": "Ancestral Breton Dagger",
+    "location": "Treasure Maps"
+  },
+  {
+    "id": "ancestral-breton-gloves",
+    "name": "Ancestral Breton: Gloves",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "High Isle and Amenos",
+    "item": "Ancestral Breton Gloves\nAncestral Breton Bracers\nAncestral Breton Gauntlets",
+    "location": "Treasure Maps"
+  },
+  {
+    "id": "ancestral-breton-helmets",
+    "name": "Ancestral Breton: Helmets",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "High Isle and Amenos",
+    "item": "Ancestral Breton Hat\nAncestral Breton Helmet\nAncestral Breton Helm",
+    "location": "Treasure Maps"
+  },
+  {
+    "id": "ancestral-breton-legs",
+    "name": "Ancestral Breton: Legs",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "High Isle and Amenos",
+    "item": "Ancestral Breton Breeches\nAncestral Breton Guards\nAncestral Breton Greaves",
+    "location": "Treasure Maps"
+  },
+  {
+    "id": "ancestral-breton-maces",
+    "name": "Ancestral Breton: Maces",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "High Isle and Amenos",
+    "item": "Ancestral Breton Mace\nAncestral Breton Maul",
+    "location": "Treasure Maps"
+  },
+  {
+    "id": "ancestral-breton-shields",
+    "name": "Ancestral Breton: Shields",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "High Isle and Amenos",
+    "item": "Ancestral Breton Shield",
+    "location": "Treasure Maps"
+  },
+  {
+    "id": "ancestral-breton-shoulders",
+    "name": "Ancestral Breton: Shoulders",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "High Isle and Amenos",
+    "item": "Ancestral Breton Epaulets\nAncestral Breton Arm Cops\nAncestral Breton Pauldrons",
+    "location": "Treasure Maps"
+  },
+  {
+    "id": "ancestral-breton-staves",
+    "name": "Ancestral Breton: Staves",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "High Isle and Amenos",
+    "item": "Ancestral Breton Staff",
+    "location": "Treasure Maps"
+  },
+  {
+    "id": "ancestral-breton-swords",
+    "name": "Ancestral Breton: Swords",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "High Isle and Amenos",
+    "item": "Ancestral Breton Sword\nAncestral Breton Greatsword",
+    "location": "Treasure Maps"
+  },
+  {
+    "id": "antique-map-of-high-isle",
+    "name": "Antique Map of High Isle",
+    "icon": "https://eso-hub.com/storage/icons/housing_gen_inc_mappropssystresscroll001.png",
+    "zone": "High Isle and Amenos",
+    "item": "Antique Map of High Isle",
+    "location": "Merchants in the High Isle Zone"
+  },
+  {
+    "id": "black-eltheric-pearls",
+    "name": "Black Eltheric Pearls",
+    "icon": "https://eso-hub.com/storage/icons/antiquities_black_eltheric_pearls.png",
+    "zone": "High Isle and Amenos",
+    "item": "Sea-Serpent's Coil",
+    "location": "Giant Clam node close to water in the High Isle zone\n Click here to view on map"
+  },
+  {
+    "id": "blending-broomstick",
+    "name": "Blending Broomstick",
+    "icon": "https://eso-hub.com/storage/icons/antiquities_sys_inc_drublendingbroom001.png",
+    "zone": "High Isle and Amenos",
+    "item": "Druidic Provisioning Station",
+    "location": "In the North of High Isle, inside an Ancient Cleaning Tools box next to a tree. East of Garick's Rest, not far from the road.\n Click here to view on map"
+  },
+  {
+    "id": "clay-cooling-pitcher",
+    "name": "Clay Cooling Pitcher",
+    "icon": "https://eso-hub.com/storage/icons/antiquities_sys_inc_druterrapot008.png",
+    "zone": "High Isle and Amenos",
+    "item": "Druidic Provisioning Station",
+    "location": "At the beach close to a tree. West of the Spriggan's Crown location in the south side of the High Isle Zone\n Click here to view on map"
+  },
+  {
+    "id": "cracked-stone-grill-tray",
+    "name": "Cracked Stone Grill Tray",
+    "icon": "https://eso-hub.com/storage/icons/housing_sys_inc_drustonetray001.png",
+    "zone": "High Isle and Amenos",
+    "item": "Druidic Provisioning Station",
+    "location": "Behind the shipwreck in the water which you can walk into at Skulltooth Coast on the Amenos isle.\n Click here to view on map"
+  },
+  {
+    "id": "draoife-storystone",
+    "name": "Draoife Storystone",
+    "icon": "https://eso-hub.com/storage/icons/housing_sys_run_drugreenmancolumn001.png",
+    "zone": "High Isle and Amenos",
+    "item": "Draoife Storystone",
+    "location": "High Isle Reward Coffer (reward for the delve or world boss daily quest in Gonfalon Bay, High Isle)"
+  },
+  {
+    "id": "druidic-kettle-spout",
+    "name": "Druidic Kettle Spout",
+    "icon": "https://eso-hub.com/storage/icons/antiquities_sys_inc_druterrapot005.png",
+    "zone": "High Isle and Amenos",
+    "item": "Druidic Provisioning Station",
+    "location": "On High Isle, in a bay north of Stonelore Falls (striking locale, eye symbol on the map). The lead is in an old Breton teapot next to a boulder in the bay.\n Click here to view on map"
+  },
+  {
+    "id": "druidic-pestle",
+    "name": "Druidic Pestle",
+    "icon": "https://eso-hub.com/storage/icons/housing_sys_inc_drumortarpestle001.png",
+    "zone": "High Isle and Amenos",
+    "item": "Druidic Provisioning Station",
+    "location": "On Amenos, north of Amenos Station, south of where the tunnel to the Hidden Foundry is. You will see built stone \"storage compartments\", the lead is on a bowl in the third compartment from the left in the lowest row.\n Click here to view on map"
+  },
+  {
+    "id": "gilded-disk",
+    "name": "Gilded Disk",
+    "icon": "https://eso-hub.com/storage/icons/antiquities_gilded_disk.png",
+    "zone": "High Isle and Amenos",
+    "item": "Lefthander's Aegis Belt",
+    "location": "Mornard Falls World Boss in the High Isle and Amenos zone, on the Amenos island.\n Click here to view on map"
+  },
+  {
+    "id": "hartlord-hide-singlet",
+    "name": "Hartlord Hide Singlet",
+    "icon": "https://eso-hub.com/storage/icons/u36_hartlordhidesinglet.png",
+    "zone": "Galen and Y'ffelon",
+    "item": "Faun's Lark Cladding",
+    "location": "Faun Falls World Boss in High Isle\n Click here to view on map"
+  },
+  {
+    "id": "igneous-inlays",
+    "name": "Igneous Inlays",
+    "icon": "https://eso-hub.com/storage/icons/antiquities_igneous_inlays.png",
+    "zone": "High Isle and Amenos",
+    "item": "Oakensoul Ring",
+    "location": "Volcanic Vents in the High Isle and Amenos zone\n Click here to view on map"
+  },
+  {
+    "id": "inkwood-box",
+    "name": "Inkwood Box",
+    "icon": "https://eso-hub.com/storage/icons/housing_sum_inc_decorbox001.png",
+    "zone": "Telvanni Peninsula",
+    "item": "Music Box, Glyphic Secrets",
+    "location": "Tales of Tribute daily quest reward coffer & mail\n Click here to view on map"
+  },
+  {
+    "id": "iridescent-pearlwater-wash",
+    "name": "Iridescent Pearlwater Wash",
+    "icon": "https://eso-hub.com/storage/icons/crafting_potion_base_water_3_r3.png",
+    "zone": "Galen and Y'ffelon",
+    "item": "Syrabane's Ward",
+    "location": "Drops from fishing in any water in Galen and High Isle zone\n Click here to view on map"
+  },
+  {
+    "id": "mark-of-the-faun-lord",
+    "name": "Mark of the Faun Lord",
+    "icon": "https://eso-hub.com/storage/icons/u36_markofthefaunlord.png",
+    "zone": "Galen and Y'ffelon",
+    "item": "Faun's Lark Cladding",
+    "location": "Thieves Troves and Safeboxes in Galen and High Isle"
+  },
+  {
+    "id": "painted-elk-clay-pot",
+    "name": "Painted Elk Clay Pot",
+    "icon": "https://eso-hub.com/storage/icons/housing_sys_inc_druterrapot004.png",
+    "zone": "High Isle and Amenos",
+    "item": "Druidic Provisioning Station",
+    "location": "On a small island in a lake north-east of Amenos Station in the High Isle and Amenos zone\n Click here to view on map"
+  },
+  {
+    "id": "preparation-surface",
+    "name": "Preparation Surface",
+    "icon": "https://eso-hub.com/storage/icons/housing_uni_inc_antdruidcookingtablebot001.png",
+    "zone": "High Isle and Amenos",
+    "item": "Druidic Provisioning Station",
+    "location": "North-West of Tor Draoich. From the volcanic vent north of Tor Draoich, walk up the hill towards the west. The elad is on a knife, next to a tree.\n Click here to view on map"
+  },
+  {
+    "id": "smoothed-stone-grinder",
+    "name": "Smoothed Stone Grinder",
+    "icon": "https://eso-hub.com/storage/icons/housing_sys_inc_drustonegrinder001.png",
+    "zone": "High Isle and Amenos",
+    "item": "Druidic Provisioning Station",
+    "location": "All-Flags-Islet, High Isle: Go to the North-East of the islet. The Lead is on a little stone behind a rock at the beach, between two parts of a shipwreck.\n Click here to view on map"
+  },
+  {
+    "id": "steel-serpent-fangs",
+    "name": "Steel Serpent Fangs",
+    "icon": "https://eso-hub.com/storage/icons/antiquities_steel_serpent_fangs.png",
+    "zone": "High Isle and Amenos",
+    "item": "Sea-Serpent's Coil",
+    "location": "Serpent Bog World Boss in High Isle zone\n Click here to view on map"
+  },
+  {
+    "id": "winters-pelt-lining",
+    "name": "Winter's Pelt Lining",
+    "icon": "https://eso-hub.com/storage/icons/housing_skr_inc_housingpeltrug001.png",
+    "zone": "Galen and Y'ffelon",
+    "item": "Faun's Lark Cladding",
+    "location": "Hunter NPC's and Boss in Whalefall Delve in High Isle\n Click here to view on map"
+  },
+  {
+    "id": "woodfire-chamber",
+    "name": "Woodfire Chamber",
+    "icon": "https://eso-hub.com/storage/icons/housing_uni_inc_antdruidcookingtabletop001.png",
+    "zone": "High Isle and Amenos",
+    "item": "Druidic Provisioning Station",
+    "location": "Directly at the Dufort Shipyard Wayshrine there is a small druidic settlement. South of the cottages is a small lava-lake. The lead is on the small blazing stones right of the stairs there, behind a rock.\n Click here to view on map"
+  },
+  {
+    "id": "woven-straining-bowl",
+    "name": "Woven Straining Bowl",
+    "icon": "https://eso-hub.com/storage/icons/housing_sys_inc_drustrainingbowl.png",
+    "zone": "High Isle and Amenos",
+    "item": "Druidic Provisioning Station",
+    "location": "East of Castle Navire, a little bowl next to a tree, close to the road\n Click here to view on map"
+  },
+  {
+    "id": "carved-signet-base",
+    "name": "Carved Signet Base",
+    "icon": "https://eso-hub.com/storage/icons/antiquities_u30_mythic_ring_fragment05.png",
+    "zone": "Blackwood",
+    "item": "Death Dealer's Fete",
+    "location": "Imperial City Upstair Bosses\n Click here to view on map"
+  },
+  {
+    "id": "malacaths-brutal-rune-core",
+    "name": "Malacath's Brutal Rune Core",
+    "icon": "https://eso-hub.com/storage/icons/crafting_metals_manganese.png",
+    "zone": "Bal Foyen",
+    "item": "Malacath's Band of Brutality",
+    "location": "Upper District Bosses (Dig Site in Bal Foyen)\n Click here to view on map"
+  },
+  {
+    "id": "moth-priests-cleansing-bowl",
+    "name": "Moth Priest's Cleansing Bowl",
+    "icon": "https://eso-hub.com/storage/icons/housing_uni_inc_antmothpriestscleansingbowl001.png",
+    "zone": "Northern Elsweyr",
+    "item": "Moth Priest's Cleansing Bowl",
+    "location": "Imperial City Bosses, Imperial Sewer Bosses & Monsters, Imperial Sewer General Malvicus (Story quest of Imperial City), Backpacks"
+  },
+  {
+    "id": "hecatomb-tassets",
+    "name": "Hecatomb Tassets",
+    "icon": "https://eso-hub.com/storage/icons/crafting_light_armor_component_006.png",
+    "zone": "Khenarthi's Roost",
+    "item": "Bloodlord's Embrace",
+    "location": "Imperial Sewer Bosses (Dig site is in Khenarthi’s Roost)\n Click here to view on map"
+  },
+  {
+    "id": "moth-priests-cleansing-bowl",
+    "name": "Moth Priest's Cleansing Bowl",
+    "icon": "https://eso-hub.com/storage/icons/housing_uni_inc_antmothpriestscleansingbowl001.png",
+    "zone": "Northern Elsweyr",
+    "item": "Moth Priest's Cleansing Bowl",
+    "location": "Imperial City Bosses, Imperial Sewer Bosses & Monsters, Imperial Sewer General Malvicus (Story quest of Imperial City), Backpacks"
+  },
+  {
+    "id": "ancestral-high-elf-axes",
+    "name": "Ancestral High Elf: Axes",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "Khenarthi's Roost",
+    "item": "Ancestral High Elf Axe\nAncestral High Elf Battle Axe",
+    "location": "Treasure Map Chest\n Click here to view on map"
+  },
+  {
+    "id": "ancestral-high-elf-belts",
+    "name": "Ancestral High Elf: Belts",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "Khenarthi's Roost",
+    "item": "Ancestral High Elf Belt\nAncestral High Elf Sash\nAncestral High Elf Girdle",
+    "location": "Treasure Map Chest\n Click here to view on map"
+  },
+  {
+    "id": "ancestral-high-elf-helmets",
+    "name": "Ancestral High Elf: Helmets",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "Khenarthi's Roost",
+    "item": "Ancestral High Elf Helmet\nAncestral High Elf Helm\nAncestral High Elf Hat",
+    "location": "Treasure Map Chest\n Click here to view on map"
+  },
+  {
+    "id": "ancestral-high-elf-staves",
+    "name": "Ancestral High Elf: Staves",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "Khenarthi's Roost",
+    "item": "Ancestral High Elf Staff",
+    "location": "Treasure Map Chest\n Click here to view on map"
+  },
+  {
+    "id": "ancient-fishing-rod",
+    "name": "Ancient Fishing Rod",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_stickwithstring.png",
+    "zone": "Khenarthi's Roost",
+    "item": "",
+    "location": "Reward for excavating Khenarthi Skooma Pipe"
+  },
+  {
+    "id": "cats-eye-prism",
+    "name": "Cat's Eye Prism",
+    "icon": "https://eso-hub.com/storage/icons/housing_uni_inc_antcatseye001.png",
+    "zone": "Khenarthi's Roost",
+    "item": "Cat's Eye Prism",
+    "location": "Psijic Portal, Nodes"
+  },
+  {
+    "id": "khenarthi-skooma-pipe",
+    "name": "Khenarthi Skooma Pipe",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_pipe_001.png",
+    "zone": "Khenarthi's Roost",
+    "item": "",
+    "location": "Freebie Starter Lead"
+  },
+  {
+    "id": "pilazjos-training-blade",
+    "name": "Pilazjo's Training Blade",
+    "icon": "https://eso-hub.com/storage/icons/quest_sword_002.png",
+    "zone": "Khenarthi's Roost",
+    "item": "",
+    "location": "Reward for excavating Ancient Fishing Rod"
+  },
+  {
+    "id": "sweet-khenarthis-song",
+    "name": "Sweet Khenarthi's Song",
+    "icon": "https://eso-hub.com/storage/icons/housing_uni_inc_antsweetkhenarthisong001.png",
+    "zone": "Khenarthi's Roost",
+    "item": "Sweet Khenarthi's Song",
+    "location": "Thieves Trove, Treasure Map, Kwama Worker Random Monster, Chest, Enchanting & Cloth Node"
+  },
+  {
+    "id": "ancestral-high-elf-gloves",
+    "name": "Ancestral High Elf: Gloves",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "Malabal Tor",
+    "item": "Ancestral High Elf Gloves\nAncestral High Elf Bracers\nAncestral High Elf Gauntlets",
+    "location": "Treasure Map Chest\n Click here to view on map"
+  },
+  {
+    "id": "ancestral-high-elf-swords",
+    "name": "Ancestral High Elf: Swords",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "Malabal Tor",
+    "item": "Ancestral High Elf Sword\nAncestral High Elf Greatsword",
+    "location": "Treasure Map Chest\n Click here to view on map"
+  },
+  {
+    "id": "antique-map-of-malabal-tor",
+    "name": "Antique Map of Malabal Tor",
+    "icon": "https://eso-hub.com/storage/icons/housing_gen_inc_mappropsmalabaltorscroll001.png",
+    "zone": "Malabal Tor",
+    "item": "Antique Map of Malabal Tor",
+    "location": "Found in Baandari Trading Post at the “Silver Moons” Inn (Pathfinder Achievement)"
+  },
+  {
+    "id": "face-of-the-wolf-beast",
+    "name": "Face of the Wolf Beast",
+    "icon": "https://eso-hub.com/storage/icons/quest_head_monster_021.png",
+    "zone": "Malabal Tor",
+    "item": "Ring of the Wild Hunt",
+    "location": "World Bosses\n Click here to view on map"
+  },
+  {
+    "id": "hollowbone-wind-chimes",
+    "name": "Hollowbone Wind Chimes",
+    "icon": "https://eso-hub.com/storage/icons/housing_uni_inc_anthollowbonewindchimes001.png",
+    "zone": "Malabal Tor",
+    "item": "Hollowbone Wind Chimes",
+    "location": "Public Dungeon Boss in Crimson Cove, Chest, Thieve Troves, Backpacks"
+  },
+  {
+    "id": "jeweled-ayleid-scabbard",
+    "name": "Jeweled Ayleid Scabbard",
+    "icon": "https://eso-hub.com/storage/icons/quest_glenumbra_004.png",
+    "zone": "Malabal Tor",
+    "item": "",
+    "location": "Reward for excavating Spinners Singing Bone"
+  },
+  {
+    "id": "sacred-resin",
+    "name": "Sacred Resin",
+    "icon": "https://eso-hub.com/storage/icons/antiquities_sacred_resin.png",
+    "zone": "High Isle and Amenos",
+    "item": "Oakensoul Ring",
+    "location": "Any monster in Malabal Tor\n Click here to view on map"
+  },
+  {
+    "id": "silvenars-scepter",
+    "name": "Silvenar's Scepter",
+    "icon": "https://eso-hub.com/storage/icons/quest_wand_002.png",
+    "zone": "Malabal Tor",
+    "item": "",
+    "location": "Reward for excavating Jeweled Ayleid Scabbard"
+  },
+  {
+    "id": "silvenari-sap-stone",
+    "name": "Silvenari Sap-Stone",
+    "icon": "https://eso-hub.com/storage/icons/housing_uni_inc_antsilvenarisapstone001.png",
+    "zone": "Malabal Tor",
+    "item": "Silvenari Sap-Stone",
+    "location": "Thieves Trove, Treasure Map Chests, Safebox"
+  },
+  {
+    "id": "spinners-singing-bone",
+    "name": "Spinner's Singing Bone",
+    "icon": "https://eso-hub.com/storage/icons/crafting_gems_cyclops_bone.png",
+    "zone": "Malabal Tor",
+    "item": "",
+    "location": "Freebie Starter Lead"
+  },
+  {
+    "id": "antique-map-of-murkmire",
+    "name": "Antique Map of Murkmire",
+    "icon": "https://eso-hub.com/storage/icons/housing_gen_inc_mappropsmurkmirescroll001.png",
+    "zone": "Murkmire",
+    "item": "Antique Map of Murkmire",
+    "location": "Found in Lilmoth City at the “The Lusty Argonian Footman” Inn (Pathfinder Achievement)"
+  },
+  {
+    "id": "charm-of-the-shapeless",
+    "name": "Charm of the Shapeless",
+    "icon": "https://eso-hub.com/storage/icons/crafting_metals_corundum.png",
+    "zone": "Murkmire",
+    "item": "Ring of the Wild Hunt",
+    "location": "World Bosses + Any Boss in Delves\n Click here to view on map"
+  },
+  {
+    "id": "naga-skull-trap",
+    "name": "Naga Skull-Trap",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_contraption_001.png",
+    "zone": "Murkmire",
+    "item": "",
+    "location": "Freebie Starter Lead"
+  },
+  {
+    "id": "nisswos-soul-tender",
+    "name": "Nisswo's Soul Tender",
+    "icon": "https://eso-hub.com/storage/icons/housing_uni_inc_antnisswosoultender001.png",
+    "zone": "Murkmire",
+    "item": "Nisswo's Soul Tender",
+    "location": "Safeboxes in Lilmoth, Treasure Map, World Bosses, Any Boss in Cavern Delve"
+  },
+  {
+    "id": "petrified-oak-loop",
+    "name": "Petrified Oak Loop",
+    "icon": "https://eso-hub.com/storage/icons/antiquities_petrified_oak_loop.png",
+    "zone": "High Isle and Amenos",
+    "item": "Oakensoul Ring",
+    "location": "Safeboxes & Thieves Troves in the Murkmire zone (Please turn off Auto-loot, so Safebox doesn't disappear)\n Click here to view on map"
+  },
+  {
+    "id": "stone-chiefs-xul-vaat",
+    "name": "Stone-Chief's Xul-Vaat",
+    "icon": "https://eso-hub.com/storage/icons/quest_murkmire_xal_toh_tablet.png",
+    "zone": "Murkmire",
+    "item": "",
+    "location": "Reward for excavating Naga Skull-Trap"
+  },
+  {
+    "id": "vakka-bok-sun-bowl",
+    "name": "Vakka Bok Sun Bowl",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_bowl_001.png",
+    "zone": "Murkmire",
+    "item": "",
+    "location": "Reward for excavating Stone- Chief’s Xul-Vaat"
+  },
+  {
+    "id": "wolf-tail-sash",
+    "name": "Wolf-Tail Sash",
+    "icon": "https://eso-hub.com/storage/icons/antiquities_u30_mythic_legs_fragment04.png",
+    "zone": "Blackwood",
+    "item": "Harpooner's Wading Kilt",
+    "location": "Murkmire Foul Fishing Spots\n Click here to view on map"
+  },
+  {
+    "id": "antique-map-of-northern-elsweyr",
+    "name": "Antique Map of Northern Elsweyr",
+    "icon": "https://eso-hub.com/storage/icons/housing_gen_inc_mappropselsweyrscroll001.png",
+    "zone": "Northern Elsweyr",
+    "item": "Antique Map of Northern Elsweyr",
+    "location": "Found in Rimmen City at the “The Sugar Bowl” Inn (Pathfinder Achievement)"
+  },
+  {
+    "id": "crowcallers-chapbook",
+    "name": "Crowcaller's Chapbook",
+    "icon": "https://eso-hub.com/storage/icons/daedricprinceslore_book2.png",
+    "zone": "West Weald",
+    "item": "The Shadow Queen's Cowl",
+    "location": "Group Boss in Orcrest Public Dungeon in the Northern Elsweyr zone\n Click here to view on map"
+  },
+  {
+    "id": "dov-rha-sabaton-lames",
+    "name": "Dov-rha Sabaton Lames",
+    "icon": "https://eso-hub.com/storage/icons/antiquities_dov-rah_sabaton_lames.png",
+    "zone": "High Isle and Amenos",
+    "item": "Dov-Rha Sabatons",
+    "location": "Safeboxes in the Northern Elsweyr zone\n Click here to view on map"
+  },
+  {
+    "id": "faded-khajiit-claw",
+    "name": "Faded Khajiit Claw",
+    "icon": "https://eso-hub.com/storage/icons/quest_monster_claw_001.png",
+    "zone": "Northern Elsweyr",
+    "item": "",
+    "location": "Freebie Starter Lead"
+  },
+  {
+    "id": "khajiit-plague-mask",
+    "name": "Khajiit Plague Mask",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_mask_full_001.png",
+    "zone": "Northern Elsweyr",
+    "item": "",
+    "location": "Reward for excavating Faded Khajiit Claw"
+  },
+  {
+    "id": "khajiit-prayer-cloth",
+    "name": "Khajiit Prayer Cloth",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_cloth_001.png",
+    "zone": "Northern Elsweyr",
+    "item": "",
+    "location": "Reward for excavating Khajiit Plague Mask"
+  },
+  {
+    "id": "khajiiti-water-vessel-large",
+    "name": "Khajiiti Water Vessel, Large",
+    "icon": "https://eso-hub.com/storage/icons/housing_els_exc_seempyreanholderlarge001.png",
+    "zone": "Northern Elsweyr",
+    "item": "Khajiiti Water Vessel, Large",
+    "location": "Drops from all Loot Tables (Example: Monsters, Treasure Chests, Safeboxes etc.)"
+  },
+  {
+    "id": "stained-glass-of-lunar-phases",
+    "name": "Stained Glass of Lunar Phases",
+    "icon": "https://eso-hub.com/storage/icons/housing_uni_inc_antstainedglasslunarphases001.png",
+    "zone": "Northern Elsweyr",
+    "item": "Stained Glass of Lunar Phases",
+    "location": "Any Dragon Boss Fight"
+  },
+  {
+    "id": "ancestral-high-elf-legs",
+    "name": "Ancestral High Elf: Legs",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "Reaper's March",
+    "item": "Ancestral High Elf Greaves\nAncestral High Elf Breeches\nAncestral High Elf Guards",
+    "location": "Treasure Map Chest\n Click here to view on map"
+  },
+  {
+    "id": "ancestral-high-elf-shields",
+    "name": "Ancestral High Elf: Shields",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "Reaper's March",
+    "item": "Ancestral High Elf Shield",
+    "location": "Treasure Map Chest\n Click here to view on map"
+  },
+  {
+    "id": "antique-map-of-reapers-march",
+    "name": "Antique Map of Reaper's March",
+    "icon": "https://eso-hub.com/storage/icons/housing_gen_inc_mappropsreapersmarchscroll001.png",
+    "zone": "Reaper's March",
+    "item": "Antique Map of Reaper's March",
+    "location": "Found in Rawl’Kha City at the “The Waxing Crescent” Inn (Pathfinder Achievement)"
+  },
+  {
+    "id": "dark-seducer-cameo",
+    "name": "Dark Seducer Cameo",
+    "icon": "https://eso-hub.com/storage/icons/antiquities_saintseducernecklace_seducer.png",
+    "zone": "West Weald",
+    "item": "The Saint and the Seducer",
+    "location": "All Bosses in Vile Manse Public Dungeon\n Click here to view on map"
+  },
+  {
+    "id": "hunt-lords-djerid",
+    "name": "Hunt-Lord's Djerid",
+    "icon": "https://eso-hub.com/storage/icons/crafting_outfitter_dagger_vendor_component_002.png",
+    "zone": "Reaper's March",
+    "item": "",
+    "location": "Reward for excavating Two Moons Censer"
+  },
+  {
+    "id": "khajiiti-arch-rising",
+    "name": "Khajiiti Arch, Rising",
+    "icon": "https://eso-hub.com/storage/icons/housing_kha_waf_housingwallsgatesand001.png",
+    "zone": "Reaper's March",
+    "item": "Khajiiti Arch, Rising",
+    "location": "Drops from all Loot Tables (Example: Monsters, Treasure Chests, Safeboxes etc.)"
+  },
+  {
+    "id": "lurker-skin-sheath",
+    "name": "Lurker-skin Sheath",
+    "icon": "https://eso-hub.com/storage/icons/antiquities_lurker-skin_sheath.png",
+    "zone": "High Isle and Amenos",
+    "item": "Mora's Whispers",
+    "location": "Treasure Chests inside the Vile Manse Public Dungeon in Reaper's March\n Click here to view on map"
+  },
+  {
+    "id": "malacaths-brutal-ritual-dust",
+    "name": "Malacath's Brutal Ritual Dust",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_pouch_003.png",
+    "zone": "Reaper's March",
+    "item": "Malacath's Band of Brutality",
+    "location": "World Bosses\n Click here to view on map"
+  },
+  {
+    "id": "manes-frayed-crown",
+    "name": "Mane's Frayed Crown",
+    "icon": "https://eso-hub.com/storage/icons/quest_trash_002.png",
+    "zone": "Reaper's March",
+    "item": "",
+    "location": "Reward for excavating Hunt-Lord’s Djerid"
+  },
+  {
+    "id": "moonlight-mirror",
+    "name": "Moonlight Mirror",
+    "icon": "https://eso-hub.com/storage/icons/housing_uni_inc_antmoonlightmirror001.png",
+    "zone": "Reaper's March",
+    "item": "Moonlight Mirror",
+    "location": "Safebox"
+  },
+  {
+    "id": "shock-lancer",
+    "name": "Shock Lancer",
+    "icon": "https://eso-hub.com/storage/icons/quest_crate_001.png",
+    "zone": "Reaper's March",
+    "item": "",
+    "location": "Gladiator’s Rucksack from Cyrodiil Daily Quest"
+  },
+  {
+    "id": "sorcerer-kings-blade",
+    "name": "Sorcerer-King's Blade",
+    "icon": "https://eso-hub.com/storage/icons/housing_uni_inc_antsorcererkingblade001.png",
+    "zone": "Reaper's March",
+    "item": "Sorcerer-King's Blade",
+    "location": "Cheydinhal + Vlastrus +Chorrol Quest Reward"
+  },
+  {
+    "id": "two-moons-censer",
+    "name": "Two Moons Censer",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_censer_001.png",
+    "zone": "Reaper's March",
+    "item": "",
+    "location": "Freebie Starter Lead"
+  },
+  {
+    "id": "ancestral-orc-daggers",
+    "name": "Ancestral Orc: Daggers",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "Rivenspire",
+    "item": "Ancestral Orc Dagger",
+    "location": "Treasure Map Chest\n Click here to view on map"
+  },
+  {
+    "id": "ancestral-orc-shoulders",
+    "name": "Ancestral Orc: Shoulders",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "Rivenspire",
+    "item": "Ancestral Orc Pauldrons\nAncestral Orc Arm Cops\nAncestral Orc Epaulets",
+    "location": "Treasure Map Chest\n Click here to view on map"
+  },
+  {
+    "id": "antique-map-of-rivenspire",
+    "name": "Antique Map of Rivenspire",
+    "icon": "https://eso-hub.com/storage/icons/housing_gen_inc_mappropsrivenspirescroll001.png",
+    "zone": "Rivenspire",
+    "item": "Antique Map of Rivenspire",
+    "location": "Found in Shornhelm at the “Dead Wolf” Inn (Pathfinder Achievement)"
+  },
+  {
+    "id": "druidic-music-box-drum",
+    "name": "Druidic Music Box Drum",
+    "icon": "https://eso-hub.com/storage/icons/collectible_memento_tribaldrumming.png",
+    "zone": "Galen and Y'ffelon",
+    "item": "Music Box, Blessings of Stone",
+    "location": "Desuuga the Siren, World Boss at Siren's Cove, North side in the Rivenspire zone\n Click here to view on map"
+  },
+  {
+    "id": "house-tamrith-official-seal",
+    "name": "House Tamrith Official Seal",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_seal_001.png",
+    "zone": "Rivenspire",
+    "item": "",
+    "location": "Freebie Starter Lead"
+  },
+  {
+    "id": "northpoint-founding-coin",
+    "name": "Northpoint Founding Coin",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_coin_001.png",
+    "zone": "Rivenspire",
+    "item": "",
+    "location": "Reward for excavating House Tamrith Official Seal"
+  },
+  {
+    "id": "remnant-of-the-false-tower",
+    "name": "Remnant of the False Tower",
+    "icon": "https://eso-hub.com/storage/icons/housing_uni_inc_antremnantofthefalsetower001.png",
+    "zone": "Rivenspire",
+    "item": "Remnant of the False Tower",
+    "location": "Nodes"
+  },
+  {
+    "id": "riven-kings-throne",
+    "name": "Riven King's Throne",
+    "icon": "https://eso-hub.com/storage/icons/housing_uni_inc_antrivenkingsthrone001.png",
+    "zone": "Rivenspire",
+    "item": "Riven King's Throne",
+    "location": "Safebox, Daedric Incursion World Event, Wood Node, Thieves Trove, Chests"
+  },
+  {
+    "id": "spire-of-erokii-frieze",
+    "name": "Spire of Erokii Frieze",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_painting_001.png",
+    "zone": "Rivenspire",
+    "item": "",
+    "location": "Reward for excavating Northpoint Founding Coin"
+  },
+  {
+    "id": "withered-garlic-gorget",
+    "name": "Withered Garlic Gorget",
+    "icon": "https://eso-hub.com/storage/icons/u36_witheredgarlicgorget.png",
+    "zone": "Galen and Y'ffelon",
+    "item": "Faun's Lark Cladding",
+    "location": "All Bosses in Obsidian Scar Public Dungeon, Rivenspire zone\n Click here to view on map"
+  },
+  {
+    "id": "ancestral-nord-daggers",
+    "name": "Ancestral Nord: Daggers",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "Shadowfen",
+    "item": "Ancestral Nord Dagger",
+    "location": "Treasure Map Chest\n Click here to view on map"
+  },
+  {
+    "id": "ancestral-nord-shoulders",
+    "name": "Ancestral Nord: Shoulders",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "Shadowfen",
+    "item": "Ancestral Nord Arm Cops\nAncestral Nord Epaulets\nAncestral Nord Pauldrons",
+    "location": "Treasure Map Chest\n Click here to view on map"
+  },
+  {
+    "id": "antique-map-of-shadowfen",
+    "name": "Antique Map of Shadowfen",
+    "icon": "https://eso-hub.com/storage/icons/housing_gen_inc_mappropsshadowfenscroll001.png",
+    "zone": "Shadowfen",
+    "item": "Antique Map of Shadowfen",
+    "location": "Found in Stormhold City at the “Coin Brothers’ Cornerclub Inn (Pathfinder Achievement)"
+  },
+  {
+    "id": "childs-ragged-tree-doll",
+    "name": "Child's Ragged Tree Doll",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_toy_001.png",
+    "zone": "Shadowfen",
+    "item": "",
+    "location": "Freebie Starter Lead"
+  },
+  {
+    "id": "fanged-cuirass",
+    "name": "Fanged Cuirass",
+    "icon": "https://eso-hub.com/storage/icons/crafting_runecrafter_armor_vendor_component_002.png",
+    "zone": "Shadowfen",
+    "item": "Bloodlord's Embrace",
+    "location": "Public Dungeon Boss (Sanguine’s Demense)\n Click here to view on map"
+  },
+  {
+    "id": "nest-of-shadows",
+    "name": "Nest of Shadows",
+    "icon": "https://eso-hub.com/storage/icons/housing_uni_inc_antnestofshadows001.png",
+    "zone": "Shadowfen",
+    "item": "Nest of Shadows",
+    "location": "Sellistrix the Lamia Queen (Arx Corinium endboss)"
+  },
+  {
+    "id": "onyx-shadowscale-scroll-case",
+    "name": "Onyx Shadowscale Scroll Case",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_trinket.png",
+    "zone": "Shadowfen",
+    "item": "",
+    "location": "Reward for excavating Silver Wish Medaillon"
+  },
+  {
+    "id": "pad-sa-shark-teeth",
+    "name": "Pad-Sa Shark Teeth",
+    "icon": "https://eso-hub.com/storage/icons/antiquities_u30_mythic_helm_fragment04.png",
+    "zone": "Blackwood",
+    "item": "Gaze of Sithis",
+    "location": "Onkobra Kwama Mine Delve\n Click here to view on map"
+  },
+  {
+    "id": "silver-wish-medallion",
+    "name": "Silver Wish Medallion",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_plate_001.png",
+    "zone": "Shadowfen",
+    "item": "",
+    "location": "Reward for excavating Child’s Ragged Tree Doll"
+  },
+  {
+    "id": "tide-glass-beads",
+    "name": "Tide-Glass Beads",
+    "icon": "https://eso-hub.com/storage/icons/antiquities_u30_mythic_legs_fragment03.png",
+    "zone": "Blackwood",
+    "item": "Harpooner's Wading Kilt",
+    "location": "All water and alchemy nodes\n Click here to view on map"
+  },
+  {
+    "id": "ancient-dragonguard-lure",
+    "name": "Ancient Dragonguard Lure",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_lodestone_bowling_balls.png",
+    "zone": "Southern Elsweyr",
+    "item": "",
+    "location": "Reward for excavating Meteoric-Iron Pravise"
+  },
+  {
+    "id": "antique-map-of-southern-elsweyr",
+    "name": "Antique Map of Southern Elsweyr",
+    "icon": "https://eso-hub.com/storage/icons/housing_gen_inc_mappropssouthelsweyrscroll001.png",
+    "zone": "Southern Elsweyr",
+    "item": "Antique Map of Southern Elsweyr",
+    "location": "Found in Senchal City at the “The Sweet Breezes” Inn (Pathfinder Achievement)"
+  },
+  {
+    "id": "dov-rha-sabaton-toe-cap",
+    "name": "Dov-rha Sabaton Toe Cap",
+    "icon": "https://eso-hub.com/storage/icons/antiquities_dov-rah_sabaton_toe_cap.png",
+    "zone": "High Isle and Amenos",
+    "item": "Dov-Rha Sabatons",
+    "location": "Psijic Portals in the Southern Elsweyr zone\n Click here to view on map"
+  },
+  {
+    "id": "khajiiti-well",
+    "name": "Khajiiti Well",
+    "icon": "https://eso-hub.com/storage/icons/housing_kha_str_welllarge001.png",
+    "zone": "Southern Elsweyr",
+    "item": "Khajiiti Well",
+    "location": "Drops from all Loot Tables (Example: Monsters, Treasure Chests, Safeboxes etc.)"
+  },
+  {
+    "id": "meteoric-iron-pavise",
+    "name": "Meteoric-Iron Pavise",
+    "icon": "https://eso-hub.com/storage/icons/quest_shield_001.png",
+    "zone": "Southern Elsweyr",
+    "item": "",
+    "location": "Reward for excavating Spiked Scalebreaker Bolt"
+  },
+  {
+    "id": "moons-blessed-ceremonial-pool",
+    "name": "Moons-Blessed Ceremonial Pool",
+    "icon": "https://eso-hub.com/storage/icons/housing_uni_inc_antmoonsblessedceremonialpool001.png",
+    "zone": "Southern Elsweyr",
+    "item": "Moons-Blessed Ceremonial Pool",
+    "location": "Backpack/ Urn in Moonlit Cove, Backpack/ Urn in Senchal, Backpack in Forsaken Citadel"
+  },
+  {
+    "id": "shrine-of-boethra",
+    "name": "Shrine of Boethra",
+    "icon": "https://eso-hub.com/storage/icons/housing_uni_inc_antshrineofboethra001.png",
+    "zone": "Southern Elsweyr",
+    "item": "Shrine of Boethra",
+    "location": "Any World Boss Dragon"
+  },
+  {
+    "id": "spiked-scalebreaker-bolt",
+    "name": "Spiked Scalebreaker Bolt",
+    "icon": "https://eso-hub.com/storage/icons/quest_summerset_ballista_bolts.png",
+    "zone": "Southern Elsweyr",
+    "item": "",
+    "location": "Freebie Starter Lead"
+  },
+  {
+    "id": "ancestral-nord-bows",
+    "name": "Ancestral Nord: Bows",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "Stonefalls",
+    "item": "Ancestral Nord Bow",
+    "location": "Treasure Map Chest\n Click here to view on map"
+  },
+  {
+    "id": "ancestral-nord-chests",
+    "name": "Ancestral Nord: Chests",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "Stonefalls",
+    "item": "Ancestral Nord Cuirass\nAncestral Nord Robe\nAncestral Nord Jack",
+    "location": "Treasure Map Chest\n Click here to view on map"
+  },
+  {
+    "id": "antique-map-of-stonefalls",
+    "name": "Antique Map of Stonefalls",
+    "icon": "https://eso-hub.com/storage/icons/housing_gen_inc_mappropsstonefallsscroll002.png",
+    "zone": "Stonefalls",
+    "item": "Antique Map of Stonefalls",
+    "location": "Found in Davon’s Watch city at the “The Watch House” Inn (Pathfinder Achievement)"
+  },
+  {
+    "id": "ashen-infernace-gate",
+    "name": "Ashen Infernace Gate",
+    "icon": "https://eso-hub.com/storage/icons/housing_uni_inc_antasheninfernacegate001.png",
+    "zone": "Stonefalls",
+    "item": "Ashen Infernace Gate",
+    "location": "Safebox, Random Monsters, Treasure Chest, Crow’s Wood Public Dungeon"
+  },
+  {
+    "id": "aureal-armor-glaze",
+    "name": "Aureal Armor Glaze",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_unique_ashpit_vial.png",
+    "zone": "Deadlands",
+    "item": "Spaulder of Ruin",
+    "location": "Shivering Shrine World boss\n Click here to view on map"
+  },
+  {
+    "id": "bronzed-war-horn",
+    "name": "Bronzed War Horn",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_unique_sled_horn.png",
+    "zone": "Stonefalls",
+    "item": "",
+    "location": "Reward for excavating Nedic Wineskin"
+  },
+  {
+    "id": "chimer-military-insignia",
+    "name": "Chimer Military Insignia",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_adornment_001.png",
+    "zone": "Stonefalls",
+    "item": "",
+    "location": "Reward for excavating Bronzed War Horn"
+  },
+  {
+    "id": "dwarven-steam-conduit",
+    "name": "Dwarven Steam Conduit",
+    "icon": "https://eso-hub.com/storage/icons/crafting_dwemer_shiny_tube.png",
+    "zone": "Stonefalls",
+    "item": "Ebon Dwarven Wolf",
+    "location": "Delve Boss Inner Sea Armature\n Click here to view on map"
+  },
+  {
+    "id": "enjaen-saltchain-links",
+    "name": "Enjaen Saltchain Links",
+    "icon": "https://eso-hub.com/storage/icons/housing_cld_duc_shacklechain001.png",
+    "zone": "West Weald",
+    "item": "The Saint and the Seducer",
+    "location": "Sheogorath's Tongue Delve Boss\n Click here to view on map"
+  },
+  {
+    "id": "fire-lancer",
+    "name": "Fire Lancer",
+    "icon": "https://eso-hub.com/storage/icons/quest_crate_001.png",
+    "zone": "Stonefalls",
+    "item": "",
+    "location": "Gladiator’s Rucksack from Cyrodiil Daily Quest"
+  },
+  {
+    "id": "nedic-wineskin",
+    "name": "Nedic Wineskin",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_waterskin_001.png",
+    "zone": "Stonefalls",
+    "item": "",
+    "location": "Freebie Starter Lead"
+  },
+  {
+    "id": "preserved-mushroom-sponge-wipe",
+    "name": "Preserved Mushroom Sponge Wipe",
+    "icon": "https://eso-hub.com/storage/icons/housing_veg_aqa_seasponge001.png",
+    "zone": "Telvanni Peninsula",
+    "item": "Spore Savant Face Marks",
+    "location": "Last boss in the Fungal Grotto 1 dungeon, Stonefalls zone\n Click here to view on map"
+  },
+  {
+    "id": "torc-tonal-focus",
+    "name": "Torc Tonal Focus",
+    "icon": "https://eso-hub.com/storage/icons/memento_tuningfork.png",
+    "zone": "Stonefalls",
+    "item": "Torc of Tonal Constancy",
+    "location": "All Bosses in Crow’s Wood Public Dungeon\n Click here to view on map"
+  },
+  {
+    "id": "ancestral-orc-boots",
+    "name": "Ancestral Orc: Boots",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "Stormhaven",
+    "item": "Ancestral Orc Boots\nAncestral Orc Shoes\nAncestral Orc Sabatons",
+    "location": "Treasure Map Chest\n Click here to view on map"
+  },
+  {
+    "id": "ancestral-orc-maces",
+    "name": "Ancestral Orc: Maces",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "Stormhaven",
+    "item": "Ancestral Orc Mace\nAncestral Orc Maul",
+    "location": "Treasure Map Chest\n Click here to view on map"
+  },
+  {
+    "id": "antique-map-of-stormhaven",
+    "name": "Antique Map of Stormhaven",
+    "icon": "https://eso-hub.com/storage/icons/housing_gen_inc_mappropsstormhavenscroll001.png",
+    "zone": "Stormhaven",
+    "item": "Antique Map of Stormhaven",
+    "location": "Found in Wayrest City at the “Cloudy Dregs” Inn (Pathfinder Achievement)"
+  },
+  {
+    "id": "beacon-of-tower-zero",
+    "name": "Beacon of Tower Zero",
+    "icon": "https://eso-hub.com/storage/icons/housing_uni_inc_antbeacontowerzero001.png",
+    "zone": "Stormhaven",
+    "item": "Beacon of Tower Zero",
+    "location": "Psijic Portals, Nodes"
+  },
+  {
+    "id": "direnni-palatial-art",
+    "name": "Direnni Palatial Art",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_portrait_002.png",
+    "zone": "Stormhaven",
+    "item": "",
+    "location": "Reward for excavating Nedic Hex Totem"
+  },
+  {
+    "id": "dwarven-breastguard",
+    "name": "Dwarven Breastguard",
+    "icon": "https://eso-hub.com/storage/icons/crafting_metals_dwarven_scrap.png",
+    "zone": "Stormhaven",
+    "item": "Ebon Dwarven Wolf",
+    "location": "Earthforge Pressure Room 3, Curious Dwemer Rubble near the Orgnum’s Scale Set Clothier Station\n Click here to view on map"
+  },
+  {
+    "id": "larimar-gems",
+    "name": "Larimar Gems",
+    "icon": "https://eso-hub.com/storage/icons/antiquities_larimar_gems.png",
+    "zone": "High Isle and Amenos",
+    "item": "Oakensoul Ring",
+    "location": "Titanclaw boss at Mudcrab Beach (south west) location in the Stormhaven zone\n Click here to view on map"
+  },
+  {
+    "id": "malacaths-brutal-ritual-oil",
+    "name": "Malacath's Brutal Ritual Oil",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_vase_001.png",
+    "zone": "Stormhaven",
+    "item": "Malacath's Band of Brutality",
+    "location": "Public Dungeon Boss (Bonesnap Ruins)\n Click here to view on map"
+  },
+  {
+    "id": "meteoric-beads",
+    "name": "Meteoric Beads",
+    "icon": "https://eso-hub.com/storage/icons/antiquities_meteoric_beads.png",
+    "zone": "High Isle and Amenos",
+    "item": "Sea-Serpent's Coil",
+    "location": "Mages Guild daily quest reward coffer, you can get Mages Guild dailies at any Mages Guild location\n Click here to view on map"
+  },
+  {
+    "id": "nedic-hex-totem",
+    "name": "Nedic Hex Totem",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_figurine_001.png",
+    "zone": "Stormhaven",
+    "item": "",
+    "location": "Reward for excavating Secession Stamp Bloc"
+  },
+  {
+    "id": "noble-knights-rest",
+    "name": "Noble Knight's Rest",
+    "icon": "https://eso-hub.com/storage/icons/housing_uni_inc_antnobleknightsrest001.png",
+    "zone": "Stormhaven",
+    "item": "Noble Knight's Rest",
+    "location": "Treasure Map Chest, Public Dungeon Boss Bonesnap Ruins"
+  },
+  {
+    "id": "secession-stamp-block",
+    "name": "Secession Stamp Block",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_case_001.png",
+    "zone": "Stormhaven",
+    "item": "",
+    "location": "Freebie Starter Lead"
+  },
+  {
+    "id": "ancestral-orc-axes",
+    "name": "Ancestral Orc: Axes",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "Stros M'Kai",
+    "item": "Ancestral Orc Axe\nAncestral Orc Battle Axe",
+    "location": "Treasure Map Chest\n Click here to view on map"
+  },
+  {
+    "id": "ancestral-orc-helmets",
+    "name": "Ancestral Orc: Helmets",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "Stros M'Kai",
+    "item": "Ancestral Orc Helmet\nAncestral Orc Helm\nAncestral Orc Hat",
+    "location": "Treasure Map Chest\n Click here to view on map"
+  },
+  {
+    "id": "buoyant-steel",
+    "name": "Buoyant Steel",
+    "icon": "https://eso-hub.com/storage/icons/crafting_platinum_raw.png",
+    "zone": "Stros M'Kai",
+    "item": "Thrassian Stranglers",
+    "location": "Fishing (Saltwater)\n Click here to view on map"
+  },
+  {
+    "id": "dwarven-puzzle-box",
+    "name": "Dwarven Puzzle Box",
+    "icon": "https://eso-hub.com/storage/icons/housing_uni_inc_antdwarvenpuzzlebox001.png",
+    "zone": "Stros M'Kai",
+    "item": "Dwarven Puzzle Box",
+    "location": "Safebox, Thieves Trove, Chest, Random Monsters, Nodes"
+  },
+  {
+    "id": "dwemer-astrological-charts",
+    "name": "Dwemer Astrological Charts",
+    "icon": "https://eso-hub.com/storage/icons/quest_cwc_inc_bookplate001.png",
+    "zone": "Stros M'Kai",
+    "item": "",
+    "location": "Reward for excavating Goblin Steam Mill"
+  },
+  {
+    "id": "dwemer-star-chart",
+    "name": "Dwemer Star Chart",
+    "icon": "https://eso-hub.com/storage/icons/housing_uni_inc_antdwemerstarchart001.png",
+    "zone": "Stros M'Kai",
+    "item": "Dwemer Star Chart",
+    "location": "Chest, Any Random Monster"
+  },
+  {
+    "id": "goblin-steam-mill",
+    "name": "Goblin Steam Mill",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_contraption_001.png",
+    "zone": "Stros M'Kai",
+    "item": "",
+    "location": "Reward for excavating Hunding Sextant"
+  },
+  {
+    "id": "hunding-sextant",
+    "name": "Hunding Sextant",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_unique_bendu_oles_sextant.png",
+    "zone": "Stros M'Kai",
+    "item": "",
+    "location": "Freebie Starter Lead"
+  },
+  {
+    "id": "worn-dwarven-gears",
+    "name": "Worn Dwarven Gears",
+    "icon": "https://eso-hub.com/storage/icons/crafting_metals_dwarven_scrap.png",
+    "zone": "Stros M'Kai",
+    "item": "Ebon Dwarven Wolf",
+    "location": "Wolves outside Bthzark, Dwarven Spider inside Ruins, Random Monsters\n Click here to view on map"
+  },
+  {
+    "id": "alinor-allemande",
+    "name": "Alinor Allemande",
+    "icon": "https://eso-hub.com/storage/icons/emote_alinorallemande.png",
+    "zone": "Summerset",
+    "item": "Alinor Allemande",
+    "location": "Theatre of Rellenthil NPC https://www.youtube.com/watch?v=0TltH2OynL0"
+  },
+  {
+    "id": "antique-map-of-summerset",
+    "name": "Antique Map of Summerset",
+    "icon": "https://eso-hub.com/storage/icons/housing_gen_inc_mappropssummersetscroll001.png",
+    "zone": "Summerset",
+    "item": "Antique Map of Summerset",
+    "location": "Found at the Inn (Pathfinder Achievement)"
+  },
+  {
+    "id": "apraxic-decanter",
+    "name": "Apraxic Decanter",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_jug_001.png",
+    "zone": "Summerset",
+    "item": "",
+    "location": "Freebie Starter Lead"
+  },
+  {
+    "id": "asp-leather-strap",
+    "name": "Asp-Leather Strap",
+    "icon": "https://eso-hub.com/storage/icons/antiquities_asp-leather_strap.png",
+    "zone": "High Isle and Amenos",
+    "item": "Lefthander's Aegis Belt",
+    "location": "Lesser Sea Adders in Summerset, they can be found along the coast.\n Click here to view on map"
+  },
+  {
+    "id": "gloamium-rivets",
+    "name": "Gloamium Rivets",
+    "icon": "https://eso-hub.com/storage/icons/antiquities_shadowseekers_cowl_rivets.png",
+    "zone": "West Weald",
+    "item": "The Shadow Queen's Cowl",
+    "location": "Abbysal Geyser World Events in the Summerset zone\n Click here to view on map"
+  },
+  {
+    "id": "high-elf-altar-crystal",
+    "name": "High Elf Altar, Crystal",
+    "icon": "https://eso-hub.com/storage/icons/housing_sum_str_aldcrystalkeyholder001.png",
+    "zone": "Summerset",
+    "item": "High Elf Altar, Crystal",
+    "location": "Drops from all Loot Tables (Example: Monsters, Treasure Chests, Safeboxes etc.)"
+  },
+  {
+    "id": "indrik-hide-strap",
+    "name": "Indrik-hide Strap",
+    "icon": "https://eso-hub.com/storage/icons/antiquities_asp-leather_strap.png",
+    "zone": "Galen and Y'ffelon",
+    "item": "Syrabane's Ward",
+    "location": "Indrik Frolic World Boss in Summerset\n Click here to view on map"
+  },
+  {
+    "id": "jurisreeves-eye",
+    "name": "Jurisreeve's Eye",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_symbol_001.png",
+    "zone": "Summerset",
+    "item": "",
+    "location": "Reward for excavating Apraxic Decanter"
+  },
+  {
+    "id": "kinlords-tree-of-aldmeris",
+    "name": "Kinlord's Tree of Aldmeris",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_trinket.png",
+    "zone": "Summerset",
+    "item": "",
+    "location": "Reward for excavating Jurisreeve’s Eye"
+  },
+  {
+    "id": "lacquered-wooden-tone-box",
+    "name": "Lacquered Wooden Tone-Box",
+    "icon": "https://eso-hub.com/storage/icons/housing_uni_inc_musicboxaldmerisymphonia001.png",
+    "zone": "Summerset",
+    "item": "",
+    "location": "Any Jewelry Box Container (Example: Alinor Jewelry Box Container)"
+  },
+  {
+    "id": "nautilus-shell-guards",
+    "name": "Nautilus Shell Guards",
+    "icon": "https://eso-hub.com/storage/icons/gear_deepwinter_waist_a.png",
+    "zone": "Summerset",
+    "item": "Thrassian Stranglers",
+    "location": "Bosses in Karnwasten Public Dungeon, All World Bosses\n Click here to view on map"
+  },
+  {
+    "id": "prismatic-sunbird-feather",
+    "name": "Prismatic Sunbird Feather",
+    "icon": "https://eso-hub.com/storage/icons/housing_uni_inc_antprismaticfeather001.png",
+    "zone": "Summerset",
+    "item": "Prismatic Sunbird Feather",
+    "location": "Gryphon Monsters"
+  },
+  {
+    "id": "sticky-integument-leather",
+    "name": "Sticky Integument Leather",
+    "icon": "https://eso-hub.com/storage/icons/crafting_leather_phlegm.png",
+    "zone": "Eyevea",
+    "item": "Thrassian Stranglers",
+    "location": "Psijic Portal (Dig site is located in Eyevea zone)\n Click here to view on map"
+  },
+  {
+    "id": "totambu-chrysocollas",
+    "name": "Totambu Chrysocollas",
+    "icon": "https://eso-hub.com/storage/icons/antiquities_totambu_chrysocollas.png",
+    "zone": "High Isle and Amenos",
+    "item": "Lefthander's Aegis Belt",
+    "location": "Found in Shell Trove from Geysers in the Summerset zone\n Click here to view on map"
+  },
+  {
+    "id": "ancestor-samite-sash",
+    "name": "Ancestor Samite Sash",
+    "icon": "https://eso-hub.com/storage/icons/gear_telvanni_light_waist_a.png",
+    "zone": "Telvanni Peninsula",
+    "item": "Cryptcanon Vestments",
+    "location": "Daily Reward Coffer in the Telvanni Peninsula zone\n Click here to view on map"
+  },
+  {
+    "id": "apocrypha-fossil-arch",
+    "name": "Apocrypha Fossil, Arch",
+    "icon": "https://eso-hub.com/storage/icons/housing_tre_apc_fossiltree014.png",
+    "zone": "Telvanni Peninsula",
+    "item": "Apocrypha Fossil, Arch",
+    "location": "Treasure Map Chest in the Telvanni Peninsula and Apocrypha zone\n Click here to view on map"
+  },
+  {
+    "id": "apocrypha-fossil-bones-large",
+    "name": "Apocrypha Fossil, Bones Large",
+    "icon": "https://eso-hub.com/storage/icons/housing_rok_apc_fossil004.png",
+    "zone": "Telvanni Peninsula",
+    "item": "Apocrypha Fossil, Bones Large",
+    "location": "Treasure Map Chests in Apocrypha and Telvanni Peninsula Zones."
+  },
+  {
+    "id": "apocrypha-fossil-nautilus",
+    "name": "Apocrypha Fossil, Nautilus",
+    "icon": "https://eso-hub.com/storage/icons/housing_rok_apc_nautilus003.png",
+    "zone": "Telvanni Peninsula",
+    "item": "Apocrypha Fossil, Nautilus",
+    "location": "Treasure Map Chest in the Telvanni Peninsula zone\n Click here to view on map"
+  },
+  {
+    "id": "apocrypha-fossil-worm",
+    "name": "Apocrypha Fossil, Worm",
+    "icon": "https://eso-hub.com/storage/icons/housing_tre_apc_fossiltree012.png",
+    "zone": "Telvanni Peninsula",
+    "item": "Apocrypha Fossil, Worm",
+    "location": "Treasure Map in Telvanni Peninsula and Apocrypha"
+  },
+  {
+    "id": "beetleback-pigment",
+    "name": "Beetleback Pigment",
+    "icon": "https://eso-hub.com/storage/icons/housing_bre_inc_potion001.png",
+    "zone": "Telvanni Peninsula",
+    "item": "Spore Savant Body Marks",
+    "location": "Foul and Lake (Likely all) Fishing Spots in Apocrypha\n Click here to view on map"
+  },
+  {
+    "id": "cliff-strider-skeleton-stand",
+    "name": "Cliff Strider Skeleton Stand",
+    "icon": "https://eso-hub.com/storage/icons/housing_uni_inc_cliffstriderdisplay001.png",
+    "zone": "Telvanni Peninsula",
+    "item": "Cliff Strider Skeleton Stand",
+    "location": "Treasure Map in Telvanni Peninsula zone"
+  },
+  {
+    "id": "dark-metal-cubes",
+    "name": "Dark Metal Cubes",
+    "icon": "https://eso-hub.com/storage/icons/crafting_ore_base_orichrome_r3.png",
+    "zone": "Telvanni Peninsula",
+    "item": "Music Box, Glyphic Secrets",
+    "location": "Bastion Nymic World Event, Chest after defeating the main boss.\n Click here to view on map"
+  },
+  {
+    "id": "dark-metal-springs",
+    "name": "Dark Metal Springs",
+    "icon": "https://eso-hub.com/storage/icons/u38_antiquities_darkmetalsprings.png",
+    "zone": "Telvanni Peninsula",
+    "item": "Music Box, Glyphic Secrets",
+    "location": "Thieves Troves and Safeboxes in the Telvanni Perninsula"
+  },
+  {
+    "id": "dried-puspockets",
+    "name": "Dried Puspockets",
+    "icon": "https://eso-hub.com/storage/icons/crafting_mushroom_asco_cap_r2.png",
+    "zone": "Telvanni Peninsula",
+    "item": "Spore Savant Face Marks",
+    "location": "Anchre Egg Mine Delve boss in the Telvanni Peninsula zone\n Click here to view on map"
+  },
+  {
+    "id": "enchanted-mixing-stones",
+    "name": "Enchanted Mixing Stones",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_lodestone_bowling_balls.png",
+    "zone": "Telvanni Peninsula",
+    "item": "Telvanni Alchemy Station",
+    "location": "Telvanni Peninsula Glowing piece of 'runic rock', across the bridge to the right, on the ground near the water approaching Kemel-Ze\n Click here to view on map"
+  },
+  {
+    "id": "glass-desiccator",
+    "name": "Glass Desiccator",
+    "icon": "https://eso-hub.com/storage/icons/quest_summerset_silver_potion_bottle.png",
+    "zone": "Telvanni Peninsula",
+    "item": "Telvanni Alchemy Station",
+    "location": "Alavelis Town (South side close to trial), Walk into the village and check the right side (red marked area)\n Click here to view on map"
+  },
+  {
+    "id": "gold-mandibular-cradle",
+    "name": "Gold Mandibular Cradle",
+    "icon": "https://eso-hub.com/storage/icons/u38_antiquities_goldmandibularcradle.png",
+    "zone": "Telvanni Peninsula",
+    "item": "Velothi Ur-Mage's Amulet",
+    "location": "Boss in the Cammonnaruhn delve in the Telvanni Peninsula zone\n Click here to view on map"
+  },
+  {
+    "id": "harvester-scale-plating",
+    "name": "Harvester-Scale Plating",
+    "icon": "https://eso-hub.com/storage/icons/gear_undauntedspiderdaedra_should_a.png",
+    "zone": "Telvanni Peninsula",
+    "item": "Esoteric Environment Greaves",
+    "location": "Gorne public dungeon bosses\n Click here to view on map"
+  },
+  {
+    "id": "igneous-mortar-and-pestle",
+    "name": "Igneous Mortar and Pestle",
+    "icon": "https://eso-hub.com/storage/icons/housing_uni_inc_poismortarandpestal001.png",
+    "zone": "Telvanni Peninsula",
+    "item": "Telvanni Alchemy Station",
+    "location": "South of the Padomaic Crest Wayhrine behind rocks\n Click here to view on map"
+  },
+  {
+    "id": "intricate-winding-shaft",
+    "name": "Intricate Winding Shaft",
+    "icon": "https://eso-hub.com/storage/icons/quest_sum_inc_sotwhitegold001.png",
+    "zone": "Telvanni Peninsula",
+    "item": "Music Box, Glyphic Secrets",
+    "location": "All monsters and clothing nodes (likely any source) in the Telvanni Peninsula zone\n Click here to view on map"
+  },
+  {
+    "id": "lustrous-metal-funnel",
+    "name": "Lustrous Metal Funnel",
+    "icon": "https://eso-hub.com/storage/icons/u38_antiquities_lustrousmetalfunnel.png",
+    "zone": "Telvanni Peninsula",
+    "item": "Telvanni Alchemy Station",
+    "location": "West of Fungal Lowlands Wayshrine (Middle of the zone), at the water\n Click here to view on map"
+  },
+  {
+    "id": "malachite-burette-and-stand",
+    "name": "Malachite Burette and Stand",
+    "icon": "https://eso-hub.com/storage/icons/housing_vrd_inc_telalchemyprops002.png",
+    "zone": "Telvanni Peninsula",
+    "item": "Telvanni Alchemy Station",
+    "location": "North of Sailenmora (middle of map) in the water close to a rock\n Click here to view on map"
+  },
+  {
+    "id": "mushroom-classification-book",
+    "name": "Mushroom Classification Book",
+    "icon": "https://eso-hub.com/storage/icons/housing_uni_inc_mushroombook001.png",
+    "zone": "Telvanni Peninsula",
+    "item": "Mushroom Classification Book",
+    "location": "Treasure Map Chests in Apocrypha and Telvanni Peninsula Zones."
+  },
+  {
+    "id": "netchbeak-clasps",
+    "name": "Netchbeak Clasps",
+    "icon": "https://eso-hub.com/storage/icons/adornment_unisex_mixed_magickaearclasps.png",
+    "zone": "Telvanni Peninsula",
+    "item": "Cryptcanon Vestments",
+    "location": "Treasure Chest in Telvanni Peninsula"
+  },
+  {
+    "id": "reagent-drying-rack",
+    "name": "Reagent Drying Rack",
+    "icon": "https://eso-hub.com/storage/icons/housing_bad_inc_housingfarwallvampalchemy001.png",
+    "zone": "Telvanni Peninsula",
+    "item": "Telvanni Alchemy Station",
+    "location": "Ald Isra (North West on map), close to the water\n Click here to view on map"
+  },
+  {
+    "id": "rune-scribed-comb",
+    "name": "Rune-Scribed Comb",
+    "icon": "https://eso-hub.com/storage/icons/quest_vvardenfell_kwama_key_piston.png",
+    "zone": "Telvanni Peninsula",
+    "item": "Music Box, Glyphic Secrets",
+    "location": "Dailies in Telvanni Peninsula zone"
+  },
+  {
+    "id": "rust-funnelcap-paint",
+    "name": "Rust Funnelcap Paint",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_unique_deathbringer_facepaint.png",
+    "zone": "Telvanni Peninsula",
+    "item": "Spore Savant Body Marks",
+    "location": "Bastion Nymic World Event Chests or Bosses\n Click here to view on map"
+  },
+  {
+    "id": "scrib-chitin-padding",
+    "name": "Scrib Chitin Padding",
+    "icon": "https://eso-hub.com/storage/icons/crafting_chitinous_sturdy_carapace.png",
+    "zone": "Telvanni Peninsula",
+    "item": "Cryptcanon Vestments",
+    "location": "Corlys the Chainmaker worldboss (Clamorclap Bowl location)\n Click here to view on map"
+  },
+  {
+    "id": "setting-sap",
+    "name": "Setting Sap",
+    "icon": "https://eso-hub.com/storage/icons/crafting_cloth_sap.png",
+    "zone": "Telvanni Peninsula",
+    "item": "Spore Savant Face Marks",
+    "location": "Wood Nodes in Telvanni Peninsula zone\n Click here to view on map"
+  },
+  {
+    "id": "sporecrafters-grinding-stone",
+    "name": "Sporecrafter's Grinding Stone",
+    "icon": "https://eso-hub.com/storage/icons/housing_cra_inc_grindingstone001.png",
+    "zone": "Telvanni Peninsula",
+    "item": "Spore Savant Face Marks",
+    "location": "Bastion Nymic World Event Chests in Apocrypha and Telvanni Peninsula zones\n Click here to view on map"
+  },
+  {
+    "id": "sporecrafters-press",
+    "name": "Sporecrafter's Press",
+    "icon": "https://eso-hub.com/storage/icons/u38_antiquities_sporecraftersmushroomstamp.png",
+    "zone": "Telvanni Peninsula",
+    "item": "Spore Savant Body Marks",
+    "location": "Runestones and Alchemy nodes (likely all resource nodes) in the Telvanni Peninsula and Apocrypha\n Click here to view on map"
+  },
+  {
+    "id": "sporecrafters-purse",
+    "name": "Sporecrafter's Purse",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_pouch_003.png",
+    "zone": "Telvanni Peninsula",
+    "item": "Spore Savant Face Marks",
+    "location": "Daily Reward Coffer in Telvanni Peninsula zone\n Click here to view on map"
+  },
+  {
+    "id": "sturdy-crucible",
+    "name": "Sturdy Crucible",
+    "icon": "https://eso-hub.com/storage/icons/housing_nor_duc_pot001.png",
+    "zone": "Telvanni Peninsula",
+    "item": "Telvanni Alchemy Station",
+    "location": "North on the map close to Kemel-Ze. On one of the small islands\n Click here to view on map"
+  },
+  {
+    "id": "tempered-brass-retort",
+    "name": "Tempered Brass Retort",
+    "icon": "https://eso-hub.com/storage/icons/housing_dwe_inc_electricitystand001.png",
+    "zone": "Telvanni Peninsula",
+    "item": "Telvanni Alchemy Station",
+    "location": "Below Ald Isra on one of the islands close to a boat\n Click here to view on map"
+  },
+  {
+    "id": "vacuum-filtration-apparatus",
+    "name": "Vacuum Filtration Apparatus",
+    "icon": "https://eso-hub.com/storage/icons/housing_vrd_inc_telalchemyprops003.png",
+    "zone": "Telvanni Peninsula",
+    "item": "Telvanni Alchemy Station",
+    "location": "In the middle of the zone close to the water, well hidden\n Click here to view on map"
+  },
+  {
+    "id": "volcanic-sand-bath",
+    "name": "Volcanic Sand Bath",
+    "icon": "https://eso-hub.com/storage/icons/crafting_humanoid_daedra_void_salts.png",
+    "zone": "Telvanni Peninsula",
+    "item": "Telvanni Alchemy Station",
+    "location": "Between Alavelis and Padomaic Crest Wayshrine, next to lava in corner\n Click here to view on map"
+  },
+  {
+    "id": "ancestral-reach-axes",
+    "name": "Ancestral Reach: Axes",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "The Reach",
+    "item": "Ancestral Reach Axe\nAncestral Reach Battle Axe",
+    "location": "Treasure Map Chests\n Click here to view on map"
+  },
+  {
+    "id": "ancestral-reach-belts",
+    "name": "Ancestral Reach: Belts",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "The Reach",
+    "item": "Ancestral Reach Belt\nAncestral Reach Sash\nAncestral Reach Girdle",
+    "location": "Treasure Map Chests\n Click here to view on map"
+  },
+  {
+    "id": "ancestral-reach-boots",
+    "name": "Ancestral Reach: Boots",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "The Reach",
+    "item": "Ancestral Reach Shoes\nAncestral Reach Sabatons\nAncestral Reach Boots",
+    "location": "Treasure Map Chests\n Click here to view on map"
+  },
+  {
+    "id": "ancestral-reach-bows",
+    "name": "Ancestral Reach: Bows",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "The Reach",
+    "item": "Ancestral Reach Bow",
+    "location": "Treasure Map Chests\n Click here to view on map"
+  },
+  {
+    "id": "ancestral-reach-chests",
+    "name": "Ancestral Reach: Chests",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "The Reach",
+    "item": "Ancestral Reach Cuirass\nAncestral Reach Jack\nAncestral Reach Robe",
+    "location": "Treasure Map Chests\n Click here to view on map"
+  },
+  {
+    "id": "ancestral-reach-daggers",
+    "name": "Ancestral Reach: Daggers",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "The Reach",
+    "item": "Ancestral Reach Dagger",
+    "location": "Treasure Map Chests\n Click here to view on map"
+  },
+  {
+    "id": "ancestral-reach-gloves",
+    "name": "Ancestral Reach: Gloves",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "The Reach",
+    "item": "Ancestral Reach Gloves\nAncestral Reach Gauntlets\nAncestral Reach Bracers",
+    "location": "Treasure Map Chests\n Click here to view on map"
+  },
+  {
+    "id": "ancestral-reach-helmets",
+    "name": "Ancestral Reach: Helmets",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "The Reach",
+    "item": "Ancestral Reach Helmet\nAncestral Reach Helm\nAncestral Reach Hat",
+    "location": "Treasure Map Chests\n Click here to view on map"
+  },
+  {
+    "id": "ancestral-reach-legs",
+    "name": "Ancestral Reach: Legs",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "The Reach",
+    "item": "Ancestral Reach Breeches\nAncestral Reach Guards\nAncestral Reach Greaves",
+    "location": "Treasure Map Chests\n Click here to view on map"
+  },
+  {
+    "id": "ancestral-reach-maces",
+    "name": "Ancestral Reach: Maces",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "The Reach",
+    "item": "Ancestral Reach Mace\nAncestral Reach Maul",
+    "location": "Treasure Map Chests\n Click here to view on map"
+  },
+  {
+    "id": "ancestral-reach-shields",
+    "name": "Ancestral Reach: Shields",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "The Reach",
+    "item": "Ancestral Reach Shield",
+    "location": "Treasure Map Chests\n Click here to view on map"
+  },
+  {
+    "id": "ancestral-reach-shoulders",
+    "name": "Ancestral Reach: Shoulders",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "The Reach",
+    "item": "Ancestral Reach Pauldrons\nAncestral Reach Arm Cops\nAncestral Reach Epaulets",
+    "location": "Treasure Map Chests\n Click here to view on map"
+  },
+  {
+    "id": "ancestral-reach-staves",
+    "name": "Ancestral Reach: Staves",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "The Reach",
+    "item": "Ancestral Reach Staff",
+    "location": "Treasure Map Chests\n Click here to view on map"
+  },
+  {
+    "id": "ancestral-reach-swords",
+    "name": "Ancestral Reach: Swords",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "The Reach",
+    "item": "Ancestral Reach Sword\nAncestral Reach Greatsword",
+    "location": "Treasure Map Chests\n Click here to view on map"
+  },
+  {
+    "id": "ancient-extraction-tool",
+    "name": "Ancient Extraction Tool",
+    "icon": "https://eso-hub.com/storage/icons/housing_skr_inc_toolhanddrill001.png",
+    "zone": "The Reach",
+    "item": "",
+    "location": "Reward for excavating Reach Trail Maker Antiquity"
+  },
+  {
+    "id": "antique-map-of-the-reach",
+    "name": "Antique Map of the Reach",
+    "icon": "https://eso-hub.com/storage/icons/housing_gen_inc_mappropsthereachscroll001.png",
+    "zone": "The Reach",
+    "item": "Antique Map of the Reach",
+    "location": "Innkeeper in Markarth"
+  },
+  {
+    "id": "arkthzand-insight-vertex-shroud",
+    "name": "Arkthzand Insight Vertex Shroud",
+    "icon": "https://eso-hub.com/storage/icons/gear_arkthzandarm_bosshelmet2.png",
+    "zone": "The Reach",
+    "item": "Arkthzand Insight Vertex Shroud",
+    "location": "Arkthzand Blackreach - Looted from an inactive Construct"
+  },
+  {
+    "id": "chain-of-the-vampire",
+    "name": "Chain of the Vampire",
+    "icon": "https://eso-hub.com/storage/icons/antiquities_u30_mythic_neck_fragment02.png",
+    "zone": "Blackwood",
+    "item": "Shapeshifter's Chain",
+    "location": "Harrowstorms in The Reach & Western Skyrim\n Click here to view on map"
+  },
+  {
+    "id": "dwarven-internal-machinery",
+    "name": "Dwarven Internal Machinery",
+    "icon": "https://eso-hub.com/storage/icons/crafting_metals_dwarven_scrap.png",
+    "zone": "The Reach",
+    "item": "Dwarven Scarab",
+    "location": "Bthar-Zel Monster\n Click here to view on map"
+  },
+  {
+    "id": "dwarven-scarab-head",
+    "name": "Dwarven Scarab Head",
+    "icon": "https://eso-hub.com/storage/icons/crafting_insect_mandibles.png",
+    "zone": "The Reach",
+    "item": "Dwarven Scarab",
+    "location": "Bthar-Zel Monster\n Click here to view on map"
+  },
+  {
+    "id": "dwarven-segmented-legs",
+    "name": "Dwarven Segmented Legs",
+    "icon": "https://eso-hub.com/storage/icons/crafting_critter_insect_legs.png",
+    "zone": "The Reach",
+    "item": "Dwarven Scarab",
+    "location": "Bthar-Zel Monster\n Click here to view on map"
+  },
+  {
+    "id": "faceted-dwarven-wings",
+    "name": "Faceted Dwarven Wings",
+    "icon": "https://eso-hub.com/storage/icons/crafting_critter_flying_insect_bug_wings.png",
+    "zone": "The Reach",
+    "item": "Dwarven Scarab",
+    "location": "Bthar-Zel Monster\n Click here to view on map"
+  },
+  {
+    "id": "golden-dwarven-thorax",
+    "name": "Golden Dwarven Thorax",
+    "icon": "https://eso-hub.com/storage/icons/crafting_critter_flying_insect_bug_thorax.png",
+    "zone": "The Reach",
+    "item": "Dwarven Scarab",
+    "location": "Dwarven Architon Steamknight in Bthar-Zel\n Click here to view on map"
+  },
+  {
+    "id": "reach-trail-maker",
+    "name": "Reach Trail Maker",
+    "icon": "https://eso-hub.com/storage/icons/housing_skr_inc_toolscraper001.png",
+    "zone": "The Reach",
+    "item": "",
+    "location": "Zone Starter Lead"
+  },
+  {
+    "id": "red-eagle-cave-painting",
+    "name": "Red Eagle Cave Painting",
+    "icon": "https://eso-hub.com/storage/icons/housing_uni_inc_antredeaglerock001.png",
+    "zone": "The Reach",
+    "item": "Red Eagle Cave Painting",
+    "location": "Safebox, Thieve Troves, Backpacks, Chests, Harrowstorm, Random Monsters"
+  },
+  {
+    "id": "silver-strand-of-syrabane",
+    "name": "Silver Strand of Syrabane",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_rope_001.png",
+    "zone": "The Reach",
+    "item": "Pearls of Ehlnofey",
+    "location": "Safeboxes\n Click here to view on map"
+  },
+  {
+    "id": "sloped-dwarven-stalks",
+    "name": "Sloped Dwarven Stalks",
+    "icon": "https://eso-hub.com/storage/icons/quest_deshaan_dwemer_control_rod.png",
+    "zone": "The Reach",
+    "item": "Dwarven Scarab",
+    "location": "Bthar-Zel Monster\n Click here to view on map"
+  },
+  {
+    "id": "spear-tip-of-the-reach-king",
+    "name": "Spear Tip of the Reach King",
+    "icon": "https://eso-hub.com/storage/icons/gear_reach_dagger_a.png",
+    "zone": "The Reach",
+    "item": "",
+    "location": "Reward for excavating Ancient Extraction Tool Antiquity"
+  },
+  {
+    "id": "thin-dwarven-hinges",
+    "name": "Thin Dwarven Hinges",
+    "icon": "https://eso-hub.com/storage/icons/crafting_dwemer_shiny_tube.png",
+    "zone": "The Reach",
+    "item": "Dwarven Scarab",
+    "location": "Bthar-Zel Monster\n Click here to view on map"
+  },
+  {
+    "id": "vampiric-stained-glass",
+    "name": "Vampiric Stained Glass",
+    "icon": "https://eso-hub.com/storage/icons/housing_uni_inc_antvampirestainedglasswindow001.png",
+    "zone": "The Reach",
+    "item": "Vampiric Stained Glass",
+    "location": "Harrowstorm"
+  },
+  {
+    "id": "akaviri-lords-banner",
+    "name": "Akaviri Lord's Banner",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_banner_001.png",
+    "zone": "The Rift",
+    "item": "",
+    "location": "Reward for excavating Augur’s Bones"
+  },
+  {
+    "id": "ancestral-nord-gloves",
+    "name": "Ancestral Nord: Gloves",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "The Rift",
+    "item": "Ancestral Nord Gloves\nAncestral Nord Bracers\nAncestral Nord Gauntlets",
+    "location": "Treasure Map Chest\n Click here to view on map"
+  },
+  {
+    "id": "ancestral-nord-swords",
+    "name": "Ancestral Nord: Swords",
+    "icon": "https://eso-hub.com/storage/icons/quest_letter_002.png",
+    "zone": "The Rift",
+    "item": "Ancestral Nord Sword\nAncestral Nord Greatsword",
+    "location": "Treasure Map Chest\n Click here to view on map"
+  },
+  {
+    "id": "antique-map-of-the-rift",
+    "name": "Antique Map of the Rift",
+    "icon": "https://eso-hub.com/storage/icons/housing_gen_inc_mappropstheriftscroll002.png",
+    "zone": "The Rift",
+    "item": "Antique Map of The Rift",
+    "location": "Found in Riften City at the “Shadehome” Inn (Pathfinder Achievement)"
+  },
+  {
+    "id": "augurs-bones",
+    "name": "Augur's Bones",
+    "icon": "https://eso-hub.com/storage/icons/crafting_gems_cyclops_bone.png",
+    "zone": "The Rift",
+    "item": "",
+    "location": "Freebie Starter Lead"
+  },
+  {
+    "id": "cracked-dwarven-gear-shafts",
+    "name": "Cracked Dwarven Gear Shafts",
+    "icon": "https://eso-hub.com/storage/icons/quest_vvardenfell_manual_clockwork_shaft.png",
+    "zone": "The Rift",
+    "item": "Ebon Dwarven Wolf",
+    "location": "Delve Boss Avanchnzel\n Click here to view on map"
+  },
+  {
+    "id": "ebony-fox-totem",
+    "name": "Ebony Fox Totem",
+    "icon": "https://eso-hub.com/storage/icons/housing_uni_inc_antebonyfoxtotem001.png",
+    "zone": "The Rift",
+    "item": "Ebony Fox Totem",
+    "location": "Safebox, Public Dungeon Bosses in The Lion’s Denn, Treasure Chest"
+  },
+  {
+    "id": "frigid-sapphire",
+    "name": "Frigid Sapphire",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_gem_001.png",
+    "zone": "High Isle and Amenos",
+    "item": "Sea-Serpent's Coil",
+    "location": "Frozen Ruins World Boss in \"The Rift\" zone, west side of the zone (Boss is a giant frost atronach)\n Click here to view on map"
+  },
+  {
+    "id": "giant-chieftains-crown",
+    "name": "Giant Chieftain's Crown",
+    "icon": "https://eso-hub.com/storage/icons/quest_jewelry_004.png",
+    "zone": "The Rift",
+    "item": "",
+    "location": "Reward for excavating Akaviri Lord’s Banner"
+  },
+  {
+    "id": "petrified-snow-cedar",
+    "name": "Petrified Snow-Cedar",
+    "icon": "https://eso-hub.com/storage/icons/crafting_wood_base_bristlecone_r1.png",
+    "zone": "The Rift",
+    "item": "Snow Treaders",
+    "location": "World Bosses\n Click here to view on map"
+  },
+  {
+    "id": "rune-carved-mammoth-skull",
+    "name": "Rune-Carved Mammoth Skull",
+    "icon": "https://eso-hub.com/storage/icons/housing_uni_inc_antmammothskull001.png",
+    "zone": "The Rift",
+    "item": "Rune-Carved Mammoth Skull",
+    "location": "Mamoth Monsters"
+  },
+  {
+    "id": "antique-map-of-vvardenfell",
+    "name": "Antique Map of Vvardenfell",
+    "icon": "https://eso-hub.com/storage/icons/housing_gen_inc_mappropsvvardenfellscroll001.png",
+    "zone": "Vvardenfell",
+    "item": "Antique Map of Vvardenfell",
+    "location": "Found at the Inn (Pathfinder Achievement)"
+  },
+  {
+    "id": "biome-proof-plating",
+    "name": "Biome-Proof Plating",
+    "icon": "https://eso-hub.com/storage/icons/gear_dwarven_shield_a.png",
+    "zone": "Telvanni Peninsula",
+    "item": "Esoteric Environment Greaves",
+    "location": "Nchuleft Delve Boss in the Vvardenfell zone\n Click here to view on map"
+  },
+  {
+    "id": "bleeding-beetle-door-lock",
+    "name": "Bleeding Beetle Door Lock",
+    "icon": "https://eso-hub.com/storage/icons/crafting_fishing_beetle.png",
+    "zone": "Vvardenfell",
+    "item": "",
+    "location": "Reward for excavating Massive Ash-herder Grapnel"
+  },
+  {
+    "id": "ebony-crossed-sword-chain",
+    "name": "Ebony Crossed-Sword Chain",
+    "icon": "https://eso-hub.com/storage/icons/u38_antiquities_ebonycrossedswordchain.png",
+    "zone": "Telvanni Peninsula",
+    "item": "Velothi Ur-Mage's Amulet",
+    "location": "World Boss Daily Coffers in the Vvardenfell zone\n Click here to view on map"
+  },
+  {
+    "id": "massive-ash-herder-grapnel",
+    "name": "Massive Ash-herder Grapnel",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_trinket.png",
+    "zone": "Vvardenfell",
+    "item": "",
+    "location": "Reward for excavating Refitted Dwarven Rod"
+  },
+  {
+    "id": "milkcap-mushroom-paint-stamps",
+    "name": "Milkcap Mushroom Paint Stamps",
+    "icon": "https://eso-hub.com/storage/icons/crafting_mushroom_white_cap_r2.png",
+    "zone": "Telvanni Peninsula",
+    "item": "Spore Savant Body Marks",
+    "location": "Matus-Akin Mine Egg Boss in the Vvardenfell zone\n Click here to view on map"
+  },
+  {
+    "id": "refitted-dwarven-rod",
+    "name": "Refitted Dwarven Rod",
+    "icon": "https://eso-hub.com/storage/icons/quest_deshaan_dwemer_control_rod.png",
+    "zone": "Vvardenfell",
+    "item": "",
+    "location": "Freebie Starter Lead"
+  },
+  {
+    "id": "scarab-host-box",
+    "name": "Scarab-host Box",
+    "icon": "https://eso-hub.com/storage/icons/u36_scarabhostbox.png",
+    "zone": "Galen and Y'ffelon",
+    "item": "Barkroot Blessing",
+    "location": "Bosses in Forgotten Wastes Public Dungeon in Vvardenfell zone\n Click here to view on map"
+  },
+  {
+    "id": "sixth-house-ritual-table",
+    "name": "Sixth House Ritual Table",
+    "icon": "https://eso-hub.com/storage/icons/housing_uni_inc_antsixthhouseritualtable001.png",
+    "zone": "Vvardenfell",
+    "item": "Sixth House Ritual Table",
+    "location": "Treasure Chest, Group Boss in Nchuleftingth Public Dungeon, Group Challenge Boss Forgotten Wastes, Delve Khartag Point. Woodworking Nodes in Vvardenvell zone"
+  },
+  {
+    "id": "st-nerevar-moon-and-star",
+    "name": "St. Nerevar, Moon-and-Star",
+    "icon": "https://eso-hub.com/storage/icons/housing_uni_inc_antstnerevarmoonandstar001.png",
+    "zone": "Vvardenfell",
+    "item": "St. Nerevar, Moon-and-Star",
+    "location": "Daily Reward Box in Vvardenfell"
+  },
+  {
+    "id": "tonal-pivot-joints",
+    "name": "Tonal Pivot Joints",
+    "icon": "https://eso-hub.com/storage/icons/housing_dwe_inc_spiderlegpile001.png",
+    "zone": "Telvanni Peninsula",
+    "item": "Esoteric Environment Greaves",
+    "location": "Forgotten Waste Public Dungeon Group Event Boss, Vvardenfell zone\n Click here to view on map"
+  },
+  {
+    "id": "antique-map-of-west-weald",
+    "name": "Antique Map of West Weald",
+    "icon": "https://eso-hub.com/storage/icons/housing_gen_inc_mappropscolovianhighlandsscroll001.png",
+    "zone": "West Weald",
+    "item": "Antique Map of West Weald",
+    "location": "West Weald general goods merchants"
+  },
+  {
+    "id": "ayleid-arch-wide",
+    "name": "Ayleid Arch, Wide",
+    "icon": "https://eso-hub.com/storage/icons/housing_iad_inc_ayliedarch001.png",
+    "zone": "West Weald",
+    "item": "Ayleid Arch, Wide",
+    "location": "West Weald zone Treasure Map Chest"
+  },
+  {
+    "id": "ayleid-lens-array-reassembled",
+    "name": "Ayleid Lens Array, Reassembled",
+    "icon": "https://eso-hub.com/storage/icons/housing_iad_inc_lenspillar001.png",
+    "zone": "West Weald",
+    "item": "Ayleid Lens Array, Reassembled",
+    "location": "West Weald zone Treasure Map Chest"
+  },
+  {
+    "id": "ayleid-sculpture-complex-tree",
+    "name": "Ayleid Sculpture, Complex Tree",
+    "icon": "https://eso-hub.com/storage/icons/housing_iad_inc_ayliedtreebranch002.png",
+    "zone": "West Weald",
+    "item": "Ayleid Sculpture, Complex Tree",
+    "location": "Treasure Map Chests in West Weald"
+  },
+  {
+    "id": "ayleid-sculpture-grand-tree",
+    "name": "Ayleid Sculpture, Grand Tree",
+    "icon": "https://eso-hub.com/storage/icons/housing_iad_inc_ayliedtree001.png",
+    "zone": "West Weald",
+    "item": "Ayleid Sculpture, Grand Tree",
+    "location": "Drops from anything in the West Weald zone. (So far: Trash Lucent Citadel, Safeboxes)\n Click here to view on map"
+  },
+  {
+    "id": "ayleid-sculpture-simple-tree",
+    "name": "Ayleid Sculpture, Simple Tree",
+    "icon": "https://eso-hub.com/storage/icons/housing_iad_inc_ayliedtree002.png",
+    "zone": "West Weald",
+    "item": "Ayleid Sculpture, Simple Tree",
+    "location": "West Weald zone Treasure Map Chest"
+  },
+  {
+    "id": "ayleid-window-large",
+    "name": "Ayleid Window, Large",
+    "icon": "https://eso-hub.com/storage/icons/housing_iad_inc_ayliedlens001.png",
+    "zone": "West Weald",
+    "item": "Ayleid Window, Large",
+    "location": "West Weald Treasure Maps"
+  },
+  {
+    "id": "bespoke-mirroretched-base",
+    "name": "Bespoke Mirroretched Base",
+    "icon": "https://eso-hub.com/storage/icons/antiquities_mirrormoor_music_box_base.png",
+    "zone": "West Weald",
+    "item": "Music Box, Lament for the Path Not Taken",
+    "location": "Mirrormoor Incursion Group Event\n Click here to view on map"
+  },
+  {
+    "id": "colovian-tapestry-fancy-gate",
+    "name": "Colovian Tapestry, Fancy Gate",
+    "icon": "https://eso-hub.com/storage/icons/housing_chl_inc_tapestrymural004.png",
+    "zone": "West Weald",
+    "item": "Colovian Tapestry, Fancy Gate",
+    "location": "West Weald Treasure Maps"
+  },
+  {
+    "id": "colovian-tapestry-pastoral",
+    "name": "Colovian Tapestry, Pastoral",
+    "icon": "https://eso-hub.com/storage/icons/housing_chl_inc_tapestrymural003.png",
+    "zone": "West Weald",
+    "item": "Colovian Tapestry, Pastoral Farm",
+    "location": "West Weald Treasure Map Chest"
+  },
+  {
+    "id": "colovian-tapestry-worn",
+    "name": "Colovian Tapestry, Worn",
+    "icon": "https://eso-hub.com/storage/icons/housing_chl_inc_tapestrymural001.png",
+    "zone": "West Weald",
+    "item": "Colovian Tapestry, Worn",
+    "location": "West Weald zone Treasure Map Chest"
+  },
+  {
+    "id": "crystalcruft-shaped-trigger",
+    "name": "Crystalcruft Shaped Trigger",
+    "icon": "https://eso-hub.com/storage/icons/antiquities_mirrormoor_music_box_trigger.png",
+    "zone": "West Weald",
+    "item": "Music Box, Lament for the Path Not Taken",
+    "location": "Boss in Legion's Rest Delve\n Click here to view on map"
+  },
+  {
+    "id": "crystalcult-hand-mirror",
+    "name": "Crystalcult Hand Mirror",
+    "icon": "https://eso-hub.com/storage/icons/housing_els_inc_handmirror001.png",
+    "zone": "West Weald",
+    "item": "",
+    "location": "Follow up lead after extracting the Ornate Alessian Decanter zone starter lead in West Weald"
+  },
+  {
+    "id": "dynarian-legacy-bracing",
+    "name": "Dynarian Legacy Bracing",
+    "icon": "https://eso-hub.com/storage/icons/antiquities_ayleid_blacksmithing_station_brace.png",
+    "zone": "West Weald",
+    "item": "Ayleid Blacksmithing Station",
+    "location": "Boss in Nonungalo Delve\n Click here to view on map"
+  },
+  {
+    "id": "fresco-colovian-lady",
+    "name": "Fresco, Colovian Lady",
+    "icon": "https://eso-hub.com/storage/icons/housing_uni_inc_colovianfresco001.png",
+    "zone": "West Weald",
+    "item": "Fresco, Colovian Lady",
+    "location": "West Weald zone Treasure Map Chest"
+  },
+  {
+    "id": "gilded-legionary-scabbard",
+    "name": "Gilded Legionary Scabbard",
+    "icon": "https://eso-hub.com/storage/icons/u36_allflagsarmadascabbard.png",
+    "zone": "West Weald",
+    "item": "",
+    "location": "Follow up load obtained after completing the Crystalcult Mirror lead"
+  },
+  {
+    "id": "heartland-basalt-base",
+    "name": "Heartland Basalt Base",
+    "icon": "https://eso-hub.com/storage/icons/antiquities_ayleid_blacksmithing_station_base.png",
+    "zone": "West Weald",
+    "item": "Ayleid Blacksmithing Station",
+    "location": "Silron Public Dungeon Bosses\n Click here to view on map"
+  },
+  {
+    "id": "heartland-leather-gloves",
+    "name": "Heartland-Leather Gloves",
+    "icon": "https://eso-hub.com/storage/icons/antiquities_rourken_heavy_gauntlets_gloves.png",
+    "zone": "West Weald",
+    "item": "Rourken Steamguards",
+    "location": "Boss in Fort Colovia Delve\n Click here to view on map"
+  },
+  {
+    "id": "huntlands-blessed-leather",
+    "name": "Huntlands-Blessed Leather",
+    "icon": "https://eso-hub.com/storage/icons/antiquities_shadowseekers_cowl_leather.png",
+    "zone": "West Weald",
+    "item": "The Shadow Queen's Cowl",
+    "location": "World Bosses in the West Weald zone.\n Click here to view on map"
+  },
+  {
+    "id": "imitation-palanquin-adornment",
+    "name": "Imitation Palanquin Adornment",
+    "icon": "https://eso-hub.com/storage/icons/antiquities_mirrormoor_music_box_adornment.png",
+    "zone": "West Weald",
+    "item": "Music Box, Lament for the Path Not Taken",
+    "location": "Varen's Watch Delve Boss\n Click here to view on map"
+  },
+  {
+    "id": "miniature-mirroretched-brace",
+    "name": "Miniature Mirroretched Brace",
+    "icon": "https://eso-hub.com/storage/icons/antiquities_mirrormoor_music_box_brace.png",
+    "zone": "West Weald",
+    "item": "Music Box, Lament for the Path Not Taken",
+    "location": "West Weald Zone Dailies"
+  },
+  {
+    "id": "miniature-shattered-cheval",
+    "name": "Miniature Shattered Cheval",
+    "icon": "https://eso-hub.com/storage/icons/antiquities_mirrormoor_music_box_cheval.png",
+    "zone": "West Weald",
+    "item": "Music Box, Lament for the Path Not Taken",
+    "location": "Swarmkeeper Xvarcon (Group Event Boss) in the Leftwheal Trading Post Public Dungeon\n Click here to view on map"
+  },
+  {
+    "id": "ornate-alessian-decanter",
+    "name": "Ornate Alessian Decanter",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_decanter_001.png",
+    "zone": "West Weald",
+    "item": "",
+    "location": "West Weald zone starter lead"
+  },
+  {
+    "id": "pottery-sanguine-repaired",
+    "name": "Pottery, Sanguine Repaired",
+    "icon": "https://eso-hub.com/storage/icons/housing_uni_inc_sanguinewinepitcher001.png",
+    "zone": "West Weald",
+    "item": "Pottery, Sanguine Repaired",
+    "location": "West Weald zone Treasure Map Chest"
+  },
+  {
+    "id": "ruin-carved-smithing-stand",
+    "name": "Ruin-Carved Smithing Stand",
+    "icon": "https://eso-hub.com/storage/icons/antiquities_ayleid_blacksmithing_station_stand.png",
+    "zone": "West Weald",
+    "item": "Ayleid Blacksmithing Station",
+    "location": "World Bosses in the West Weald zone.\n Click here to view on map"
+  },
+  {
+    "id": "shadowy-creatia-stitching",
+    "name": "Shadowy Creatia Stitching",
+    "icon": "https://eso-hub.com/storage/icons/antiquities_shadowseekers_cowl_stitching.png",
+    "zone": "West Weald",
+    "item": "The Shadow Queen's Cowl",
+    "location": "Haldain Lumber Camp Delve Boss\n Click here to view on map"
+  },
+  {
+    "id": "wildsmith-anointing-decoction",
+    "name": "Wildsmith Anointing Decoction",
+    "icon": "https://eso-hub.com/storage/icons/consumable_potion_013_type_005.png",
+    "zone": "West Weald",
+    "item": "Ayleid Blacksmithing Station",
+    "location": "Boss in the Fyrelight Cave\n Click here to view on map"
+  },
+  {
+    "id": "wildsmithed-anvil",
+    "name": "Wildsmithed Anvil",
+    "icon": "https://eso-hub.com/storage/icons/antiquities_ayleid_blacksmithing_station_anvil.png",
+    "zone": "West Weald",
+    "item": "Ayleid Blacksmithing Station",
+    "location": "World Bosses in the West Weald zone\n Click here to view on map"
+  },
+  {
+    "id": "al-esh-ascension-coin",
+    "name": "Al-Esh Ascension Coin",
+    "icon": "https://eso-hub.com/storage/icons/item_coin_of_illusory_riches.png",
+    "zone": "Western Skyrim",
+    "item": "",
+    "location": "Bear Monster in Blackreach. Also spawns on top of a dresser on the top floor of the Antiquarian Circle Building, you have to examine the Curios Coin Collection (Requirement: You MUST have done all green/blue/purple “freebie” leads in ALL zones before you can loot it!)"
+  },
+  {
+    "id": "antique-map-of-western-skyrim",
+    "name": "Antique Map of Western Skyrim",
+    "icon": "https://eso-hub.com/storage/icons/quest_skr_inc_mappropsskyrimquestscroll001.png",
+    "zone": "Western Skyrim",
+    "item": "Antique Map of Western Skyrim",
+    "location": "Found at the Inn (Requires Pathfinder Achievement)"
+  },
+  {
+    "id": "companions-coronet",
+    "name": "Companion's Coronet",
+    "icon": "https://eso-hub.com/storage/icons/adr_compcoronet.png",
+    "zone": "Western Skyrim",
+    "item": "Companion's Coronet",
+    "location": "High king’s Chamber, Blue Palace"
+  },
+  {
+    "id": "dwemer-body-marking",
+    "name": "Dwemer Body Marking",
+    "icon": "https://eso-hub.com/storage/icons/mrk_dwemergold.png",
+    "zone": "Western Skyrim",
+    "item": "Dwemer Body Markings",
+    "location": "Dwarven Spider Boss in The Scraps Delve"
+  },
+  {
+    "id": "dwemer-crown",
+    "name": "Dwemer Crown",
+    "icon": "https://eso-hub.com/storage/icons/adr_dwemercrown.png",
+    "zone": "Western Skyrim",
+    "item": "Dwemer Crown",
+    "location": "Clockwork Criterion in Nchuthnkarst"
+  },
+  {
+    "id": "dwemer-face-marking",
+    "name": "Dwemer Face Marking",
+    "icon": "https://eso-hub.com/storage/icons/mrf_dwemergold.png",
+    "zone": "Western Skyrim",
+    "item": "Dwemer Face Markings",
+    "location": "Colossus Charging Station World Boss in Blackreach"
+  },
+  {
+    "id": "font-of-auri-el",
+    "name": "Font of Auri-El",
+    "icon": "https://eso-hub.com/storage/icons/housing_uni_inc_antfontofauriel001.png",
+    "zone": "Western Skyrim",
+    "item": "Font of Auri-El",
+    "location": "Any Monster in Blackreach, Trash Monsters in Kyne’s Aegis Trial"
+  },
+  {
+    "id": "gabrielles-bottle-of-proving",
+    "name": "Gabrielle's Bottle of Proving",
+    "icon": "https://eso-hub.com/storage/icons/crafting_stoneware_bottle_001.png",
+    "zone": "Western Skyrim",
+    "item": "",
+    "location": "Antiquities tutorial quest in Solitude"
+  },
+  {
+    "id": "glacial-metal-rivets",
+    "name": "Glacial Metal Rivets",
+    "icon": "https://eso-hub.com/storage/icons/fragment_costume_sixthhouse_button.png",
+    "zone": "Western Skyrim",
+    "item": "Snow Treaders",
+    "location": "Blackmaw Boss in Labyrinthian (Most likely drops from any boss in that dungeon)\n Click here to view on map"
+  },
+  {
+    "id": "inclined-dwarven-paneling",
+    "name": "Inclined Dwarven Paneling",
+    "icon": "https://eso-hub.com/storage/icons/crafting_metals_dwarven_scrap.png",
+    "zone": "Western Skyrim",
+    "item": "Ebon Dwarven Wolf",
+    "location": "Bosses in Nchuthnkarst (Excluding Group Event Boss)\n Click here to view on map"
+  },
+  {
+    "id": "kings-belt-plate",
+    "name": "King's Belt Plate",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_plate_001.png",
+    "zone": "Western Skyrim",
+    "item": "",
+    "location": "Reward for excavating Silvered Nord Drinking Horn"
+  },
+  {
+    "id": "nord-scrimshaw-pendant",
+    "name": "Nord Scrimshaw Pendant",
+    "icon": "https://eso-hub.com/storage/icons/quest_jewelry_007.png",
+    "zone": "Western Skyrim",
+    "item": "",
+    "location": "Freebie Starter Lead"
+  },
+  {
+    "id": "seat-of-the-snow-prince",
+    "name": "Seat of the Snow Prince",
+    "icon": "https://eso-hub.com/storage/icons/housing_uni_inc_antseatofsnowprince001.png",
+    "zone": "Western Skyrim",
+    "item": "Seat of the Snow Prince",
+    "location": "World Bosses, Safe Box, Nchuthnkarst Boss, Pentarch Khorb during the Main quest in Kagnthamz"
+  },
+  {
+    "id": "silvered-nord-drinking-horn",
+    "name": "Silvered Nord Drinking Horn",
+    "icon": "https://eso-hub.com/storage/icons/quest_jewelry_003.png",
+    "zone": "Western Skyrim",
+    "item": "",
+    "location": "Reward for excavating Nord Scrimshaw Pendant"
+  },
+  {
+    "id": "ysgramors-chosen-body-marking",
+    "name": "Ysgramor's Chosen Body Marking",
+    "icon": "https://eso-hub.com/storage/icons/mrk_atmoran.png",
+    "zone": "Western Skyrim",
+    "item": "Ysgramor's Chosen Body Markings",
+    "location": "At the end of Morthal Barrow from the Danger in the Holds Main Quest"
+  },
+  {
+    "id": "ysgramors-chosen-face-marking",
+    "name": "Ysgramor's Chosen Face Marking",
+    "icon": "https://eso-hub.com/storage/icons/mrf_atmoran.png",
+    "zone": "Western Skyrim",
+    "item": "Ysgramor's Chosen Face Marking",
+    "location": "Undearneath the Dragon Bridge"
+  },
+  {
+    "id": "antique-map-of-wrothgar",
+    "name": "Antique Map of Wrothgar",
+    "icon": "https://eso-hub.com/storage/icons/housing_gen_inc_mappropswrothgarscroll001.png",
+    "zone": "Wrothgar",
+    "item": "Antique Map of Wrothgar",
+    "location": "Found at the Inn (Pathfinder Achievement)"
+  },
+  {
+    "id": "anvil-of-old-orsinium",
+    "name": "Anvil of Old Orsinium",
+    "icon": "https://eso-hub.com/storage/icons/housing_uni_inc_antaviloforsinium001.png",
+    "zone": "Wrothgar",
+    "item": "Anvil of Old Orsinium",
+    "location": "Public Dungeon Old Orsinium, Mobs by the Forge before you enter the group event"
+  },
+  {
+    "id": "armless-stone-effigy",
+    "name": "Armless Stone Effigy",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_figurine_001.png",
+    "zone": "Wrothgar",
+    "item": "",
+    "location": "Freebie Starter Lead"
+  },
+  {
+    "id": "fortified-green-calcite-gears",
+    "name": "Fortified Green Calcite Gears",
+    "icon": "https://eso-hub.com/storage/icons/u38_antiquities_fortifiedgreencalcitegears.png",
+    "zone": "Telvanni Peninsula",
+    "item": "Music Box, Glyphic Secrets",
+    "location": "Zthenganaz Delve Boss in the Wrothgar zone\n Click here to view on map"
+  },
+  {
+    "id": "malacaths-brutal-might-loop",
+    "name": "Malacath's Brutal Might Loop",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_ring_001.png",
+    "zone": "Wrothgar",
+    "item": "Malacath's Band of Brutality",
+    "location": "Public Dungeon Boss Old Orsinium\n Click here to view on map"
+  },
+  {
+    "id": "onyx-accent-stones",
+    "name": "Onyx Accent Stones",
+    "icon": "https://eso-hub.com/storage/icons/crafting_enchantment_base_sardonyx_r2.png",
+    "zone": "Wrothgar",
+    "item": "Ring of the Pale Order",
+    "location": "World Bosses\n Click here to view on map"
+  },
+  {
+    "id": "orsinium-cracked-iron-bell",
+    "name": "Orsinium Cracked Iron Bell",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_bell_001.png",
+    "zone": "Wrothgar",
+    "item": "",
+    "location": "Reward for excavating Worn Orcish Cauldron"
+  },
+  {
+    "id": "tonal-resonation-chamber",
+    "name": "Tonal Resonation Chamber",
+    "icon": "https://eso-hub.com/storage/icons/antiquities_rourken_heavy_gauntlets_chamber.png",
+    "zone": "West Weald",
+    "item": "Rourken Steamguards",
+    "location": "Rkindaleft Public Dungeon Bosses in the Wrothgar zone.\n Click here to view on map"
+  },
+  {
+    "id": "tusks-of-the-orc-father",
+    "name": "Tusks of the Orc-Father",
+    "icon": "https://eso-hub.com/storage/icons/housing_uni_inc_anttuskoforcfather001.png",
+    "zone": "Wrothgar",
+    "item": "Tusks of the Orc-Father",
+    "location": "Treasure Chests, Public Dungeon Bosses, Monsters, Urns"
+  },
+  {
+    "id": "worn-orcish-cauldron",
+    "name": "Worn Orcish Cauldron",
+    "icon": "https://eso-hub.com/storage/icons/justice_stolen_chamberpot_001.png",
+    "zone": "Wrothgar",
+    "item": "",
+    "location": "Reward for excavating Armless Stone Effigy"
+  }
+]

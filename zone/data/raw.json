@@ -1,0 +1,314 @@
+[
+  {
+    "id": "alikr-desert",
+    "name": "Alik'r Desert",
+    "link": "https://eso-hub.com/en/zones/alikr-desert",
+    "icon": "https://eso-hub.com/storage/headers/alikr-desert-zone-e-s-o-header--j4gd-u-z.jpg"
+  },
+  {
+    "id": "apocrypha",
+    "name": "Apocrypha",
+    "link": "https://eso-hub.com/en/zones/apocrypha",
+    "icon": "https://eso-hub.com/storage/headers/es28pNRCSm5v150DR7j85PfOxbxvwxTY4XrpF7Jd.jpg"
+  },
+  {
+    "id": "artaeum",
+    "name": "Artaeum",
+    "link": "https://eso-hub.com/en/zones/artaeum",
+    "icon": "https://eso-hub.com/storage/headers/artaeum-zone-e-s-o-header-zv-q2d-d.jpg"
+  },
+  {
+    "id": "auridon",
+    "name": "Auridon",
+    "link": "https://eso-hub.com/en/zones/auridon",
+    "icon": "https://eso-hub.com/storage/headers/auridion-zone-e-s-o-header-qxc-u2-a.jpg"
+  },
+  {
+    "id": "bal-foyen",
+    "name": "Bal Foyen",
+    "link": "https://eso-hub.com/en/zones/bal-foyen",
+    "icon": "https://eso-hub.com/storage/headers/bal-foyen-zone-e-s-o-header--y1k2-tb.jpg"
+  },
+  {
+    "id": "bangkorai",
+    "name": "Bangkorai",
+    "link": "https://eso-hub.com/en/zones/bangkorai",
+    "icon": "https://eso-hub.com/storage/headers/bangkorai-zone-e-s-o-header-b-b-j-h-r-c.jpg"
+  },
+  {
+    "id": "battlegrounds",
+    "name": "Battlegrounds",
+    "link": "https://eso-hub.com/en/zones/battlegrounds",
+    "icon": "https://eso-hub.com/storage/headers/battlegrounds-zone-header-picture-e-s-o-header-v-m-r-r-k-b.jpg"
+  },
+  {
+    "id": "betnikh",
+    "name": "Betnikh",
+    "link": "https://eso-hub.com/en/zones/betnikh",
+    "icon": "https://eso-hub.com/storage/headers/betnikh-zone-e-s-o-header--c7h-xp-k.jpg"
+  },
+  {
+    "id": "blackreach-arkthzand-cavern",
+    "name": "Blackreach: Arkthzand Cavern",
+    "link": "https://eso-hub.com/en/zones/blackreach-arkthzand-cavern",
+    "icon": "https://eso-hub.com/storage/headers/the-reach-zone-markarth-d-l-c-e-s-o-header-l-f-d7ca.jpg"
+  },
+  {
+    "id": "blackreach-greymoor-caverns",
+    "name": "Blackreach: Greymoor Caverns",
+    "link": "https://eso-hub.com/en/zones/blackreach-greymoor-caverns",
+    "icon": "https://eso-hub.com/storage/headers/blackreach-zone-e-s-o-header--nhkdd-t.jpg"
+  },
+  {
+    "id": "blackwood",
+    "name": "Blackwood",
+    "link": "https://eso-hub.com/en/zones/blackwood",
+    "icon": "https://eso-hub.com/storage/headers/blackwood-zone-header-header--e-popn-m.jpg"
+  },
+  {
+    "id": "bleakrock-isle",
+    "name": "Bleakrock Isle",
+    "link": "https://eso-hub.com/en/zones/bleakrock-isle",
+    "icon": "https://eso-hub.com/storage/headers/blackrock-isle-zone-e-s-o-header-h-q-i-ut9.jpg"
+  },
+  {
+    "id": "clockwork-city",
+    "name": "Clockwork City",
+    "link": "https://eso-hub.com/en/zones/clockwork-city",
+    "icon": "https://eso-hub.com/storage/headers/clockwork-city-zone-e-s-o-header-g3s-l5o.jpg"
+  },
+  {
+    "id": "coldharbour",
+    "name": "Coldharbour",
+    "link": "https://eso-hub.com/en/zones/coldharbour",
+    "icon": "https://eso-hub.com/storage/headers/coldharbour-zone-e-s-o-header--xjz-d-i-m.jpg"
+  },
+  {
+    "id": "craglorn",
+    "name": "Craglorn",
+    "link": "https://eso-hub.com/en/zones/craglorn",
+    "icon": "https://eso-hub.com/storage/headers/crownlorn-bridge-header.jpg"
+  },
+  {
+    "id": "cyrodiil",
+    "name": "Cyrodiil",
+    "link": "https://eso-hub.com/en/zones/cyrodiil",
+    "icon": "https://eso-hub.com/storage/headers/https://laravel.eso-hub.com/en/sets/ebon-armory-header-b2-l-o23.jpg"
+  },
+  {
+    "id": "deadlands",
+    "name": "Deadlands",
+    "link": "https://eso-hub.com/en/zones/deadlands",
+    "icon": "https://eso-hub.com/storage/headers/deadlands-d-l-c-e-s-o-header-s2nxc-g.jpg"
+  },
+  {
+    "id": "deshaan",
+    "name": "Deshaan",
+    "link": "https://eso-hub.com/en/zones/deshaan",
+    "icon": "https://eso-hub.com/storage/headers/deshaan-zone-e-s-o-header--cc-cz-ef.jpg"
+  },
+  {
+    "id": "eastmarch",
+    "name": "Eastmarch",
+    "link": "https://eso-hub.com/en/zones/eastmarch",
+    "icon": "https://eso-hub.com/storage/headers/eastmarch-zone-e-s-o-header--f33y-t-s.jpg"
+  },
+  {
+    "id": "eyevea",
+    "name": "Eyevea",
+    "link": "https://eso-hub.com/en/zones/eyevea",
+    "icon": "https://eso-hub.com/storage/headers/eyeeva-zone-e-s-o-header-n-rr71-b.jpg"
+  },
+  {
+    "id": "fargrave",
+    "name": "Fargrave",
+    "link": "https://eso-hub.com/en/zones/fargrave",
+    "icon": "https://eso-hub.com/storage/headers/deadlands-header-image-e-s-o-header-ln5-kk-w.jpg"
+  },
+  {
+    "id": "galen-and-yffelon",
+    "name": "Galen and Y'ffelon",
+    "link": "https://eso-hub.com/en/zones/galen-and-yffelon",
+    "icon": "https://eso-hub.com/storage/headers/T92dS1Ry8LEoeEELIZGGpTTAoGjas69qK2vQdDKz.jpg"
+  },
+  {
+    "id": "glenumbra",
+    "name": "Glenumbra",
+    "link": "https://eso-hub.com/en/zones/glenumbra",
+    "icon": "https://eso-hub.com/storage/headers/glenumbra-zone-e-s-o-header-j8qkrj.jpg"
+  },
+  {
+    "id": "gold-coast",
+    "name": "Gold Coast",
+    "link": "https://eso-hub.com/en/zones/gold-coast",
+    "icon": "https://eso-hub.com/storage/headers/gold-coast-zone-e-s-o-header-fv-ei-le.jpg"
+  },
+  {
+    "id": "grahtwood",
+    "name": "Grahtwood",
+    "link": "https://eso-hub.com/en/zones/grahtwood",
+    "icon": "https://eso-hub.com/storage/headers/grathwood-zone-e-s-o-header-4m-h2dc.jpg"
+  },
+  {
+    "id": "greenshade",
+    "name": "Greenshade",
+    "link": "https://eso-hub.com/en/zones/greenshade",
+    "icon": "https://eso-hub.com/storage/headers/greenshade-zone-e-s-o-header-udz9-y-o.jpg"
+  },
+  {
+    "id": "hews-bane",
+    "name": "Hew's Bane",
+    "link": "https://eso-hub.com/en/zones/hews-bane",
+    "icon": "https://eso-hub.com/storage/headers/hews-bane-zone-e-s-o-header--bn-s-tv9.jpg"
+  },
+  {
+    "id": "high-isle-and-amenos",
+    "name": "High Isle and Amenos",
+    "link": "https://eso-hub.com/en/zones/high-isle-and-amenos",
+    "icon": "https://eso-hub.com/storage/headers/glenumbra-zone-e-s-o-header-j8qkrj.jpg"
+  },
+  {
+    "id": "imperial-city",
+    "name": "Imperial City",
+    "link": "https://eso-hub.com/en/zones/imperial-city",
+    "icon": "https://eso-hub.com/storage/headers/imperial-city-zone-e-s-o-header-2-sucs-l.jpg"
+  },
+  {
+    "id": "imperial-sewers",
+    "name": "Imperial Sewers",
+    "link": "https://eso-hub.com/en/zones/imperial-sewers",
+    "icon": "https://eso-hub.com/storage/headers/imperial-sewers-zone-banner-picture-header--fu-zw-rd.jpg"
+  },
+  {
+    "id": "khenarthis-roost",
+    "name": "Khenarthi's Roost",
+    "link": "https://eso-hub.com/en/zones/khenarthis-roost",
+    "icon": "https://eso-hub.com/storage/headers/khenarthis-roost-zone-e-s-o-header--f-z-r-r-y2.jpg"
+  },
+  {
+    "id": "malabal-tor",
+    "name": "Malabal Tor",
+    "link": "https://eso-hub.com/en/zones/malabal-tor",
+    "icon": "https://eso-hub.com/storage/headers/malabal-tor-zone-e-s-o-header--yr-ye-sa.jpg"
+  },
+  {
+    "id": "murkmire",
+    "name": "Murkmire",
+    "link": "https://eso-hub.com/en/zones/murkmire",
+    "icon": "https://eso-hub.com/storage/headers/murkmire-zone-e-s-o-header-t-sas-g0.jpg"
+  },
+  {
+    "id": "northern-elsweyr",
+    "name": "Northern Elsweyr",
+    "link": "https://eso-hub.com/en/zones/northern-elsweyr",
+    "icon": "https://eso-hub.com/storage/headers/northern-elsweyr-zone-e-s-o-header-8f-wx0-n.jpg"
+  },
+  {
+    "id": "reapers-march",
+    "name": "Reaper's March",
+    "link": "https://eso-hub.com/en/zones/reapers-march",
+    "icon": "https://eso-hub.com/storage/headers/reapers-march-zone-e-s-o-header-h9-b-j9p.jpg"
+  },
+  {
+    "id": "rivenspire",
+    "name": "Rivenspire",
+    "link": "https://eso-hub.com/en/zones/rivenspire",
+    "icon": "https://eso-hub.com/storage/headers/rivenspire-zone-e-s-o-header-ey-d-lh2.jpg"
+  },
+  {
+    "id": "shadowfen",
+    "name": "Shadowfen",
+    "link": "https://eso-hub.com/en/zones/shadowfen",
+    "icon": "https://eso-hub.com/storage/headers/shadowfen-zone-e-s-o-header-gb7ey-k.jpg"
+  },
+  {
+    "id": "southern-elsweyr",
+    "name": "Southern Elsweyr",
+    "link": "https://eso-hub.com/en/zones/southern-elsweyr",
+    "icon": "https://eso-hub.com/storage/headers/southern-elsweyr-zone-e-s-o-header-8x-ny-od.jpg"
+  },
+  {
+    "id": "stonefalls",
+    "name": "Stonefalls",
+    "link": "https://eso-hub.com/en/zones/stonefalls",
+    "icon": "https://eso-hub.com/storage/headers/stonefalls-zone-e-s-o-header-j-yft-t-h.jpg"
+  },
+  {
+    "id": "stormhaven",
+    "name": "Stormhaven",
+    "link": "https://eso-hub.com/en/zones/stormhaven",
+    "icon": "https://eso-hub.com/storage/headers/stormhaven-zone-e-s-o-header-pz-r-t-oh.jpg"
+  },
+  {
+    "id": "stros-mkai",
+    "name": "Stros M'Kai",
+    "link": "https://eso-hub.com/en/zones/stros-mkai",
+    "icon": "https://eso-hub.com/storage/headers/stros-mkai-zone-e-s-o-header--d-vs-o-js.jpg"
+  },
+  {
+    "id": "summerset",
+    "name": "Summerset",
+    "link": "https://eso-hub.com/en/zones/summerset",
+    "icon": "https://eso-hub.com/storage/headers/summerset-zone-e-s-o-header-5y-oe-f1.jpg"
+  },
+  {
+    "id": "telvanni-peninsula",
+    "name": "Telvanni Peninsula",
+    "link": "https://eso-hub.com/en/zones/telvanni-peninsula",
+    "icon": "https://eso-hub.com/storage/headers/es28pNRCSm5v150DR7j85PfOxbxvwxTY4XrpF7Jd.jpg"
+  },
+  {
+    "id": "the-brass-fortress",
+    "name": "The Brass Fortress",
+    "link": "https://eso-hub.com/en/zones/the-brass-fortress",
+    "icon": "https://eso-hub.com/storage/headers/clockwork-city-zone-e-s-o-header-g3s-l5o.jpg"
+  },
+  {
+    "id": "the-earth-forge",
+    "name": "The Earth Forge",
+    "link": "https://eso-hub.com/en/zones/the-earth-forge",
+    "icon": "https://eso-hub.com/storage/headers/earthforge-zone-e-s-o-header--u-mh-m0l.jpg"
+  },
+  {
+    "id": "the-reach",
+    "name": "The Reach",
+    "link": "https://eso-hub.com/en/zones/the-reach",
+    "icon": "https://eso-hub.com/storage/headers/markarth-d-l-c-e-s-o-header-10-h-x-i4.jpg"
+  },
+  {
+    "id": "the-rift",
+    "name": "The Rift",
+    "link": "https://eso-hub.com/en/zones/the-rift",
+    "icon": "https://eso-hub.com/storage/headers/the-rift-zone-e-s-o-header-xc-b-x-a-l.jpg"
+  },
+  {
+    "id": "tideholm",
+    "name": "Tideholm",
+    "link": "https://eso-hub.com/en/zones/tideholm",
+    "icon": "https://eso-hub.com/storage/headers/southern-elsweyr-zone-e-s-o-header-8x-ny-od.jpg"
+  },
+  {
+    "id": "vvardenfell",
+    "name": "Vvardenfell",
+    "link": "https://eso-hub.com/en/zones/vvardenfell",
+    "icon": "https://eso-hub.com/storage/headers/vvardenfell-zone-e-s-o-header-nywi9-l.jpg"
+  },
+  {
+    "id": "west-weald",
+    "name": "West Weald",
+    "link": "https://eso-hub.com/en/zones/west-weald",
+    "icon": "https://eso-hub.com/storage/headers/IzvycpXsQ5Ns4fqvAFpml7eqqfgBjyz3ZuGkrop2.jpg"
+  },
+  {
+    "id": "western-skyrim",
+    "name": "Western Skyrim",
+    "link": "https://eso-hub.com/en/zones/western-skyrim",
+    "icon": "https://eso-hub.com/storage/headers/western-skyrim-zone-e-s-o-header-e6t-x0-v.jpg"
+  },
+  {
+    "id": "wrothgar",
+    "name": "Wrothgar",
+    "link": "https://eso-hub.com/en/zones/wrothgar",
+    "icon": "https://eso-hub.com/storage/headers/wrothgar-zone-e-s-o-header-mpt-lo-t.jpg"
+  }
+]

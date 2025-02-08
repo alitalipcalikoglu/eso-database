@@ -1,0 +1,347 @@
+[
+  {
+    "id": "empower",
+    "name": "Empower",
+    "description": "Increases the damage of your Heavy Attacks by 70%."
+  },
+  {
+    "id": "major-aegis",
+    "name": "Major Aegis",
+    "description": "Decreases Damage Taken in Dungeons & Trials by 10%"
+  },
+  {
+    "id": "major-berserk",
+    "name": "Major Berserk",
+    "description": "Increases all damage done by 10%"
+  },
+  {
+    "id": "major-breach",
+    "name": "Major Breach",
+    "description": "Reduces Physical and Spell Resistance by 5948"
+  },
+  {
+    "id": "major-brittle",
+    "name": "Major Brittle",
+    "description": "Increases Critical Damage taken by 20%"
+  },
+  {
+    "id": "major-brutality",
+    "name": "Major Brutality",
+    "description": "Increases Weapon Damage by 20%"
+  },
+  {
+    "id": "major-courage",
+    "name": "Major Courage",
+    "description": "Increases Weapon Damage and Spell Damage by 430"
+  },
+  {
+    "id": "major-cowardice",
+    "name": "Major Cowardice",
+    "description": "Reduces Weapon Damage and Spell Damage by 430"
+  },
+  {
+    "id": "major-defile",
+    "name": "Major Defile",
+    "description": "Reduces Healing Received and Health Recovery by 16%"
+  },
+  {
+    "id": "major-endurance",
+    "name": "Major Endurance",
+    "description": "Increases your Stamina Recovery by 30%"
+  },
+  {
+    "id": "major-enervation",
+    "name": "Major Enervation",
+    "description": "Reduces Critical Damage by ?%"
+  },
+  {
+    "id": "major-evasion",
+    "name": "Major Evasion",
+    "description": "Reduces damage taken from Area of Effect attacks by 20%"
+  },
+  {
+    "id": "major-expedition",
+    "name": "Major Expedition",
+    "description": "Increases Movement Speed by 30%"
+  },
+  {
+    "id": "major-force",
+    "name": "Major Force",
+    "description": "Increases Critical Damage by 20%"
+  },
+  {
+    "id": "major-fortitude",
+    "name": "Major Fortitude",
+    "description": "Increases Health Recovery by 30%"
+  },
+  {
+    "id": "major-gallop",
+    "name": "Major Gallop",
+    "description": "Increases Mounted Speed by 30%"
+  },
+  {
+    "id": "major-heroism",
+    "name": "Major Heroism",
+    "description": "Grants 3 Ultimate every 1.5 seconds"
+  },
+  {
+    "id": "major-intellect",
+    "name": "Major Intellect",
+    "description": "Increases your Magicka Recovery by 30%"
+  },
+  {
+    "id": "major-lifesteal",
+    "name": "Major Lifesteal",
+    "description": "Heals ? Health every second for you and allies who damage the target"
+  },
+  {
+    "id": "major-magickasteal",
+    "name": "Major Magickasteal",
+    "description": "Restores ? Magicka every second to you and allies who damage the target"
+  },
+  {
+    "id": "major-maim",
+    "name": "Major Maim",
+    "description": "Reduces damage done by 10%"
+  },
+  {
+    "id": "major-mangle",
+    "name": "Major Mangle",
+    "description": "Reduces Maximum Health by ?%"
+  },
+  {
+    "id": "major-mending",
+    "name": "Major Mending",
+    "description": "Increases Healing Done by 16%"
+  },
+  {
+    "id": "major-prophecy",
+    "name": "Major Prophecy",
+    "description": "Increases Spell Critical chance by 12%"
+  },
+  {
+    "id": "major-protection",
+    "name": "Major Protection",
+    "description": "Reduces damage taken by 10%"
+  },
+  {
+    "id": "major-resolve",
+    "name": "Major Resolve",
+    "description": "Increases Physical Resistance and Spell Resistance by 5948"
+  },
+  {
+    "id": "major-savagery",
+    "name": "Major Savagery",
+    "description": "Increases Weapon Critical by 12%"
+  },
+  {
+    "id": "major-slayer",
+    "name": "Major Slayer",
+    "description": "Increases damage dealt in Dungeons and Trials by 10%"
+  },
+  {
+    "id": "major-sorcery",
+    "name": "Major Sorcery",
+    "description": "Increases Spell Damage by 20%"
+  },
+  {
+    "id": "major-timidity",
+    "name": "Major Timidity",
+    "description": "Unknown"
+  },
+  {
+    "id": "major-toughness",
+    "name": "Major Toughness",
+    "description": "Increases Maximum Health by ?"
+  },
+  {
+    "id": "major-uncertainty",
+    "name": "Major Uncertainty",
+    "description": "Reduces Critical Chance by 1314"
+  },
+  {
+    "id": "major-vitality",
+    "name": "Major Vitality",
+    "description": "Increases Healing Received by 16%"
+  },
+  {
+    "id": "major-vulnerability",
+    "name": "Major Vulnerability",
+    "description": "Increases Damage Taken by 10%"
+  },
+  {
+    "id": "minor-aegis",
+    "name": "Minor Aegis",
+    "description": "Decreases Damage Taken in Dungeons & Trials by 5%"
+  },
+  {
+    "id": "minor-berserk",
+    "name": "Minor Berserk",
+    "description": "Increases all damage done by 5%"
+  },
+  {
+    "id": "minor-breach",
+    "name": "Minor Breach",
+    "description": "Reduces Physical and Spell Resistance by 2974"
+  },
+  {
+    "id": "minor-brittle",
+    "name": "Minor Brittle",
+    "description": "Increases Critical Damage taken by 10%"
+  },
+  {
+    "id": "minor-brutality",
+    "name": "Minor Brutality",
+    "description": "Increases Weapon Damage by 10%"
+  },
+  {
+    "id": "minor-courage",
+    "name": "Minor Courage",
+    "description": "Increases Weapon Damage and Spell Damage by 215"
+  },
+  {
+    "id": "minor-cowardice",
+    "name": "Minor Cowardice",
+    "description": "Reduces Weapon Damage and Spell Damage by 215"
+  },
+  {
+    "id": "minor-defile",
+    "name": "Minor Defile",
+    "description": "Reduces Healing Received and Health Recovery by 8%"
+  },
+  {
+    "id": "minor-endurance",
+    "name": "Minor Endurance",
+    "description": "Increases your Stamina Recovery by 15%"
+  },
+  {
+    "id": "minor-enervation",
+    "name": "Minor Enervation",
+    "description": "Reduces Critical Damage by 10%"
+  },
+  {
+    "id": "minor-evasion",
+    "name": "Minor Evasion",
+    "description": "Reduces damage taken from Area of Effect attacks by 10%"
+  },
+  {
+    "id": "minor-expedition",
+    "name": "Minor Expedition",
+    "description": "Increases Movement Speed by 15%"
+  },
+  {
+    "id": "minor-force",
+    "name": "Minor Force",
+    "description": "Increases Critical Damage by 10%"
+  },
+  {
+    "id": "minor-fortitude",
+    "name": "Minor Fortitude",
+    "description": "Increases Health Recovery by 15%"
+  },
+  {
+    "id": "minor-gallop",
+    "name": "Minor Gallop",
+    "description": "Increases Mounted Speed by ?%"
+  },
+  {
+    "id": "minor-heroism",
+    "name": "Minor Heroism",
+    "description": "Grants 1 Ultimate every 1.5 seconds"
+  },
+  {
+    "id": "minor-intellect",
+    "name": "Minor Intellect",
+    "description": "Increases your Magicka Recovery by 15%"
+  },
+  {
+    "id": "minor-lifesteal",
+    "name": "Minor Lifesteal",
+    "description": "Heals 600 Health every second for you and allies who damage the target"
+  },
+  {
+    "id": "minor-magickasteal",
+    "name": "Minor Magickasteal",
+    "description": "Restores 168 Magicka every second to you and allies who damage the target"
+  },
+  {
+    "id": "minor-maim",
+    "name": "Minor Maim",
+    "description": "Reduces damage done by 5%"
+  },
+  {
+    "id": "minor-mangle",
+    "name": "Minor Mangle",
+    "description": "Reduces Maximum Health by 10%"
+  },
+  {
+    "id": "minor-mending",
+    "name": "Minor Mending",
+    "description": "Increases Healing Done by 8%"
+  },
+  {
+    "id": "minor-prophecy",
+    "name": "Minor Prophecy",
+    "description": "Increases Spell Critical chance by 6%"
+  },
+  {
+    "id": "minor-protection",
+    "name": "Minor Protection",
+    "description": "Reduces damage taken by 5%"
+  },
+  {
+    "id": "minor-resolve",
+    "name": "Minor Resolve",
+    "description": "Increases Physical Resistance and Spell Resistance by 2974"
+  },
+  {
+    "id": "minor-savagery",
+    "name": "Minor Savagery",
+    "description": "Increases Weapon Critical by 6%"
+  },
+  {
+    "id": "minor-slayer",
+    "name": "Minor Slayer",
+    "description": "Increases damage dealt in Dungeons and Trials by 5%"
+  },
+  {
+    "id": "minor-sorcery",
+    "name": "Minor Sorcery",
+    "description": "Increases Spell Damage by 10%"
+  },
+  {
+    "id": "minor-timidity",
+    "name": "Minor Timidity",
+    "description": "Drains 1 Ultimate every 1.5 seconds for 10 seconds."
+  },
+  {
+    "id": "minor-toughness",
+    "name": "Minor Toughness",
+    "description": "Increases Maximum Health by 10%"
+  },
+  {
+    "id": "minor-uncertainty",
+    "name": "Minor Uncertainty",
+    "description": "Reduces Critical Chance by 657"
+  },
+  {
+    "id": "minor-vitality",
+    "name": "Minor Vitality",
+    "description": "Increases Healing Received by 8%"
+  },
+  {
+    "id": "minor-vulnerability",
+    "name": "Minor Vulnerability",
+    "description": "Increases Damage Taken by 5%"
+  },
+  {
+    "id": "reave",
+    "name": "Reave",
+    "description": "Restores 100 Magicka and 100 Stamina when you deal damage with a Light Attack or Heavy Attack on an enemy with a negative effect active on them"
+  },
+  {
+    "id": "stagger",
+    "name": "Stagger",
+    "description": "Increases damage taken by 65 per stack for 5 seconds. "
+  }
+]

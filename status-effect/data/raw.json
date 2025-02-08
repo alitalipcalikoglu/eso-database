@@ -1,0 +1,50 @@
+[
+  {
+    "id": "burning",
+    "name": "Burning",
+    "icon": "https://eso-hub.com/storage/icons/ability_mage_062.png",
+    "description": "Target burns for additional damage over 4 seconds."
+  },
+  {
+    "id": "chilled",
+    "name": "Chilled",
+    "icon": "https://eso-hub.com/storage/icons/ability_mage_012.png",
+    "description": "Instant damage. Applies Minor Maim for 4 seconds, reducing target’s damage done. Also applies Minor Brittle increasing the critical damage done to the target. Note that a frost staff has to be on your active bar when Chilled is applied to proc Minor Brittle."
+  },
+  {
+    "id": "concussion",
+    "name": "Concussion",
+    "icon": "https://eso-hub.com/storage/icons/ability_mage_016.png",
+    "description": "Instant damage and adds extra damage if target was recently Concussed. Applies Minor Vulnerability for 4 seconds, increasing their damage taken."
+  },
+  {
+    "id": "diseased",
+    "name": "Diseased",
+    "icon": "https://eso-hub.com/storage/icons/ability_healer_020.png",
+    "description": "Instant damage, Also deals additional damage in a 6 meter radius around the target. Applies Minor Defile for 4 seconds, decreasing healing taken and health recovery."
+  },
+  {
+    "id": "hemorrhaging",
+    "name": "Hemorrhaging",
+    "icon": "https://eso-hub.com/storage/icons/ability_mage_023.png",
+    "description": "Target bleeds over 4 seconds, stacks up to 3 times and increases damage per stack by 25%."
+  },
+  {
+    "id": "overcharged",
+    "name": "Overcharged",
+    "icon": "https://eso-hub.com/storage/icons/ability_mage_041.png",
+    "description": "Instant damage. Instantly restores 65 Magicka to its activator. Applies Minor Magickasteal for 4 seconds, causing attackers to restore Magicka."
+  },
+  {
+    "id": "poisoned",
+    "name": "Poisoned",
+    "icon": "https://eso-hub.com/storage/icons/ability_rogue_030.png",
+    "description": "Deals Poison Damage over 4 seconds. Is considered execute damage. Deals 100% bonus damage to targets under 100% health."
+  },
+  {
+    "id": "sundered",
+    "name": "Sundered",
+    "icon": "https://eso-hub.com/storage/icons/ability_rogue_029.png",
+    "description": "Instant damage and grants you 100 Weapon and Spell Damage for 4 seconds."
+  }
+]

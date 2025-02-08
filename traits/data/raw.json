@@ -1,0 +1,233 @@
+[
+  {
+    "id": "divines-armor",
+    "name": "Divines",
+    "icon": "https://eso-hub.com/storage/icons/crafting_accessory_sp_names_001.png",
+    "description": "Increases Mundus Stone effects by 9.1%.",
+    "type": "Armor"
+  },
+  {
+    "id": "impenetrable-armor",
+    "name": "Impenetrable",
+    "icon": "https://eso-hub.com/storage/icons/crafting_jewelry_base_diamond_r3.png",
+    "description": "Increases Critical Resistance by 132 and this item takes 50% less durability damage.",
+    "type": "Armor"
+  },
+  {
+    "id": "infused-armor",
+    "name": "Infused",
+    "icon": "https://eso-hub.com/storage/icons/crafting_enchantment_baxe_bloodstone_r2.png",
+    "description": "Increase armor enchantment effect by 25%.",
+    "type": "Armor"
+  },
+  {
+    "id": "intricate-armor",
+    "name": "Intricate",
+    "icon": "https://eso-hub.com/storage/icons/icon_experience.png",
+    "description": "Increases inspiration gained from deconstruction of this item by 300%, and gain additional refined material upon deconstruction of this item.",
+    "type": "Armor"
+  },
+  {
+    "id": "invigorating-armor",
+    "name": "Invigorating",
+    "icon": "https://eso-hub.com/storage/icons/crafting_jewelry_base_garnet_r3.png",
+    "description": "Increases Health, Magicka, and Stamina Recovery by 16.",
+    "type": "Armor"
+  },
+  {
+    "id": "nirnhoned-armor",
+    "name": "Nirnhoned",
+    "icon": "https://eso-hub.com/storage/icons/crafting_potent_nirncrux_stone.png",
+    "description": "Increases Physical and Spell Resistance by 253.",
+    "type": "Armor"
+  },
+  {
+    "id": "ornate-armor",
+    "name": "Ornate",
+    "icon": "https://eso-hub.com/storage/icons/item_generic_coinbag.png",
+    "description": "Increases this item's sell price by 300%.",
+    "type": "Armor"
+  },
+  {
+    "id": "reinforced-armor",
+    "name": "Reinforced",
+    "icon": "https://eso-hub.com/storage/icons/crafting_enchantment_base_sardonyx_r2.png",
+    "description": "Increases this item's Armor value by 16%.",
+    "type": "Armor"
+  },
+  {
+    "id": "sturdy-armor",
+    "name": "Sturdy",
+    "icon": "https://eso-hub.com/storage/icons/crafting_runecrafter_plug_component_002.png",
+    "description": "Reduces the cost of Block by 4%.",
+    "type": "Armor"
+  },
+  {
+    "id": "training-armor",
+    "name": "Training",
+    "icon": "https://eso-hub.com/storage/icons/crafting_jewelry_base_emerald_r2.png",
+    "description": "Increase experience gained from kills by 11%.",
+    "type": "Armor"
+  },
+  {
+    "id": "well-fitted-armor",
+    "name": "Well-fitted",
+    "icon": "https://eso-hub.com/storage/icons/crafting_accessory_sp_names_002.png",
+    "description": "Reduces the cost of Roll Dodge and Sprint by 6%.",
+    "type": "Armor"
+  },
+  {
+    "id": "charged-weapon",
+    "name": "Charged",
+    "icon": "https://eso-hub.com/storage/icons/crafting_jewelry_base_amethyst_r3.png",
+    "description": "Increases chance to apply status effects by 117.5%.",
+    "type": "Weapon"
+  },
+  {
+    "id": "decisive-weapon",
+    "name": "Decisive",
+    "icon": "https://eso-hub.com/storage/icons/crafting_smith_potion__sp_names_003.png",
+    "description": "When you gain Ultimate you have a 27.5% chance to gain 1 additional Ultimate.",
+    "type": "Weapon"
+  },
+  {
+    "id": "defending-weapon",
+    "name": "Defending",
+    "icon": "https://eso-hub.com/storage/icons/crafting_jewelry_base_turquoise_r3.png",
+    "description": "Increases Physical and Spell Resistance by 1638.",
+    "type": "Weapon"
+  },
+  {
+    "id": "infused-weapon",
+    "name": "Infused",
+    "icon": "https://eso-hub.com/storage/icons/crafting_enchantment_base_jade_r2.png",
+    "description": "Increases weapon enchantment effect by 30% and reduces enchantment cooldown by 50%.",
+    "type": "Weapon"
+  },
+  {
+    "id": "intricate-weapon",
+    "name": "Intricate",
+    "icon": "https://eso-hub.com/storage/icons/icon_experience.png",
+    "description": "Increases inspiration gained from deconstruction of this item by 300%, and gain additional refined material upon deconstruction of this item.",
+    "type": "Weapon"
+  },
+  {
+    "id": "nirnhoned-weapon",
+    "name": "Nirnhoned",
+    "icon": "https://eso-hub.com/storage/icons/crafting_potent_nirncrux_dust.png",
+    "description": "Increases Damage of this weapon by 15%.",
+    "type": "Weapon"
+  },
+  {
+    "id": "ornate-weapon",
+    "name": "Ornate",
+    "icon": "https://eso-hub.com/storage/icons/item_generic_coinbag.png",
+    "description": "Increases this item's sell price by 300%.",
+    "type": "Weapon"
+  },
+  {
+    "id": "powered-weapon",
+    "name": "Powered",
+    "icon": "https://eso-hub.com/storage/icons/crafting_runecrafter_potion_008.png",
+    "description": "Increases healing done by 4.5%.",
+    "type": "Weapon"
+  },
+  {
+    "id": "precise-weapon",
+    "name": "Precise",
+    "icon": "https://eso-hub.com/storage/icons/crafting_jewelry_base_ruby_r3.png",
+    "description": "Increases Weapon and Spell Critical by 3.6%.",
+    "type": "Weapon"
+  },
+  {
+    "id": "sharpened-weapon",
+    "name": "Sharpened",
+    "icon": "https://eso-hub.com/storage/icons/crafting_enchantment_base_fire_opal_r3.png",
+    "description": "Increases Physical and Spell Penetration by 1638.",
+    "type": "Weapon"
+  },
+  {
+    "id": "training-weapon",
+    "name": "Training",
+    "icon": "https://eso-hub.com/storage/icons/crafting_runecrafter_armor_component_004.png",
+    "description": "Increases experience gained from kills by 4.5%.",
+    "type": "Weapon"
+  },
+  {
+    "id": "arcane-jewelry",
+    "name": "Arcane",
+    "icon": "https://eso-hub.com/storage/icons/jewelrycrafting_trait_refined_cobalt.png",
+    "description": "Increases Maximum Magicka by 877.",
+    "type": "Jewelry"
+  },
+  {
+    "id": "bloodthirsty-jewelry",
+    "name": "Bloodthirsty",
+    "icon": "https://eso-hub.com/storage/icons/crafting_enchantment_baxe_bloodstone_r1.png",
+    "description": "Increases your Weapon and Spell Damage against enemies under 90% Health by up to 350.",
+    "type": "Jewelry"
+  },
+  {
+    "id": "harmony-jewelry",
+    "name": "Harmony",
+    "icon": "https://eso-hub.com/storage/icons/crafting_metals_tin.png",
+    "description": "Activating a synergy restores 880 Health, Magicka, and Stamina.",
+    "type": "Jewelry"
+  },
+  {
+    "id": "healthy-jewelry",
+    "name": "Healthy",
+    "icon": "https://eso-hub.com/storage/icons/jewelrycrafting_trait_refined_antimony.png",
+    "description": "Increases Maximum Health by 965.",
+    "type": "Jewelry"
+  },
+  {
+    "id": "infused-jewelry",
+    "name": "Infused",
+    "icon": "https://eso-hub.com/storage/icons/crafting_enchantment_base_jade_r1.png",
+    "description": "Increases jewelry enchantment effectiveness by 60%.",
+    "type": "Jewelry"
+  },
+  {
+    "id": "intricate-jewelry",
+    "name": "Intricate",
+    "icon": "https://eso-hub.com/storage/icons/icon_experience.png",
+    "description": "Increases inspiration gained from deconstruction of this item by 400%, and gain additional refined material upon deconstruction of this item.",
+    "type": "Jewelry"
+  },
+  {
+    "id": "ornate-jewelry",
+    "name": "Ornate",
+    "icon": "https://eso-hub.com/storage/icons/item_generic_coinbag.png",
+    "description": "Increases this item's sell price by 300%.",
+    "type": "Jewelry"
+  },
+  {
+    "id": "protective-jewelry",
+    "name": "Protective",
+    "icon": "https://eso-hub.com/storage/icons/crafting_runecrafter_armor_component_006.png",
+    "description": "Increases Spell Resistance and Physical Resistance by 1190.",
+    "type": "Jewelry"
+  },
+  {
+    "id": "robust-jewelry",
+    "name": "Robust",
+    "icon": "https://eso-hub.com/storage/icons/jewelrycrafting_trait_refined_zinc.png",
+    "description": "Increases Maximum Stamina by 877.",
+    "type": "Jewelry"
+  },
+  {
+    "id": "swift-jewelry",
+    "name": "Swift",
+    "icon": "https://eso-hub.com/storage/icons/crafting_outfitter_plug_component_002.png",
+    "description": "Increases movement speed by 7%.",
+    "type": "Jewelry"
+  },
+  {
+    "id": "triune-jewelry",
+    "name": "Triune",
+    "icon": "https://eso-hub.com/storage/icons/jewelrycrafting_trait_refined_dawnprism.png",
+    "description": "Increases Maximum Magicka by 439, Maximum Stamina by 439, and Maximum Health by 482.",
+    "type": "Jewelry"
+  }
+]
